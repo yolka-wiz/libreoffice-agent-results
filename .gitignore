@@ -1,0 +1,16 @@
+# secrets — never
+.env
+*.pem
+*.key
+
+# heavy artifacts — keep the repo lean
+*.db
+*.sqlite
+*.tags
+.venv/
+__pycache__/
+*.pyc
+node_modules/
+
+# OS junk
+.DS_Store
