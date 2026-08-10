@@ -1,10 +1,10 @@
 # Cluster Status — LibreOffice Writer autonomous cluster
 
-_Updated 2026-08-10T08:27_ — [standard](cluster/standards.md) · [history DB](playground/data/cluster_history.db)
+_Updated 2026-08-10T10:03_ — [standard](cluster/standards.md) · [history DB](playground/data/cluster_history.db)
 
 ## Summary
 
-- Tasks: **5** total · **5** pending · **0** commits · **0** reverts
+- Tasks: **5** total · **4** pending · **0** commits · **0** reverts
 
 ## Tasks
 
@@ -14,18 +14,24 @@ _Updated 2026-08-10T08:27_ — [standard](cluster/standards.md) · [history DB](
 | 4 | tdf#119931 | Fix accessibility warnings in sw uiconfig .ui fi | sw | S | pending |   |
 | 3 | opt-f1 | Writer: constant-string text measurement rebuild | sw | S | pending |   |
 | 2 | tdf#35055 | Background image covers paragraph shadow in layo | sw | M | pending |   |
-| 1 | tdf#90152 | Formatting of printed comments is hard to read ( | sw | S | pending |   |
+| 1 | tdf#90152 | Formatting of printed comments is hard to read ( | sw | S | blocked |   |
 
 ## Recent actions
 
 | ts | agent | action | target | status |
 |---|---|---|---|---|
-| 2026-08-10 08:27:02 | indexer | prune | knowledge#225 | ok |
-| 2026-08-10 08:27:01 | seed | add_task | task#5 | ok |
-| 2026-08-10 08:27:01 | seed | add_task | task#4 | ok |
-| 2026-08-10 08:27:01 | seed | add_task | task#3 | ok |
-| 2026-08-10 08:27:01 | seed | add_task | task#2 | ok |
-| 2026-08-10 08:27:01 | seed | add_task | task#1 | ok |
+| 2026-08-10 10:03:07 | conductor | block | task#1 | ok |
+| 2026-08-10 10:03:07 | inspector_b | implement | task#1 | ok |
+| 2026-08-10 09:34:24 | inspector_b | implement | task#1 | ok |
+| 2026-08-10 09:34:24 | inspector_a | investigate | task#1 | ok |
+| 2026-08-10 09:24:43 | inspector_a | investigate | task#1 | ok |
+| 2026-08-10 09:24:43 | searcher | upstream_check | task#1 | ok |
+| 2026-08-10 09:23:54 | searcher | upstream_check | task#1 | ok |
+| 2026-08-10 09:23:54 | conductor | claim | task#1 | ok |
+| 2026-08-10 09:23:32 | conductor | reset | task#1 | ok |
+| 2026-08-10 09:19:30 | conductor | block | task#1 | ok |
+| 2026-08-10 09:19:30 | inspector_a | investigate | task#1 | ok |
+| 2026-08-10 09:04:30 | inspector_a | investigate | task#1 | ok |
 
 ## Commits (pushed branches)
 
