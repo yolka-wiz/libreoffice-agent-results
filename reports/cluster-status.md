@@ -1,10 +1,10 @@
 # Cluster Status — LibreOffice Writer autonomous cluster
 
-_Updated 2026-08-10T10:43_ — [standard](cluster/standards.md) · [history DB](playground/data/cluster_history.db)
+_Updated 2026-08-10T11:15_ — [standard](cluster/standards.md) · [history DB](playground/data/cluster_history.db)
 
 ## Summary
 
-- Tasks: **5** total · **4** pending · **0** commits · **0** reverts
+- Tasks: **5** total · **4** pending · **1** commits · **0** reverts
 
 ## Tasks
 
@@ -14,29 +14,30 @@ _Updated 2026-08-10T10:43_ — [standard](cluster/standards.md) · [history DB](
 | 4 | tdf#119931 | Fix accessibility warnings in sw uiconfig .ui fi | sw | S | pending |   |
 | 3 | opt-f1 | Writer: constant-string text measurement rebuild | sw | S | pending |   |
 | 2 | tdf#35055 | Background image covers paragraph shadow in layo | sw | M | pending |   |
-| 1 | tdf#90152 | Formatting of printed comments is hard to read ( | sw | S | blocked |   |
+| 1 | tdf#90152 | Formatting of printed comments is hard to read ( | sw | S | pr_ready | writer/tdf-90152-postit-print-locale 76898c2bffc6b5c23c9b96e1217d6dd25790844f |
 
 ## Recent actions
 
 | ts | agent | action | target | status |
 |---|---|---|---|---|
+| 2026-08-10 11:15:17 | conductor | commit | task#1 | ok |
+| 2026-08-10 11:15:17 | inspector_b | implement | task#1 | ok |
+| 2026-08-10 10:50:10 | inspector_b | implement | task#1 | ok |
+| 2026-08-10 10:50:10 | inspector_a | investigate | task#1 | ok |
+| 2026-08-10 10:47:16 | inspector_a | investigate | task#1 | ok |
+| 2026-08-10 10:47:16 | searcher | upstream_check | task#1 | ok |
+| 2026-08-10 10:47:08 | searcher | upstream_check | task#1 | ok |
+| 2026-08-10 10:47:08 | conductor | claim | task#1 | ok |
+| 2026-08-10 10:47:02 | conductor | reset | task#1 | ok |
 | 2026-08-10 10:43:43 | conductor | block | task#1 | ok |
 | 2026-08-10 10:43:43 | inspector_b | implement | task#1 | ok |
 | 2026-08-10 10:13:42 | inspector_b | implement | task#1 | ok |
-| 2026-08-10 10:13:42 | inspector_a | investigate | task#1 | ok |
-| 2026-08-10 10:08:08 | inspector_a | investigate | task#1 | ok |
-| 2026-08-10 10:08:07 | searcher | upstream_check | task#1 | ok |
-| 2026-08-10 10:07:33 | searcher | upstream_check | task#1 | ok |
-| 2026-08-10 10:07:33 | conductor | claim | task#1 | ok |
-| 2026-08-10 10:06:53 | conductor | reset | task#1 | ok |
-| 2026-08-10 10:03:07 | conductor | block | task#1 | ok |
-| 2026-08-10 10:03:07 | inspector_b | implement | task#1 | ok |
-| 2026-08-10 09:34:24 | inspector_b | implement | task#1 | ok |
 
 ## Commits (pushed branches)
 
 | sha | branch | title | agent |
 |---|---|---|---|
+| 76898c2bff | writer/tdf-90152-postit-print-locale | Formatting of printed comments is hard to read (lo | inspector_b |
 
 ## Reverts
 
