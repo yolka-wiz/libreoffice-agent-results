@@ -1,10 +1,10 @@
 # Cluster Status — LibreOffice Writer autonomous cluster
 
-_Updated 2026-08-10T11:15_ — [standard](cluster/standards.md) · [history DB](playground/data/cluster_history.db)
+_Updated 2026-08-11T06:37_ — [standard](cluster/standards.md) · [history DB](playground/data/cluster_history.db)
 
 ## Summary
 
-- Tasks: **5** total · **4** pending · **1** commits · **0** reverts
+- Tasks: **5** total · **3** pending · **2** commits · **0** reverts
 
 ## Tasks
 
@@ -12,7 +12,7 @@ _Updated 2026-08-10T11:15_ — [standard](cluster/standards.md) · [history DB](
 |---|----|-------|--------|------|--------|---------------|
 | 5 | tdf#82579 | Remove unneeded premac.h/postmac.h includes (sw- | sw | S | pending |   |
 | 4 | tdf#119931 | Fix accessibility warnings in sw uiconfig .ui fi | sw | S | pending |   |
-| 3 | opt-f1 | Writer: constant-string text measurement rebuild | sw | S | pending |   |
+| 3 | opt-f1 | Writer: constant-string text measurement rebuild | sw | S | pr_ready | writer/opt-f1-const-text-memoize 6e5b774a946fd91ec7b227f9a78e8b10ed453367 |
 | 2 | tdf#35055 | Background image covers paragraph shadow in layo | sw | M | pending |   |
 | 1 | tdf#90152 | Formatting of printed comments is hard to read ( | sw | S | pr_ready | writer/tdf-90152-postit-print-locale 76898c2bffc6b5c23c9b96e1217d6dd25790844f |
 
@@ -20,23 +20,24 @@ _Updated 2026-08-10T11:15_ — [standard](cluster/standards.md) · [history DB](
 
 | ts | agent | action | target | status |
 |---|---|---|---|---|
+| 2026-08-11 06:37:22 | conductor | commit | task#3 | ok |
+| 2026-08-11 06:37:22 | inspector_b | implement | task#3 | ok |
+| 2026-08-11 06:14:16 | inspector_b | implement | task#3 | ok |
+| 2026-08-11 06:14:16 | inspector_a | investigate | task#3 | ok |
+| 2026-08-11 06:04:59 | inspector_a | investigate | task#3 | ok |
+| 2026-08-11 06:04:59 | searcher | upstream_check | task#3 | ok |
+| 2026-08-11 06:03:39 | searcher | upstream_check | task#3 | ok |
+| 2026-08-11 06:03:39 | conductor | claim | task#3 | ok |
 | 2026-08-10 11:15:17 | conductor | commit | task#1 | ok |
 | 2026-08-10 11:15:17 | inspector_b | implement | task#1 | ok |
 | 2026-08-10 10:50:10 | inspector_b | implement | task#1 | ok |
 | 2026-08-10 10:50:10 | inspector_a | investigate | task#1 | ok |
-| 2026-08-10 10:47:16 | inspector_a | investigate | task#1 | ok |
-| 2026-08-10 10:47:16 | searcher | upstream_check | task#1 | ok |
-| 2026-08-10 10:47:08 | searcher | upstream_check | task#1 | ok |
-| 2026-08-10 10:47:08 | conductor | claim | task#1 | ok |
-| 2026-08-10 10:47:02 | conductor | reset | task#1 | ok |
-| 2026-08-10 10:43:43 | conductor | block | task#1 | ok |
-| 2026-08-10 10:43:43 | inspector_b | implement | task#1 | ok |
-| 2026-08-10 10:13:42 | inspector_b | implement | task#1 | ok |
 
 ## Commits (pushed branches)
 
 | sha | branch | title | agent |
 |---|---|---|---|
+| 6e5b774a94 | writer/opt-f1-const-text-memoize | Writer: constant-string text measurement rebuilds  | inspector_b |
 | 76898c2bff | writer/tdf-90152-postit-print-locale | Formatting of printed comments is hard to read (lo | inspector_b |
 
 ## Reverts
@@ -48,6 +49,9 @@ _Updated 2026-08-10T11:15_ — [standard](cluster/standards.md) · [history DB](
 ```
 origin/HEAD -> origin/master
   origin/master
+  origin/test-transport
+  origin/writer/opt-f1-const-text-memoize
+  origin/writer/tdf-90152-postit-print-locale
 ```
 
 ---
