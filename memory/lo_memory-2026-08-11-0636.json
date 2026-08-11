@@ -1,0 +1,2342 @@
+{
+ "exported_at": "2026-08-11T06:36:59",
+ "stats": {
+  "knowledge": 276,
+  "facts": 9,
+  "runs": 8,
+  "indexed_files": 2118
+ },
+ "knowledge_count": 276,
+ "knowledge": [
+  {
+   "id": 1,
+   "text": "Module UnoControls: 18 source files (9 hxx, 9 cxx). Key files: UnoControls/source/controls/progressmonitor.cxx, UnoControls/source/base/basecontrol.cxx, UnoControls/source/controls/framecontrol.cxx, UnoControls/source/controls/statusindicator.cxx, UnoControls/source/controls/progressbar.cxx, UnoControls/inc/basecontrol.hxx, UnoControls/source/base/basecontainercontrol.cxx, UnoControls/inc/multiplexer.hxx.",
+   "source": "repo:/UnoControls",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:46"
+  },
+  {
+   "id": 2,
+   "text": "Module android: 95 source files (94 java, 1 py). Key files: android/app/src/java/org/libreoffice/LibreOfficeMainActivity.java, android/app/src/java/org/mozilla/gecko/gfx/JavaPanZoomController.java, android/app/src/java/org/libreoffice/InvalidationHandler.java, android/app/src/java/org/libreoffice/LOKitTileProvider.java, android/app/src/java/org/libreoffice/FormattingController.java, android/app/src/java/org/libreoffice/ui/LibreOfficeUIActivity.java, android/app/src/java/org/libreoffice/overlay/DocumentOverlayView.java, android/app/src/java/org/mozilla/gecko/gfx/ScrollbarLayer.java.",
+   "source": "repo:/android",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:46"
+  },
+  {
+   "id": 3,
+   "text": "Module animations: 1 source files (1 cxx). Key files: animations/source/animcore/animcore.cxx.",
+   "source": "repo:/animations",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:46"
+  },
+  {
+   "id": 4,
+   "text": "Module apple_remote: 14 source files (8 m, 6 h). Key files: apple_remote/source/HIDRemoteControlDevice.m, apple_remote/source/GlobalKeyboardDevice.m, apple_remote/source/MultiClickRemoteBehavior.m, apple_remote/source/RemoteMainController.m, apple_remote/source/RemoteControl.m, apple_remote/source/RemoteControlContainer.m, apple_remote/source/KeyspanFrontRowControl.m, apple_remote/source/AppleRemote.m.",
+   "source": "repo:/apple_remote",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:46"
+  },
+  {
+   "id": 5,
+   "text": "Module avmedia: 50 source files (25 hxx, 24 cxx, 1 h). Key files: avmedia/source/gstreamer/gstplayer.cxx, avmedia/source/viewer/mediawindow_impl.cxx, avmedia/source/win/player.cxx, avmedia/source/framework/mediaitem.cxx, avmedia/source/viewer/mediawindow.cxx, avmedia/source/win/window.cxx, avmedia/source/gtk/gtkplayer.cxx, avmedia/source/qt6/QtPlayer.cxx.",
+   "source": "repo:/avmedia",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:46"
+  },
+  {
+   "id": 6,
+   "text": "Module basctl: 110 source files (57 cxx, 52 hxx, 1 h). Key files: basctl/source/basicide/baside2b.cxx, basctl/source/basicide/textwindowaccessibility.cxx, basctl/source/basicide/basides1.cxx, basctl/source/basicide/moduldl2.cxx, basctl/source/dlged/dlgedobj.cxx, basctl/source/basicide/scriptdocument.cxx, basctl/source/basicide/baside2.cxx, basctl/source/basicide/objectbrowser.cxx.",
+   "source": "repo:/basctl",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:46"
+  },
+  {
+   "id": 7,
+   "text": "Module basegfx: 58 source files (53 cxx, 4 hxx, 1 pl). Key files: basegfx/source/polygon/b2dpolygontools.cxx, basegfx/source/workbench/bezierclip.cxx, basegfx/source/polygon/b2dpolypolygoncutter.cxx, basegfx/source/polygon/b2dtrapezoid.cxx, basegfx/source/polygon/b2dpolygoncutandtouch.cxx, basegfx/source/polygon/b2dpolygon.cxx, basegfx/source/polygon/b2dsvgpolypolygon.cxx, basegfx/source/polygon/b2dlinegeometry.cxx.",
+   "source": "repo:/basegfx",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:46"
+  },
+  {
+   "id": 8,
+   "text": "Module basic: 119 source files (75 cxx, 44 hxx). Key files: basic/source/classes/sbunoobj.cxx, basic/source/runtime/runtime.cxx, basic/source/runtime/methods.cxx, basic/source/uno/namecont.cxx, basic/source/classes/sbxmod.cxx, basic/source/runtime/methods1.cxx, basic/source/basmgr/basmgr.cxx, basic/source/classes/sb.cxx.",
+   "source": "repo:/basic",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:46"
+  },
+  {
+   "id": 9,
+   "text": "Module bean: 24 source files (22 java, 2 c). Key files: bean/com/sun/star/comp/beans/OOoBean.java, bean/com/sun/star/comp/beans/LocalOfficeConnection.java, bean/qa/complex/bean/OOoBeanTest.java, bean/com/sun/star/comp/beans/LocalOfficeWindow.java, bean/qa/complex/bean/WriterFrame.java, bean/qa/complex/bean/ScreenComparer.java, bean/com/sun/star/comp/beans/OfficeDocument.java, bean/native/win32/com_sun_star_comp_beans_LocalOfficeWindow.c.",
+   "source": "repo:/bean",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:46"
+  },
+  {
+   "id": 10,
+   "text": "Module binaryurp: 32 source files (18 hxx, 14 cxx). Key files: binaryurp/source/bridge.cxx, binaryurp/source/reader.cxx, binaryurp/source/unmarshal.cxx, binaryurp/source/writer.cxx, binaryurp/source/incomingrequest.cxx, binaryurp/source/marshal.cxx, binaryurp/source/bridge.hxx, binaryurp/source/proxy.cxx.",
+   "source": "repo:/binaryurp",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:46"
+  },
+  {
+   "id": 11,
+   "text": "Module canvas: 193 source files (108 hxx, 85 cxx). Key files: canvas/source/cairo/cairo_canvashelper.cxx, canvas/source/tools/canvastools.cxx, canvas/source/vcl/canvashelper.cxx, canvas/source/vcl/canvashelper_texturefill.cxx, canvas/source/opengl/ogl_canvashelper.cxx, canvas/source/directx/dx_9rm.cxx, canvas/source/directx/dx_canvashelper.cxx, canvas/source/directx/dx_canvashelper_texturefill.cxx.",
+   "source": "repo:/canvas",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:46"
+  },
+  {
+   "id": 12,
+   "text": "Module chart2: 734 source files (369 hxx, 363 cxx, 1 java, 1 h). Key files: chart2/source/view/charttypes/VSeriesPlotter.cxx, chart2/qa/extras/chart2import.cxx, chart2/source/view/charttypes/PieChart.cxx, chart2/source/view/main/ShapeFactory.cxx, chart2/source/view/main/ChartView.cxx, chart2/qa/extras/chart2export2.cxx, chart2/source/model/main/Diagram.cxx, chart2/source/view/axes/VCartesianAxis.cxx.",
+   "source": "repo:/chart2",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:47"
+  },
+  {
+   "id": 13,
+   "text": "Module cli_ure: 20 source files (10 cxx, 6 h, 2 pl, 1 java, 1 idl). Key files: cli_ure/source/climaker/climaker_emit.cxx, cli_ure/source/uno_bridge/cli_data.cxx, cli_ure/source/uno_bridge/cli_proxy.cxx, cli_ure/source/climaker/climaker_app.cxx, cli_ure/qa/climaker/types.idl, cli_ure/source/uno_bridge/cli_proxy.h, cli_ure/source/climaker/climaker_share.h, cli_ure/source/uno_bridge/cli_bridge.cxx.",
+   "source": "repo:/cli_ure",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:47"
+  },
+  {
+   "id": 14,
+   "text": "Module codemaker: 54 source files (32 cxx, 20 hxx, 1 py, 1 idl). Key files: codemaker/source/cppumaker/cpputype.cxx, codemaker/source/javamaker/javatype.cxx, codemaker/source/rustmaker/cpproduce.cxx, codemaker/source/rustmaker/rustproduce.cxx, codemaker/source/pythonmaker/pythontype.cxx, codemaker/source/netmaker/netproduce.cxx, codemaker/source/javamaker/classfile.cxx, codemaker/tests/pythonmaker/idl/pythontypes.idl.",
+   "source": "repo:/codemaker",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:47"
+  },
+  {
+   "id": 15,
+   "text": "Module comphelper: 133 source files (125 cxx, 6 hxx, 1 java, 1 py). Key files: comphelper/source/misc/backupfilehelper.cxx, comphelper/source/container/embeddedobjectcontainer.cxx, comphelper/source/misc/mimeconfighelper.cxx, comphelper/source/property/propagg.cxx, comphelper/source/property/propshlp.cxx, comphelper/source/eventattachermgr/eventattachermgr.cxx, comphelper/source/misc/accessibletexthelper.cxx, comphelper/source/misc/storagehelper.cxx.",
+   "source": "repo:/comphelper",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:47"
+  },
+  {
+   "id": 16,
+   "text": "Module configmgr: 68 source files (35 cxx, 33 hxx). Key files: configmgr/source/access.cxx, configmgr/source/dconf.cxx, configmgr/source/xcuparser.cxx, configmgr/source/components.cxx, configmgr/source/xcsparser.cxx, configmgr/source/writemodfile.cxx, configmgr/source/configurationregistry.cxx, configmgr/qa/unit/test.cxx.",
+   "source": "repo:/configmgr",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:47"
+  },
+  {
+   "id": 17,
+   "text": "Module connectivity: 709 source files (348 cxx, 327 hxx, 33 java, 1 h). Key files: connectivity/source/parse/sqlnode.cxx, connectivity/source/drivers/dbase/DTable.cxx, connectivity/source/parse/sqliterator.cxx, connectivity/source/drivers/postgresql/pq_databasemetadata.cxx, connectivity/source/commontools/dbtools.cxx, connectivity/source/commontools/FValue.cxx, connectivity/source/drivers/firebird/DatabaseMetaData.cxx, connectivity/source/drivers/odbc/OResultSet.cxx.",
+   "source": "repo:/connectivity",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:47"
+  },
+  {
+   "id": 18,
+   "text": "Module cppcanvas: 47 source files (25 cxx, 22 hxx). Key files: cppcanvas/source/mtfrenderer/implrenderer.cxx, cppcanvas/source/mtfrenderer/textaction.cxx, cppcanvas/source/mtfrenderer/mtftools.cxx, cppcanvas/source/mtfrenderer/transparencygroupaction.cxx, cppcanvas/source/mtfrenderer/polypolyaction.cxx, cppcanvas/source/mtfrenderer/bitmapaction.cxx, cppcanvas/source/inc/implrenderer.hxx, cppcanvas/source/mtfrenderer/mtftools.hxx.",
+   "source": "repo:/cppcanvas",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:47"
+  },
+  {
+   "id": 19,
+   "text": "Module cppu: 50 source files (33 cxx, 15 hxx, 2 idl). Key files: cppu/source/typelib/typelib.cxx, cppu/qa/test_any.cxx, cppu/source/uno/lbenv.cxx, cppu/qa/cppumaker/types.idl, cppu/source/uno/sequence.cxx, cppu/qa/cppumaker/test_cppumaker.cxx, cppu/source/uno/eq.hxx, cppu/source/uno/copy.hxx.",
+   "source": "repo:/cppu",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:47"
+  },
+  {
+   "id": 20,
+   "text": "Module cppuhelper: 47 source files (33 cxx, 10 hxx, 2 idl, 1 java, 1 c). Key files: cppuhelper/source/typemanager.cxx, cppuhelper/source/servicemanager.cxx, cppuhelper/source/propertysetmixin.cxx, cppuhelper/source/propshlp.cxx, cppuhelper/source/factory.cxx, cppuhelper/qa/propertysetmixin/test_propertysetmixin.cxx, cppuhelper/source/tdmgr.cxx, cppuhelper/qa/unourl/cppu_unourl.cxx.",
+   "source": "repo:/cppuhelper",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:47"
+  },
+  {
+   "id": 21,
+   "text": "Module cpputools: 3 source files (2 cxx, 1 sh). Key files: cpputools/source/unoexe/unoexe.cxx, cpputools/source/sp2bv/sp2bv.cxx, cpputools/scripts/uno.sh.",
+   "source": "repo:/cpputools",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:47"
+  },
+  {
+   "id": 22,
+   "text": "Module cui: 286 source files (143 cxx, 130 hxx, 11 py, 2 h). Key files: cui/source/tabpages/paragrph.cxx, cui/source/tabpages/chardlg.cxx, cui/source/tabpages/numpages.cxx, cui/source/dialogs/MacroManagerDialog.cxx, cui/source/customize/cfg.cxx, cui/source/options/treeopt.cxx, cui/source/tabpages/autocdlg.cxx, cui/source/dialogs/SpellDialog.cxx.",
+   "source": "repo:/cui",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:47"
+  },
+  {
+   "id": 23,
+   "text": "Module dbaccess: 640 source files (313 hxx, 305 cxx, 16 java, 5 py, 1 h). Key files: dbaccess/source/ui/browser/unodatbr.cxx, dbaccess/source/ui/querydesign/QueryDesignView.cxx, dbaccess/source/ui/app/AppController.cxx, dbaccess/source/core/api/RowSet.cxx, dbaccess/source/ui/querydesign/SelectionBrowseBox.cxx, dbaccess/source/ui/browser/brwctrlr.cxx, dbaccess/source/core/dataaccess/databasedocument.cxx, dbaccess/source/core/dataaccess/documentdefinition.cxx.",
+   "source": "repo:/dbaccess",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:47"
+  },
+  {
+   "id": 24,
+   "text": "Module desktop: 205 source files (108 cxx, 62 hxx, 19 h, 10 sh, 6 c). Key files: desktop/source/lib/init.cxx, desktop/qa/desktop_lib/test_desktop_lib.cxx, desktop/source/app/app.cxx, desktop/source/deployment/registry/component/dp_component.cxx, desktop/source/deployment/registry/package/dp_package.cxx, desktop/source/deployment/manager/dp_manager.cxx, desktop/source/deployment/manager/dp_extensionmanager.cxx, desktop/source/migration/migration.cxx.",
+   "source": "repo:/desktop",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:47"
+  },
+  {
+   "id": 25,
+   "text": "Module docmodel: 12 source files (11 cxx, 1 hxx). Key files: docmodel/source/uno/UnoGradientTools.cxx, docmodel/source/theme/Theme.cxx, docmodel/source/color/ComplexColor.cxx, docmodel/source/theme/ColorSet.cxx, docmodel/source/uno/UnoTheme.cxx, docmodel/source/uno/UnoComplexColor.cxx, docmodel/inc/pch/precompiled_docmodel.hxx, docmodel/source/uno/UnoChartColorStyle.cxx.",
+   "source": "repo:/docmodel",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:47"
+  },
+  {
+   "id": 26,
+   "text": "Module drawinglayer: 199 source files (161 cxx, 38 hxx). Key files: drawinglayer/source/processor2d/cairopixelprocessor2d.cxx, drawinglayer/source/tools/emfphelperdata.cxx, drawinglayer/source/tools/wmfemfhelper.cxx, drawinglayer/source/processor2d/vclmetafileprocessor2d.cxx, drawinglayer/source/dumper/XShapeDumper.cxx, drawinglayer/source/processor2d/d2dpixelprocessor2d.cxx, drawinglayer/source/processor2d/vclprocessor2d.cxx, drawinglayer/source/tools/primitive2dxmldump.cxx.",
+   "source": "repo:/drawinglayer",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:47"
+  },
+  {
+   "id": 27,
+   "text": "Module editeng: 145 source files (106 cxx, 39 hxx). Key files: editeng/source/editeng/impedit3.cxx, editeng/source/editeng/impedit2.cxx, editeng/source/items/frmitems.cxx, editeng/source/editeng/editdoc.cxx, editeng/source/editeng/impedit4.cxx, editeng/source/misc/svxacorr.cxx, editeng/qa/unit/core-test.cxx, editeng/source/editeng/impedit.cxx.",
+   "source": "repo:/editeng",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:47"
+  },
+  {
+   "id": 28,
+   "text": "Module embeddedobj: 51 source files (25 cxx, 21 hxx, 4 java, 1 h). Key files: embeddedobj/source/msole/olepersist.cxx, embeddedobj/source/commonembedding/persistence.cxx, embeddedobj/source/msole/olecomponent.cxx, embeddedobj/source/general/docholder.cxx, embeddedobj/source/msole/oleembed.cxx, embeddedobj/source/commonembedding/embedobj.cxx, embeddedobj/source/commonembedding/miscobj.cxx, embeddedobj/source/msole/olemisc.cxx.",
+   "source": "repo:/embeddedobj",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:47"
+  },
+  {
+   "id": 29,
+   "text": "Module embedserv: 28 source files (15 cxx, 9 hxx, 4 h). Key files: embedserv/source/inprocserv/inprocembobj.cxx, embedserv/source/embed/docholder.cxx, embedserv/source/embed/ed_ipersiststr.cxx, embedserv/source/embed/tracker.cxx, embedserv/source/embed/intercept.cxx, embedserv/source/embed/ed_ioleobject.cxx, embedserv/source/embed/syswinwrapper.cxx, embedserv/source/inprocserv/inprocembobj.h.",
+   "source": "repo:/embedserv",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:47"
+  },
+  {
+   "id": 30,
+   "text": "Module emfio: 12 source files (7 cxx, 4 hxx, 1 h). Key files: emfio/source/reader/emfreader.cxx, emfio/qa/cppunit/emf/EmfImportTest.cxx, emfio/source/reader/mtftools.cxx, emfio/source/reader/wmfreader.cxx, emfio/inc/mtftools.hxx, emfio/qa/cppunit/wmf/wmfimporttest.cxx, emfio/source/emfuno/xemfparser.cxx, emfio/inc/wmfreader.hxx.",
+   "source": "repo:/emfio",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:47"
+  },
+  {
+   "id": 31,
+   "text": "Module eventattacher: 1 source files (1 cxx). Key files: eventattacher/source/eventattacher.cxx.",
+   "source": "repo:/eventattacher",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:47"
+  },
+  {
+   "id": 32,
+   "text": "Module extensions: 290 source files (132 cxx, 125 hxx, 16 h, 9 m, 7 java, 1 idl). Key files: extensions/source/propctrlr/formcomponenthandler.cxx, extensions/source/ole/unoobjw.cxx, extensions/source/ole/oleobjw.cxx, extensions/source/ole/unoconversionutilities.hxx, extensions/source/propctrlr/propcontroller.cxx, extensions/source/scanner/sanedlg.cxx, extensions/source/bibliography/datman.cxx, extensions/source/update/check/updatehdl.cxx.",
+   "source": "repo:/extensions",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:48"
+  },
+  {
+   "id": 33,
+   "text": "Module filter: 129 source files (75 cxx, 46 hxx, 4 java, 2 js, 2 py). Key files: filter/source/svg/presentation_engine.js, filter/source/msfilter/svdfppt.cxx, filter/source/msfilter/msdffimp.cxx, filter/source/msfilter/escherex.cxx, filter/source/svg/svgwriter.cxx, filter/source/svg/svgexport.cxx, filter/source/pdf/impdialog.cxx, filter/source/config/cache/filtercache.cxx.",
+   "source": "repo:/filter",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:48"
+  },
+  {
+   "id": 34,
+   "text": "Module forms: 237 source files (106 hxx, 96 cxx, 35 java). Key files: forms/source/component/DatabaseForm.cxx, forms/source/component/FormComponent.cxx, forms/source/component/ListBox.cxx, forms/source/runtime/formoperations.cxx, forms/source/inc/FormComponent.hxx, forms/qa/integration/forms/FormControlTest.java, forms/source/xforms/binding.cxx, forms/source/component/Grid.cxx.",
+   "source": "repo:/forms",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:48"
+  },
+  {
+   "id": 35,
+   "text": "Module formula: 19 source files (14 cxx, 5 hxx). Key files: formula/source/core/api/FormulaCompiler.cxx, formula/source/ui/dlg/formula.cxx, formula/source/core/api/token.cxx, formula/source/ui/dlg/parawin.cxx, formula/source/ui/dlg/FormulaHelper.cxx, formula/source/ui/dlg/funcpage.cxx, formula/source/ui/dlg/funcutl.cxx, formula/source/ui/dlg/parawin.hxx.",
+   "source": "repo:/formula",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:48"
+  },
+  {
+   "id": 36,
+   "text": "Module fpicker: 63 source files (36 hxx, 24 cxx, 3 h). Key files: fpicker/source/office/iodlg.cxx, fpicker/source/office/fileview.cxx, fpicker/source/win32/VistaFilePickerImpl.cxx, fpicker/source/office/RemoteFilesDialog.cxx, fpicker/source/office/OfficeControlAccess.cxx, fpicker/source/office/OfficeFilePicker.cxx, fpicker/source/win32/VistaFilePicker.cxx, fpicker/source/office/commonpicker.cxx.",
+   "source": "repo:/fpicker",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:48"
+  },
+  {
+   "id": 37,
+   "text": "Module framework: 347 source files (174 cxx, 136 hxx, 31 java, 6 h). Key files: framework/source/services/autorecovery.cxx, framework/source/layoutmanager/toolbarlayoutmanager.cxx, framework/source/services/frame.cxx, framework/source/layoutmanager/layoutmanager.cxx, framework/source/fwe/classes/addonsoptions.cxx, framework/source/uielement/toolbarmanager.cxx, framework/source/services/desktop.cxx, framework/source/loadenv/loadenv.cxx.",
+   "source": "repo:/framework",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:48"
+  },
+  {
+   "id": 38,
+   "text": "Module helpcompiler: 12 source files (8 cxx, 4 hxx). Key files: helpcompiler/source/HelpLinker.cxx, helpcompiler/source/HelpCompiler.cxx, helpcompiler/source/HelpIndexer.cxx, helpcompiler/source/BasCodeTagger.cxx, helpcompiler/inc/HelpCompiler.hxx, helpcompiler/inc/HelpLinker.hxx, helpcompiler/source/HelpIndexer_main.cxx, helpcompiler/source/HelpSearch.cxx.",
+   "source": "repo:/helpcompiler",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:48"
+  },
+  {
+   "id": 39,
+   "text": "Module hwpfilter: 55 source files (24 cxx, 24 h, 7 hxx). Key files: hwpfilter/source/hwpreader.cxx, hwpfilter/source/lexer.cxx, hwpfilter/source/hcode.cxx, hwpfilter/source/ksc5601.h, hwpfilter/source/grammar.cxx, hwpfilter/source/hwpeq.cxx, hwpfilter/source/hwpread.cxx, hwpfilter/source/hbox.h.",
+   "source": "repo:/hwpfilter",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:48"
+  },
+  {
+   "id": 40,
+   "text": "Module i18nlangtag: 10 source files (8 cxx, 1 sh, 1 pl). Key files: i18nlangtag/source/languagetag/languagetag.cxx, i18nlangtag/source/isolang/isolang.cxx, i18nlangtag/qa/cppunit/test_languagetag.cxx, i18nlangtag/source/isolang/mslangid.cxx, i18nlangtag/source/isolang/langid.pl, i18nlangtag/source/isolang/inunx.cxx, i18nlangtag/source/isolang/MS-LCID-to-list.sh, i18nlangtag/source/isolang/inwnt.cxx.",
+   "source": "repo:/i18nlangtag",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:48"
+  },
+  {
+   "id": 41,
+   "text": "Module i18npool: 136 source files (86 cxx, 44 hxx, 5 h, 1 pl). Key files: i18npool/source/localedata/LocaleNode.cxx, i18npool/qa/cppunit/test_breakiterator.cxx, i18npool/source/search/textsearch.cxx, i18npool/source/localedata/localedata.cxx, i18npool/source/defaultnumberingprovider/defaultnumberingprovider.cxx, i18npool/source/characterclassification/cclass_unicode_parser.cxx, i18npool/source/nativenumber/nativenumbersupplier.cxx, i18npool/source/calendar/calendar_gregorian.cxx.",
+   "source": "repo:/i18npool",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:48"
+  },
+  {
+   "id": 42,
+   "text": "Module i18nutil: 18 source files (15 cxx, 3 h). Key files: i18nutil/source/utility/casefolding_data.h, i18nutil/source/utility/widthfolding_data.h, i18nutil/source/utility/unicode_data.h, i18nutil/qa/cppunit/test_scriptchangescanner.cxx, i18nutil/source/utility/unicode.cxx, i18nutil/source/utility/paper.cxx, i18nutil/source/utility/kashida.cxx, i18nutil/source/utility/scriptchangescanner.cxx.",
+   "source": "repo:/i18nutil",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:48"
+  },
+  {
+   "id": 43,
+   "text": "Module idl: 25 source files (13 cxx, 12 hxx). Key files: idl/source/objects/slot.cxx, idl/source/prj/parser.cxx, idl/source/prj/database.cxx, idl/source/objects/object.cxx, idl/source/prj/command.cxx, idl/source/cmptools/lex.cxx, idl/source/objects/types.cxx, idl/source/prj/svidl.cxx.",
+   "source": "repo:/idl",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:50"
+  },
+  {
+   "id": 44,
+   "text": "Module include: 2473 source files (2325 hxx, 148 h). Key files: include/rtl/ustring.hxx, include/rtl/string.hxx, include/xmloff/xmltoken.hxx, include/rtl/ustring.h, include/vcl/outdev.hxx, include/svtools/rtfkeywd.hxx, include/oox/dump/dumperbase.hxx, include/osl/file.h.",
+   "source": "repo:/include",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:50"
+  },
+  {
+   "id": 45,
+   "text": "Module instsetoo_native: 1 source files (1 sh). Key files: instsetoo_native/inc_openoffice/unix/find-requires-x11.sh.",
+   "source": "repo:/instsetoo_native",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:50"
+  },
+  {
+   "id": 46,
+   "text": "Module io: 17 source files (14 cxx, 3 hxx). Key files: io/source/stm/odata.cxx, io/source/stm/omark.cxx, io/source/TextInputStream/TextInputStream.cxx, io/source/stm/opump.cxx, io/source/acceptor/acc_socket.cxx, io/source/stm/opipe.cxx, io/source/acceptor/acceptor.cxx, io/source/TextOutputStream/TextOutputStream.cxx.",
+   "source": "repo:/io",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:50"
+  },
+  {
+   "id": 47,
+   "text": "Module ios: 4 source files (2 h, 2 m). Key files: ios/UnitTest/UnitTest/AppDelegate.m, ios/UnitTest/UnitTest/main.m, ios/UnitTest/UnitTest/AppDelegate.h, ios/UnitTest/UnitTest/ViewController.h.",
+   "source": "repo:/ios",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:50"
+  },
+  {
+   "id": 48,
+   "text": "Module javaunohelper: 7 source files (4 cxx, 3 hxx). Key files: javaunohelper/source/javaunohelper.cxx, javaunohelper/source/bootstrap.cxx, javaunohelper/source/preload.cxx, javaunohelper/source/vm.cxx, javaunohelper/source/vm.hxx, javaunohelper/source/juhx-export-types.hxx, javaunohelper/source/juhx-export-functions.hxx.",
+   "source": "repo:/javaunohelper",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:50"
+  },
+  {
+   "id": 49,
+   "text": "Module jsuno: 10 source files (4 js, 4 cxx, 2 hxx). Key files: jsuno/source/jsuno.cxx, jsuno/qa/extras/test.js, jsuno/qa/unit/execute.cxx, jsuno/source/rhinocompatibility.cxx, jsuno/qa/unit/testuno.cxx, jsuno/source/jsvalue.hxx, jsuno/qa/extras/testrhinocompatibility.js, jsuno/qa/extras/testmissingparams.js.",
+   "source": "repo:/jsuno",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:50"
+  },
+  {
+   "id": 50,
+   "text": "Module jurt: 4 source files (2 c, 1 cxx, 1 java). Key files: jurt/source/pipe/com_sun_star_lib_connections_pipe_PipeConnection.c, jurt/workbench/com/sun/star/comp/urlresolver/UrlResolver_Test.java, jurt/source/pipe/wrapper/wrapper.c, jurt/source/pipe/staticsalhack.cxx.",
+   "source": "repo:/jurt",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:50"
+  },
+  {
+   "id": 51,
+   "text": "Module jvmaccess: 7 source files (6 cxx, 1 java). Key files: jvmaccess/workbench/javainfo/javainfotest.cxx, jvmaccess/source/classpath.cxx, jvmaccess/source/virtualmachine.cxx, jvmaccess/workbench/java/TestComponent.java, jvmaccess/source/unovirtualmachine.cxx, jvmaccess/workbench/exceptiontest1.cxx, jvmaccess/workbench/exceptiontest2.cxx.",
+   "source": "repo:/jvmaccess",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:50"
+  },
+  {
+   "id": 52,
+   "text": "Module jvmfwk: 28 source files (14 cxx, 13 hxx, 1 java). Key files: jvmfwk/plugins/sunmajor/pluginlib/util.cxx, jvmfwk/source/elements.cxx, jvmfwk/plugins/sunmajor/pluginlib/sunjavaplugin.cxx, jvmfwk/source/framework.cxx, jvmfwk/source/fwkbase.cxx, jvmfwk/inc/elements.hxx, jvmfwk/inc/vendorplugin.hxx, jvmfwk/plugins/sunmajor/pluginlib/sunversion.cxx.",
+   "source": "repo:/jvmfwk",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:50"
+  },
+  {
+   "id": 53,
+   "text": "Module l10ntools: 35 source files (18 cxx, 13 hxx, 3 c, 1 h). Key files: l10ntools/source/xmlparse.cxx, l10ntools/source/pocheck.cxx, l10ntools/source/localize.cxx, l10ntools/source/po.cxx, l10ntools/source/cfgmerge.cxx, l10ntools/source/xrmmerge.cxx, l10ntools/source/merge.cxx, l10ntools/source/treemerge.cxx.",
+   "source": "repo:/l10ntools",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:50"
+  },
+  {
+   "id": 54,
+   "text": "Module librelogo: 1 source files (1 py). Key files: librelogo/source/LibreLogo/LibreLogo.py.",
+   "source": "repo:/librelogo",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:50"
+  },
+  {
+   "id": 55,
+   "text": "Module libreofficekit: 27 source files (15 cxx, 10 hxx, 1 c, 1 h). Key files: libreofficekit/source/gtk/lokdocview.cxx, libreofficekit/qa/gtktiledviewer/gtv-signal-handlers.cxx, libreofficekit/qa/gtktiledviewer/gtv-lok-dialog.cxx, libreofficekit/qa/tilebench/tilebench.cxx, libreofficekit/qa/gtktiledviewer/gtv-application-window.cxx, libreofficekit/qa/gtktiledviewer/gtv-lokdocview-signal-handlers.cxx, libreofficekit/qa/unit/tiledrendering.cxx, libreofficekit/qa/gtktiledviewer/gtv-main-toolbar.cxx.",
+   "source": "repo:/libreofficekit",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:50"
+  },
+  {
+   "id": 56,
+   "text": "Module lingucomponent: 19 source files (10 cxx, 9 hxx). Key files: lingucomponent/source/hyphenator/hyphen/hyphenimp.cxx, lingucomponent/source/spellcheck/spell/sspellimp.cxx, lingucomponent/source/spellcheck/languagetool/languagetoolimp.cxx, lingucomponent/source/thesaurus/libnth/nthesimp.cxx, lingucomponent/source/lingutil/lingutil.cxx, lingucomponent/source/languageguessing/guesslang.cxx, lingucomponent/source/languageguessing/simpleguesser.cxx, lingucomponent/source/numbertext/numbertext.cxx.",
+   "source": "repo:/lingucomponent",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:50"
+  },
+  {
+   "id": 57,
+   "text": "Module linguistic: 40 source files (22 cxx, 16 hxx, 2 java). Key files: linguistic/source/lngsvcmgr.cxx, linguistic/source/gciterator.cxx, linguistic/source/dicimp.cxx, linguistic/source/spelldsp.cxx, linguistic/source/misc.cxx, linguistic/source/dlistimp.cxx, linguistic/source/lngprophelp.cxx, linguistic/source/hyphdsp.cxx.",
+   "source": "repo:/linguistic",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:50"
+  },
+  {
+   "id": 58,
+   "text": "Module lotuswordpro: 373 source files (208 hxx, 165 cxx). Key files: lotuswordpro/source/filter/lwplayout.cxx, lotuswordpro/source/filter/lwpdrawobj.cxx, lotuswordpro/source/filter/lwptablelayout.cxx, lotuswordpro/source/filter/lwpfribmark.cxx, lotuswordpro/source/filter/lwpframelayout.cxx, lotuswordpro/source/filter/lwppagelayout.cxx, lotuswordpro/source/filter/lwppara.cxx, lotuswordpro/source/filter/lwpcelllayout.cxx.",
+   "source": "repo:/lotuswordpro",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:51"
+  },
+  {
+   "id": 59,
+   "text": "Module msicreator: 2 source files (2 py). Key files: msicreator/createmsi.py, msicreator/create_installer.py.",
+   "source": "repo:/msicreator",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:51"
+  },
+  {
+   "id": 60,
+   "text": "Module net_ure: 1 source files (1 cxx). Key files: net_ure/source/bootstrap/bootstrap.cxx.",
+   "source": "repo:/net_ure",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:51"
+  },
+  {
+   "id": 61,
+   "text": "Module nlpsolver: 38 source files (38 java). Key files: nlpsolver/src/com/sun/star/comp/Calc/NLPSolver/BaseNLPSolver.java, nlpsolver/src/com/sun/star/comp/Calc/NLPSolver/BaseEvolutionarySolver.java, nlpsolver/src/com/sun/star/comp/Calc/NLPSolver/dialogs/EvolutionarySolverStatusUno.java, nlpsolver/src/com/sun/star/comp/Calc/NLPSolver/DEPSSolverImpl.java, nlpsolver/src/com/sun/star/comp/Calc/NLPSolver/SCOSolverImpl.java, nlpsolver/src/com/sun/star/comp/Calc/NLPSolver/dialogs/BaseDialog.java, nlpsolver/ThirdParty/EvolutionarySolver/src/net/adaptivebox/deps/behavior/PSGTBehavior.java, nlpsolver/src/com/sun/star/comp/Calc/NLPSolver/dialogs/controls/BaseControl.java.",
+   "source": "repo:/nlpsolver",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:51"
+  },
+  {
+   "id": 62,
+   "text": "Module o3tl: 17 source files (16 cxx, 1 hxx). Key files: o3tl/qa/test-unit_conversion.cxx, o3tl/qa/test-string_view.cxx, o3tl/qa/test-sorted_vector.cxx, o3tl/qa/test-cow_wrapper.cxx, o3tl/qa/test-lru_map.cxx, o3tl/qa/cow_wrapper_clients.cxx, o3tl/qa/cow_wrapper_clients.hxx, o3tl/qa/test-safeint.cxx.",
+   "source": "repo:/o3tl",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:51"
+  },
+  {
+   "id": 63,
+   "text": "Module odk: 355 source files (227 java, 48 cxx, 37 py, 14 hxx, 12 idl, 10 h, 4 c, 2 pl, 1 js). Key files: odk/docs/idl/generated_idl_chapter_refs.idl, odk/examples/DevelopersGuide/Text/TextDocuments.java, odk/examples/DevelopersGuide/GUI/UnoDialogSample.java, odk/examples/java/Inspector/SourceCodeGenerator.java, odk/examples/DevelopersGuide/Spreadsheet/SpreadsheetSample.java, odk/examples/java/ToDo/ToDo.java, odk/examples/DevelopersGuide/Forms/DataAwareness.java, odk/examples/java/EmbedDocument/EmbeddedObject/OwnEmbeddedObject.java.",
+   "source": "repo:/odk",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:51"
+  },
+  {
+   "id": 64,
+   "text": "Module offapi: 3924 source files (3924 idl). Key files: offapi/type_reference/offapi.idl, offapi/com/sun/star/sdbc/XDatabaseMetaData.idl, offapi/com/sun/star/ucb/Content.idl, offapi/com/sun/star/sdbc/XDatabaseMetaData3.idl, offapi/com/sun/star/rendering/XCanvas.idl, offapi/com/sun/star/configuration/backend/XUpdateHandler.idl, offapi/com/sun/star/style/ParagraphProperties.idl, offapi/com/sun/star/embed/XStorage.idl.",
+   "source": "repo:/offapi",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:51"
+  },
+  {
+   "id": 65,
+   "text": "Module officecfg: 2 source files (2 cxx). Key files: officecfg/qa/acceleratorkeychecker.cxx, officecfg/qa/cppheader.cxx.",
+   "source": "repo:/officecfg",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:51"
+  },
+  {
+   "id": 66,
+   "text": "Module oovbaapi: 1062 source files (1061 idl, 1 pl). Key files: oovbaapi/ooo/vba/access/AcCommand.idl, oovbaapi/ooo/vba/excel/XlBuildInDialog.idl, oovbaapi/ooo/vba/word/WdWordDialog.idl, oovbaapi/ooo/vba/office/MsoLanguageID.idl, oovbaapi/ooo/vba/excel/XlBuiltInDialog.idl, oovbaapi/ooo/vba/excel/XAxis.idl, oovbaapi/ooo/vba/word/WdLanguageID.idl, oovbaapi/ooo/vba/office/MsoEncoding.idl.",
+   "source": "repo:/oovbaapi",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:51"
+  },
+  {
+   "id": 67,
+   "text": "Module oox: 385 source files (252 cxx, 126 hxx, 4 pl, 2 py, 1 sh). Key files: oox/source/export/drawingml.cxx, oox/source/export/chartexport.cxx, oox/source/drawingml/shape.cxx, oox/source/ole/axcontrol.cxx, oox/source/export/shapes.cxx, oox/source/drawingml/fontworkhelpers.cxx, oox/source/dump/dumperbase.cxx, oox/source/drawingml/diagram/diagramlayoutatoms.cxx.",
+   "source": "repo:/oox",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:51"
+  },
+  {
+   "id": 68,
+   "text": "Module opencl: 9 source files (6 cxx, 2 hxx, 1 h). Key files: opencl/source/openclwrapper.cxx, opencl/source/opencl_device.cxx, opencl/inc/opencl_device_selection.h, opencl/source/openclconfig.cxx, opencl/opencltest/main.cxx, opencl/source/OpenCLZone.cxx, opencl/source/platforminfo.cxx, opencl/inc/opencl_device.hxx.",
+   "source": "repo:/opencl",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:51"
+  },
+  {
+   "id": 69,
+   "text": "Module package: 135 source files (48 java, 45 hxx, 42 cxx). Key files: package/source/xstor/xstorage.cxx, package/source/xstor/owriteablestream.cxx, package/source/zippackage/ZipPackage.cxx, package/source/zipapi/ZipFile.cxx, package/qa/storages/TestHelper.java, package/source/zippackage/ZipPackageStream.cxx, package/qa/ofopxmlstorages/TestHelper.java, package/source/manifest/ManifestExport.cxx.",
+   "source": "repo:/package",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:51"
+  },
+  {
+   "id": 70,
+   "text": "Module pch: 4 source files (2 cxx, 2 hxx). Key files: pch/inc/pch/precompiled_system.hxx, pch/inc/clangfix.hxx, pch/inc/pch/precompiled_system.cxx, pch/system_empty.cxx.",
+   "source": "repo:/pch",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:51"
+  },
+  {
+   "id": 71,
+   "text": "Module postprocess: 3 source files (2 cxx, 1 pl). Key files: postprocess/qa/services.cxx, postprocess/signing/signing.pl, postprocess/qa/singletons.cxx.",
+   "source": "repo:/postprocess",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:51"
+  },
+  {
+   "id": 72,
+   "text": "Module pyuno: 50 source files (30 py, 14 cxx, 3 sh, 2 hxx, 1 c). Key files: pyuno/source/module/pyuno.cxx, pyuno/qa/pytests/embindtest.py, pyuno/source/module/pyuno_module.cxx, pyuno/source/module/pyuno_runtime.cxx, pyuno/source/module/uno.py, pyuno/source/module/pyuno_adapter.cxx, pyuno/qa/pytests/testcollections_XCellRange.py, pyuno/source/module/pyuno_struct.cxx.",
+   "source": "repo:/pyuno",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:51"
+  },
+  {
+   "id": 73,
+   "text": "Module qadevOOo: 1220 source files (1220 java). Key files: qadevOOo/runner/util/ValueChanger.java, qadevOOo/tests/java/ifc/accessibility/_XAccessibleText.java, qadevOOo/tests/java/ifc/accessibility/_XAccessibleTable.java, qadevOOo/tests/java/mod/_forms/ODatabaseForm.java, qadevOOo/runner/util/utils.java, qadevOOo/runner/helper/APIDescGetter.java, qadevOOo/tests/java/ifc/beans/_XPropertySet.java, qadevOOo/tests/java/ifc/i18n/_XBreakIterator.java.",
+   "source": "repo:/qadevOOo",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:51"
+  },
+  {
+   "id": 74,
+   "text": "Module registry: 14 source files (8 cxx, 6 hxx). Key files: registry/source/reflread.cxx, registry/source/regimpl.cxx, registry/source/keyimpl.cxx, registry/source/regkey.cxx, registry/source/registry.cxx, registry/source/reflcnst.hxx, registry/source/keyimpl.hxx, registry/inc/regapi.hxx.",
+   "source": "repo:/registry",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:51"
+  },
+  {
+   "id": 75,
+   "text": "Module remotebridges: 1 source files (1 cxx). Key files: remotebridges/source/unourl_resolver/unourl_resolver.cxx.",
+   "source": "repo:/remotebridges",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:51"
+  },
+  {
+   "id": 76,
+   "text": "Module reportbuilder: 159 source files (159 java). Key files: reportbuilder/java/org/libreoffice/report/pentaho/output/OfficeDocumentReportTarget.java, reportbuilder/java/org/libreoffice/report/pentaho/output/text/TextRawReportTarget.java, reportbuilder/java/org/libreoffice/report/pentaho/output/spreadsheet/SpreadsheetRawReportTarget.java, reportbuilder/java/org/libreoffice/report/pentaho/output/StyleUtilities.java, reportbuilder/java/org/libreoffice/report/SDBCReportDataFactory.java, reportbuilder/java/org/libreoffice/report/pentaho/SOReportJobFactory.java, reportbuilder/java/org/libreoffice/report/pentaho/SOFormulaParser.java, reportbuilder/java/org/libreoffice/report/pentaho/PentahoReportJob.java.",
+   "source": "repo:/reportbuilder",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:51"
+  },
+  {
+   "id": 77,
+   "text": "Module reportdesign: 213 source files (109 hxx, 102 cxx, 2 h). Key files: reportdesign/source/ui/report/ReportController.cxx, reportdesign/source/core/api/ReportDefinition.cxx, reportdesign/source/ui/inspection/GeometryHandler.cxx, reportdesign/source/ui/report/ViewsWindow.cxx, reportdesign/source/filter/xml/xmlExport.cxx, reportdesign/source/ui/misc/UITools.cxx, reportdesign/source/ui/dlg/GroupsSorting.cxx, reportdesign/source/core/sdr/RptObject.cxx.",
+   "source": "repo:/reportdesign",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:52"
+  },
+  {
+   "id": 78,
+   "text": "Module ridljar: 96 source files (96 java). Key files: ridljar/com/sun/star/lib/uno/helper/PropertySet.java, ridljar/com/sun/star/lib/uno/helper/PropertySetMixin.java, ridljar/com/sun/star/lib/uno/typedesc/TypeDescription.java, ridljar/com/sun/star/lib/uno/helper/InterfaceContainer.java, ridljar/com/sun/star/lib/uno/protocols/urp/urp.java, ridljar/com/sun/star/uno/UnoRuntime.java, ridljar/com/sun/star/uno/Type.java, ridljar/com/sun/star/uno/AnyConverter.java.",
+   "source": "repo:/ridljar",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:52"
+  },
+  {
+   "id": 79,
+   "text": "Module rust_uno: 26 source files (23 rs, 2 cxx, 1 hxx). Key files: rust_uno/src/core/tests/type_tests.rs, rust_uno/src/core/type.rs, rust_uno/src/core/tests/string_tests.rs, rust_uno/src/examples/type_example.rs, rust_uno/example/example.cxx, rust_uno/src/core/oustring.rs, rust_uno/src/core/sequence.rs, rust_uno/src/core/any.rs.",
+   "source": "repo:/rust_uno",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:52"
+  },
+  {
+   "id": 80,
+   "text": "Module sal: 256 source files (176 cxx, 58 hxx, 11 h, 7 c, 3 pl, 1 sh). Key files: sal/qa/OStringBuffer/rtl_OStringBuffer.cxx, sal/qa/osl/file/osl_File.cxx, sal/qa/rtl/textenc/rtl_textcvt.cxx, sal/qa/osl/process/osl_Thread.cxx, sal/android/uthash.h, sal/qa/rtl/textenc/rtl_tencinfo.cxx, sal/osl/unx/socket.cxx, sal/osl/w32/file_dirvol.cxx.",
+   "source": "repo:/sal",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:52"
+  },
+  {
+   "id": 81,
+   "text": "Module salhelper: 7 source files (7 cxx). Key files: salhelper/source/timer.cxx, salhelper/qa/test_api.cxx, salhelper/source/condition.cxx, salhelper/source/dynload.cxx, salhelper/source/simplereferenceobject.cxx, salhelper/qa/timer.cxx, salhelper/source/thread.cxx.",
+   "source": "repo:/salhelper",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:52"
+  },
+  {
+   "id": 82,
+   "text": "Module sax: 16 source files (13 cxx, 3 hxx). Key files: sax/source/tools/converter.cxx, sax/source/fastparser/fastparser.cxx, sax/source/expatwrap/saxwriter.cxx, sax/qa/cppunit/test_converter.cxx, sax/source/expatwrap/sax_expat.cxx, sax/source/tools/fastserializer.cxx, sax/source/expatwrap/xml2utf.cxx, sax/qa/cppunit/xmlimport.cxx.",
+   "source": "repo:/sax",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:52"
+  },
+  {
+   "id": 83,
+   "text": "Module sc: 2465 source files (1177 cxx, 954 hxx, 320 py, 9 h, 5 java). Key files: sc/qa/unit/ucalc_copypaste.cxx, sc/source/core/tool/interpr1.cxx, sc/source/ui/unoobj/cellsuno.cxx, sc/qa/unit/ucalc.cxx, sc/qa/unit/ucalc_formula2.cxx, sc/source/core/tool/compiler.cxx, sc/source/ui/view/gridwin.cxx, sc/source/filter/xml/xmlexprt.cxx.",
+   "source": "repo:/sc",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:52"
+  },
+  {
+   "id": 84,
+   "text": "Module scaddins: 25 source files (9 hxx, 8 idl, 8 cxx). Key files: scaddins/source/analysis/analysishelper.cxx, scaddins/source/analysis/analysishelper.hxx, scaddins/source/pricing/black_scholes.cxx, scaddins/source/analysis/analysis.cxx, scaddins/idl/com/sun/star/sheet/addin/XAnalysis.idl, scaddins/source/analysis/financial.cxx, scaddins/source/analysis/analysis.hxx, scaddins/source/datefunc/datefunc.cxx.",
+   "source": "repo:/scaddins",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:52"
+  },
+  {
+   "id": 85,
+   "text": "Module scp2: 2 source files (2 pl). Key files: scp2/macros/macro.pl, scp2/source/templates/modules.pl.",
+   "source": "repo:/scp2",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:52"
+  },
+  {
+   "id": 86,
+   "text": "Module scripting: 125 source files (57 java, 27 cxx, 26 hxx, 10 py, 4 js, 1 sh). Key files: scripting/source/stringresource/stringresource.cxx, scripting/source/pyprov/pythonscript.py, scripting/source/vbaevents/eventhelper.cxx, scripting/java/com/sun/star/script/framework/provider/ScriptProvider.java, scripting/source/dlgprov/dlgprov.cxx, scripting/java/com/sun/star/script/framework/container/ParcelContainer.java, scripting/source/dlgprov/dlgevtatt.cxx, scripting/source/stringresource/stringresource.hxx.",
+   "source": "repo:/scripting",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:52"
+  },
+  {
+   "id": 87,
+   "text": "Module sd: 1012 source files (498 cxx, 471 hxx, 36 py, 7 h). Key files: sd/source/ui/unoidl/unomodel.cxx, sd/qa/unit/tiledrendering/tiledrendering.cxx, sd/source/ui/view/drviews2.cxx, sd/source/filter/eppt/epptso.cxx, sd/source/filter/ppt/pptin.cxx, sd/source/core/sdpage.cxx, sd/source/ui/slideshow/slideshowimpl.cxx, sd/source/filter/eppt/pptx-epptooxml.cxx.",
+   "source": "repo:/sd",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:52"
+  },
+  {
+   "id": 88,
+   "text": "Module sdext: 68 source files (34 hxx, 34 cxx). Key files: sdext/source/pdfimport/tree/writertreevisiting.cxx, sdext/source/pdfimport/pdfparse/pdfentries.cxx, sdext/qa/unit/pdfimport.cxx, sdext/source/pdfimport/tree/drawtreevisiting.cxx, sdext/source/pdfimport/xpdfwrapper/pdfioutdev_gpl.cxx, sdext/source/pdfimport/wrapper/wrapper.cxx, sdext/source/minimizer/impoptimizer.cxx, sdext/source/pdfimport/filterdet.cxx.",
+   "source": "repo:/sdext",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:52"
+  },
+  {
+   "id": 89,
+   "text": "Module setup_native: 27 source files (17 cxx, 4 sh, 3 pl, 3 hxx). Key files: setup_native/scripts/admin.pl, setup_native/source/win32/customactions/reg4allmsdoc/reg4allmsi.cxx, setup_native/source/win32/customactions/sellang/sellang.cxx, setup_native/source/win32/customactions/regactivex/regactivex.cxx, setup_native/source/win32/customactions/reg_dlls/reg_dlls.cxx, setup_native/scripts/install_linux.sh, setup_native/source/win32/customactions/indexingfilter/restartindexingservice.cxx, setup_native/source/win32/customactions/shellextensions/upgrade.cxx.",
+   "source": "repo:/setup_native",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:52"
+  },
+  {
+   "id": 90,
+   "text": "Module sfx2: 359 source files (240 cxx, 102 hxx, 12 java, 4 py, 1 h). Key files: sfx2/source/doc/docfile.cxx, sfx2/source/doc/sfxbasemodel.cxx, sfx2/source/doc/objstor.cxx, sfx2/source/view/viewsh.cxx, sfx2/source/view/viewfrm.cxx, sfx2/source/dialog/filedlghelper.cxx, sfx2/source/dialog/dinfdlg.cxx, sfx2/source/doc/objserv.cxx.",
+   "source": "repo:/sfx2",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:52"
+  },
+  {
+   "id": 91,
+   "text": "Module shell: 108 source files (57 cxx, 46 hxx, 2 h, 1 sh, 1 c, 1 idl). Key files: shell/source/win32/shlxthandler/ooofilt/ooofilt.cxx, shell/source/win32/shlxthandler/util/utilities.cxx, shell/source/win32/jumplist/JumpList.cxx, shell/source/win32/spsupp/COMOpenDocuments.cxx, shell/source/win32/SysShExec.cxx, shell/source/win32/shlxthandler/thumbviewer/thumbviewer.cxx, shell/source/win32/zipfile/zipfile.cxx, shell/source/tools/lngconvex/lngconvex.cxx.",
+   "source": "repo:/shell",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:52"
+  },
+  {
+   "id": 92,
+   "text": "Module slideshow: 259 source files (149 hxx, 104 cxx, 3 pl, 2 sh, 1 h). Key files: slideshow/source/engine/slideshowimpl.cxx, slideshow/source/engine/opengl/TransitionImpl.cxx, slideshow/source/engine/transitions/transitionfactorytab.cxx, slideshow/source/engine/animationfactory.cxx, slideshow/source/engine/shapes/drawshape.cxx, slideshow/source/engine/opengl/TransitionerImpl.cxx, slideshow/source/engine/transitions/slidetransitionfactory.cxx, slideshow/source/engine/eventmultiplexer.cxx.",
+   "source": "repo:/slideshow",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:52"
+  },
+  {
+   "id": 93,
+   "text": "Module smoketest: 5 source files (3 java, 2 cxx). Key files: smoketest/smoketest.cxx, smoketest/com/sun/star/comp/smoketest/TestExtension.java, smoketest/org/libreoffice/smoketest/SmoketestCommandEnvironment.java, smoketest/org/libreoffice/smoketest/Services.java, smoketest/smoketest_too.cxx.",
+   "source": "repo:/smoketest",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:52"
+  },
+  {
+   "id": 94,
+   "text": "Module soltools: 23 source files (16 c, 5 h, 1 cxx, 1 hxx). Key files: soltools/cpp/_eval.c, soltools/cpp/_macro.c, soltools/cpp/_lex.c, soltools/mkdepend/main.c, soltools/mkdepend/imakemdep.h, soltools/mkdepend/parse.c, soltools/mkdepend/ifparser.c, soltools/cpp/_cpp.c.",
+   "source": "repo:/soltools",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:53"
+  },
+  {
+   "id": 95,
+   "text": "Module sot: 32 source files (18 cxx, 10 hxx, 4 java). Key files: sot/source/base/formats.cxx, sot/source/sdstor/ucbstorage.cxx, sot/source/sdstor/stgstrms.cxx, sot/source/base/exchange.cxx, sot/source/sdstor/stgdir.cxx, sot/source/sdstor/stg.cxx, sot/source/sdstor/storage.cxx, sot/source/unoolestorage/xolesimplestorage.cxx.",
+   "source": "repo:/sot",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:53"
+  },
+  {
+   "id": 96,
+   "text": "Module starmath: 111 source files (58 cxx, 52 hxx, 1 h). Key files: starmath/source/mathtype.cxx, starmath/source/parse5.cxx, starmath/source/mathml/xparsmlbase.cxx, starmath/source/dialog.cxx, starmath/source/mathml/mathmlimport.cxx, starmath/source/mathml/mathmlMo.cxx, starmath/source/view.cxx, starmath/source/node.cxx.",
+   "source": "repo:/starmath",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:53"
+  },
+  {
+   "id": 97,
+   "text": "Module static: 6 source files (3 js, 3 cxx). Key files: static/source/embindmaker/embindmaker.cxx, static/source/wasmbridgegen/wasmbridgegen.cxx, static/source/unoembindhelpers/PrimaryBindings.cxx, static/emscripten/uno.js, static/emscripten/script.js, static/emscripten/environment.js.",
+   "source": "repo:/static",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:53"
+  },
+  {
+   "id": 98,
+   "text": "Module stoc: 41 source files (32 cxx, 7 hxx, 2 h). Key files: stoc/source/inspect/introspection.cxx, stoc/source/javavm/javavm.cxx, stoc/source/implementationregistration/implreg.cxx, stoc/source/servicemanager/servicemanager.cxx, stoc/source/invocation/invocation.cxx, stoc/source/simpleregistry/simpleregistry.cxx, stoc/source/defaultregistry/defaultregistry.cxx, stoc/source/corereflection/criface.cxx.",
+   "source": "repo:/stoc",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:53"
+  },
+  {
+   "id": 99,
+   "text": "Module store: 22 source files (12 cxx, 10 hxx). Key files: store/source/stordata.cxx, store/source/lockbyte.cxx, store/source/storbios.cxx, store/source/stordata.hxx, store/source/storbase.hxx, store/source/stortree.cxx, store/source/storpage.cxx, store/source/storlckb.cxx.",
+   "source": "repo:/store",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:53"
+  },
+  {
+   "id": 100,
+   "text": "Module svgio: 99 source files (51 cxx, 48 hxx). Key files: svgio/source/svgreader/svgstyleattributes.cxx, svgio/qa/cppunit/SvgImportTest.cxx, svgio/source/svgreader/svgtools.cxx, svgio/source/svgreader/svgsvgnode.cxx, svgio/source/svgreader/svgnode.cxx, svgio/source/svgreader/svgdocumenthandler.cxx, svgio/source/svgreader/svgcharacternode.cxx, svgio/inc/svgstyleattributes.hxx.",
+   "source": "repo:/svgio",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:53"
+  },
+  {
+   "id": 101,
+   "text": "Module svl: 111 source files (90 cxx, 13 hxx, 8 java). Key files: svl/source/numbers/zformat.cxx, svl/source/numbers/zforlist.cxx, svl/source/numbers/zforfind.cxx, svl/source/numbers/zforscan.cxx, svl/qa/unit/svl.cxx, svl/source/crypto/cryptosign.cxx, svl/source/items/itemset.cxx, svl/source/passwordcontainer/passwordcontainer.cxx.",
+   "source": "repo:/svl",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:53"
+  },
+  {
+   "id": 102,
+   "text": "Module svtools: 120 source files (101 cxx, 19 hxx). Key files: svtools/source/svrtf/rtfkeywd.cxx, svtools/source/control/ruler.cxx, svtools/source/svhtml/parhtml.cxx, svtools/source/control/tabbar.cxx, svtools/source/brwbox/brwbox1.cxx, svtools/source/brwbox/brwbox2.cxx, svtools/source/misc/sampletext.cxx, svtools/source/control/ctrlbox.cxx.",
+   "source": "repo:/svtools",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:53"
+  },
+  {
+   "id": 103,
+   "text": "Module svx: 891 source files (600 cxx, 288 hxx, 1 h, 1 py, 1 sh). Key files: svx/source/customshapes/EnhancedCustomShapeGeometry.cxx, svx/source/fmcomp/gridcell.cxx, svx/source/tbxctrls/tbcontrl.cxx, svx/source/form/fmshimp.cxx, svx/source/form/formcontroller.cxx, svx/source/unodraw/unoshape.cxx, svx/source/customshapes/EnhancedCustomShape2d.cxx, svx/source/dialog/svxruler.cxx.",
+   "source": "repo:/svx",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:53"
+  },
+  {
+   "id": 104,
+   "text": "Module sw: 2563 source files (1249 cxx, 1006 hxx, 298 py, 8 h, 1 java, 1 sh). Key files: sw/source/writerfilter/dmapper/DomainMapper_Impl.cxx, sw/source/filter/ww8/docxattributeoutput.cxx, sw/source/uibase/utlui/content.cxx, sw/source/core/layout/paintfrm.cxx, sw/source/filter/ww8/ww8scan.cxx, sw/source/uibase/docvw/edtwin.cxx, sw/source/core/layout/tabfrm.cxx, sw/source/filter/ww8/ww8par6.cxx.",
+   "source": "repo:/sw",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:53"
+  },
+  {
+   "id": 105,
+   "text": "Module swext: 12 source files (12 java). Key files: swext/mediawiki/src/com/sun/star/wiki/Helper.java, swext/mediawiki/src/com/sun/star/wiki/WikiEditSettingDialog.java, swext/mediawiki/src/com/sun/star/wiki/WikiProtocolSocketFactory.java, swext/mediawiki/src/com/sun/star/wiki/WikiPropDialog.java, swext/mediawiki/src/com/sun/star/wiki/WikiEditorImpl.java, swext/mediawiki/src/com/sun/star/wiki/Settings.java, swext/mediawiki/src/com/sun/star/wiki/WikiOptionsEventHandlerImpl.java, swext/mediawiki/src/com/sun/star/wiki/WikiDialog.java.",
+   "source": "repo:/swext",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:53"
+  },
+  {
+   "id": 106,
+   "text": "Module sysui: 7 source files (4 pl, 3 sh). Key files: sysui/desktop/share/create_mime_xml.pl, sysui/desktop/util/pkgdiff.pl, sysui/desktop/share/brand.pl, sysui/desktop/share/create_tree.sh, sysui/desktop/macosx/gen_strings.pl, sysui/desktop/share/apparmor.sh, sysui/desktop/share/openoffice.sh.",
+   "source": "repo:/sysui",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:53"
+  },
+  {
+   "id": 107,
+   "text": "Module testtools: 24 source files (9 cxx, 6 py, 5 java, 3 hxx, 1 idl). Key files: testtools/com/sun/star/comp/bridge/TestComponent.java, testtools/source/bridgetest/bridgetest.cxx, testtools/source/bridgetest/cppobj.cxx, testtools/source/performance/ubtest.cxx, testtools/source/bridgetest/cli/cli_cpp_bridgetest.cxx, testtools/source/bridgetest/idl/bridgetest.idl, testtools/source/bridgetest/constructors.cxx, testtools/source/bridgetest/pyuno/core.py.",
+   "source": "repo:/testtools",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:53"
+  },
+  {
+   "id": 108,
+   "text": "Module toolkit: 172 source files (91 cxx, 70 hxx, 11 java). Key files: toolkit/source/awt/vclxwindows.cxx, toolkit/source/controls/unocontrols.cxx, toolkit/source/awt/vclxtoolkit.cxx, toolkit/source/controls/table/tablecontrol_impl.cxx, toolkit/source/awt/vclxwindow.cxx, toolkit/source/controls/controlmodelcontainerbase.cxx, toolkit/source/controls/unocontrolmodel.cxx, toolkit/source/controls/unocontrol.cxx.",
+   "source": "repo:/toolkit",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:53"
+  },
+  {
+   "id": 109,
+   "text": "Module tools: 83 source files (78 cxx, 3 hxx, 1 h, 1 c). Key files: tools/source/fsys/urlobj.cxx, tools/source/generic/poly.cxx, tools/source/stream/stream.cxx, tools/source/inet/inetmime.cxx, tools/source/generic/config.cxx, tools/source/memtools/multisel.cxx, tools/qa/cppunit/test_urlobj.cxx, tools/source/generic/bigint.cxx.",
+   "source": "repo:/tools",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:53"
+  },
+  {
+   "id": 110,
+   "text": "Module ucb: 218 source files (103 hxx, 100 cxx, 15 java). Key files: ucb/source/ucp/webdav-curl/webdavcontent.cxx, ucb/source/ucp/webdav-curl/CurlSession.cxx, ucb/source/ucp/file/filtask.cxx, ucb/source/ucp/tdoc/tdoc_content.cxx, ucb/source/ucp/cmis/cmis_content.cxx, ucb/source/ucp/package/pkgcontent.cxx, ucb/source/core/ucbstore.cxx, ucb/source/core/ucbcmds.cxx.",
+   "source": "repo:/ucb",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:53"
+  },
+  {
+   "id": 111,
+   "text": "Module ucbhelper: 25 source files (22 cxx, 3 hxx). Key files: ucbhelper/source/provider/resultset.cxx, ucbhelper/source/client/content.cxx, ucbhelper/source/client/proxydecider.cxx, ucbhelper/source/provider/contenthelper.cxx, ucbhelper/source/provider/propertyvalueset.cxx, ucbhelper/source/provider/providerhelper.cxx, ucbhelper/source/provider/resultsetmetadata.cxx, ucbhelper/source/provider/interactionrequest.cxx.",
+   "source": "repo:/ucbhelper",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:53"
+  },
+  {
+   "id": 112,
+   "text": "Module udkapi: 418 source files (418 idl). Key files: udkapi/type_reference/udkapi.idl, udkapi/com/sun/star/registry/XRegistryKey.idl, udkapi/com/sun/star/beans/XIntrospectionAccess.idl, udkapi/com/sun/star/container/XMap.idl, udkapi/com/sun/star/uri/XUriReference.idl, udkapi/com/sun/star/script/XEventAttacherManager.idl, udkapi/com/sun/star/uri/XUriReferenceFactory.idl, udkapi/com/sun/star/reflection/XIdlClass.idl.",
+   "source": "repo:/udkapi",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:54"
+  },
+  {
+   "id": 113,
+   "text": "Module uitest: 43 source files (43 py). Key files: uitest/ui_logger_dsl/dsl_core.py, uitest/uitest/test.py, uitest/loginterpreter.py, uitest/impress_tests/drawinglayer.py, uitest/libreoffice/connection.py, uitest/impress_tests/backgrounds.py, uitest/test_main.py, uitest/libreoffice/calc/csv_dialog.py.",
+   "source": "repo:/uitest",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:54"
+  },
+  {
+   "id": 114,
+   "text": "Module unodevtools: 11 source files (7 cxx, 4 hxx). Key files: unodevtools/source/skeletonmaker/cppcompskeleton.cxx, unodevtools/source/skeletonmaker/javacompskeleton.cxx, unodevtools/source/skeletonmaker/cpptypemaker.cxx, unodevtools/source/skeletonmaker/javatypemaker.cxx, unodevtools/source/skeletonmaker/skeletoncommon.cxx, unodevtools/source/skeletonmaker/skeletonmaker.cxx, unodevtools/source/skeletonmaker/skeletoncommon.hxx, unodevtools/source/skeletonmaker/skeletoncpp.hxx.",
+   "source": "repo:/unodevtools",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:54"
+  },
+  {
+   "id": 115,
+   "text": "Module unoidl: 22 source files (8 idl, 8 cxx, 6 hxx). Key files: unoidl/source/unoidl-check.cxx, unoidl/source/unoidlprovider.cxx, unoidl/source/unoidl-read.cxx, unoidl/source/unoidl-write.cxx, unoidl/source/legacyprovider.cxx, unoidl/source/sourcetreeprovider.cxx, unoidl/source/sourceprovider-scanner.hxx, unoidl/source/unoidl.cxx.",
+   "source": "repo:/unoidl",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:54"
+  },
+  {
+   "id": 116,
+   "text": "Module unotest: 19 source files (14 cxx, 4 py, 1 js). Key files: unotest/source/embindtest/embindtest.cxx, unotest/source/embindtest/embindtest.js, unotest/source/cpp/macros_test.cxx, unotest/source/python/org/libreoffice/unotest.py, unotest/source/cpp/unoexceptionprotector/unoexceptionprotector.cxx, unotest/source/cpp/filters-test.cxx, unotest/source/cpp/officeconnection.cxx, unotest/source/cpp/unobootstrapprotector/unobootstrapprotector.cxx.",
+   "source": "repo:/unotest",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:54"
+  },
+  {
+   "id": 117,
+   "text": "Module unoxml: 69 source files (37 cxx, 31 hxx, 1 java). Key files: unoxml/source/rdf/librdf_repository.cxx, unoxml/qa/complex/unoxml/DOMTest.java, unoxml/qa/unit/rdftest.cxx, unoxml/qa/unit/domtest.cxx, unoxml/source/dom/document.cxx, unoxml/source/dom/node.cxx, unoxml/source/dom/element.cxx, unoxml/source/rdf/CURI.cxx.",
+   "source": "repo:/unoxml",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:54"
+  },
+  {
+   "id": 118,
+   "text": "Module ure: 7 source files (6 java, 1 idl). Key files: ure/source/uretest/JavaClient.java, ure/source/uretest/JavaMain.java, ure/source/uretest/JavaTest.java, ure/source/uretest/Tester.java, ure/source/uretest/types.idl, ure/source/uretest/Runner.java, ure/source/uretest/JavaNative.java.",
+   "source": "repo:/ure",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:54"
+  },
+  {
+   "id": 119,
+   "text": "Module uui: 55 source files (30 cxx, 25 hxx). Key files: uui/source/iahndl.cxx, uui/source/iahndl-authentication.cxx, uui/source/iahndl-errorhandler.cxx, uui/source/passwordcontainer.cxx, uui/source/iahndl-ssl.cxx, uui/source/iahndl-locking.cxx, uui/source/iahndl-ioexceptions.cxx, uui/source/iahndl-filter.cxx.",
+   "source": "repo:/uui",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:54"
+  },
+  {
+   "id": 120,
+   "text": "Module vbahelper: 80 source files (48 cxx, 32 hxx). Key files: vbahelper/source/vbahelper/vbahelper.cxx, vbahelper/source/msforms/vbacontrol.cxx, vbahelper/source/vbahelper/vbashape.cxx, vbahelper/source/msforms/vbacontrols.cxx, vbahelper/source/vbahelper/vbaapplicationbase.cxx, vbahelper/source/vbahelper/vbaeventshelperbase.cxx, vbahelper/source/vbahelper/vbashapes.cxx, vbahelper/source/vbahelper/vbalineformat.cxx.",
+   "source": "repo:/vbahelper",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:54"
+  },
+  {
+   "id": 121,
+   "text": "Module vcl: 2002 source files (1139 cxx, 639 hxx, 223 h, 1 c). Key files: vcl/unx/gtk3/gtkinst.cxx, vcl/source/pdf/pdfwriter_impl.cxx, vcl/qa/cppunit/pdfexport/pdfexport2.cxx, vcl/source/app/salvtables.cxx, vcl/unx/gtk3/gtkframe.cxx, vcl/win/window/salframe.cxx, vcl/qa/cppunit/pdfexport/pdfexport.cxx, vcl/source/window/toolbox.cxx.",
+   "source": "repo:/vcl",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:54"
+  },
+  {
+   "id": 122,
+   "text": "Module winaccessibility: 79 source files (37 cxx, 20 hxx, 20 h, 2 idl). Key files: winaccessibility/source/UAccCOM/MAccessible.cxx, winaccessibility/source/service/AccObjectWinManager.cxx, winaccessibility/source/UAccCOM/AccTable.cxx, winaccessibility/source/service/AccObject.cxx, winaccessibility/source/UAccCOM/AccTextBase.cxx, winaccessibility/source/service/AccContainerEventListener.cxx, winaccessibility/source/UAccCOM/AccEditableText.cxx, winaccessibility/source/UAccCOM/AccHypertext.cxx.",
+   "source": "repo:/winaccessibility",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:54"
+  },
+  {
+   "id": 123,
+   "text": "Module wizards: 191 source files (116 java, 75 py). Key files: wizards/source/scriptforge/python/scriptforge.py, wizards/source/access2base/access2base.py, wizards/com/sun/star/wizards/reportbuilder/layout/ReportBuilderLayouter.java, wizards/com/sun/star/wizards/common/HelpIds.java, wizards/com/sun/star/wizards/letter/LetterWizardDialog.py, wizards/com/sun/star/wizards/letter/LetterWizardDialogImpl.py, wizards/com/sun/star/wizards/ui/FilterComponent.java, wizards/com/sun/star/wizards/common/HelpIds.py.",
+   "source": "repo:/wizards",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:54"
+  },
+  {
+   "id": 124,
+   "text": "Module writerperfect: 126 source files (65 cxx, 58 hxx, 2 h, 1 py). Key files: writerperfect/qa/unit/EPUBExportTest.cxx, writerperfect/source/writer/exp/txtparai.cxx, writerperfect/source/writer/exp/xmlimp.cxx, writerperfect/source/common/WPXSvInputStream.cxx, writerperfect/source/calc/MSWorksCalcImportFilter.cxx, writerperfect/source/writer/exp/txtstyli.cxx, writerperfect/qa/unit/WPXSvStreamTest.cxx, writerperfect/source/writer/exp/xmlfmt.cxx.",
+   "source": "repo:/writerperfect",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:54"
+  },
+  {
+   "id": 125,
+   "text": "Module xmlhelp: 24 source files (12 hxx, 12 cxx). Key files: xmlhelp/source/cxxhelp/provider/databases.cxx, xmlhelp/source/treeview/tvread.cxx, xmlhelp/source/cxxhelp/provider/urlparameter.cxx, xmlhelp/source/cxxhelp/provider/databases.hxx, xmlhelp/source/cxxhelp/provider/content.cxx, xmlhelp/source/cxxhelp/provider/resultsetbase.hxx, xmlhelp/source/cxxhelp/provider/resultsetforquery.cxx, xmlhelp/source/cxxhelp/provider/resultsetbase.cxx.",
+   "source": "repo:/xmlhelp",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:54"
+  },
+  {
+   "id": 126,
+   "text": "Module xmloff: 672 source files (365 cxx, 307 hxx). Key files: xmloff/source/core/xmltoken.cxx, xmloff/source/draw/shapeexport.cxx, xmloff/source/chart/SchXMLExport.cxx, xmloff/source/text/txtparae.cxx, xmloff/source/draw/ximpshap.cxx, xmloff/source/text/txtflde.cxx, xmloff/source/text/txtfldi.cxx, xmloff/source/draw/sdxmlexp.cxx.",
+   "source": "repo:/xmloff",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:54"
+  },
+  {
+   "id": 127,
+   "text": "Module xmlreader: 3 source files (3 cxx). Key files: xmlreader/source/xmlreader.cxx, xmlreader/source/pad.cxx, xmlreader/source/span.cxx.",
+   "source": "repo:/xmlreader",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:54"
+  },
+  {
+   "id": 128,
+   "text": "Module xmlscript: 24 source files (15 cxx, 9 hxx). Key files: xmlscript/source/xmldlg_imexp/xmldlg_impmodels.cxx, xmlscript/source/xmldlg_imexp/xmldlg_import.cxx, xmlscript/source/xmldlg_imexp/xmldlg_expmodels.cxx, xmlscript/source/xmldlg_imexp/xmldlg_export.cxx, xmlscript/source/xmldlg_imexp/imp_share.hxx, xmlscript/source/xml_helper/xml_impctx.cxx, xmlscript/source/xmlflat_imexp/xmlbas_export.cxx, xmlscript/qa/cppunit/test.cxx.",
+   "source": "repo:/xmlscript",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:54"
+  },
+  {
+   "id": 129,
+   "text": "Module xmlsecurity: 132 source files (68 cxx, 56 hxx, 4 h, 2 sh, 1 py, 1 java). Key files: xmlsecurity/qa/unit/signing/signing.cxx, xmlsecurity/source/helper/xsecparser.cxx, xmlsecurity/source/helper/ooxmlsecparser.cxx, xmlsecurity/source/xmlsec/mscrypt/securityenvironment_mscryptimpl.cxx, xmlsecurity/source/component/documentdigitalsignatures.cxx, xmlsecurity/source/helper/xsecctl.cxx, xmlsecurity/source/framework/saxeventkeeperimpl.cxx, xmlsecurity/source/dialogs/digitalsignaturesdialog.cxx.",
+   "source": "repo:/xmlsecurity",
+   "agent": "indexer",
+   "kind": "module",
+   "created_at": "2026-08-08 17:21:54"
+  },
+  {
+   "id": 130,
+   "text": "LibreOffice core README: # LibreOffice\n[![Coverity Scan Build Status](https://scan.coverity.com/projects/211/badge.svg)](https://scan.coverity.com/projects/211) [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/307/badge)](https://www.bestpractices.dev/projects/307) [![Translation status](https://weblate.documentfoundation.org/widgets/libo_ui-master/-/svg-badge.svg)](https://weblate.documentfoundation.org/engage/libo_ui-master/?utm_source=widget)\n\n<img align=\"right\" width=\"150\" src=\"https://opensource.org/wp-content/uploads/2009/06/OSIApproved.svg\">\n\nLibreOffice is an integrated office suite based on copyleft licenses\nand compatible with most document formats and standards. Libreoffice\nis backed by The Document Foundation, which represents a large\nindependent community of enterprises, developers and other volunteers\nmoved by the common goal of bringing to the market the best software\nfor personal productivity. LibreOffice is open source, and free to\ndownload, use and distribute.\n\nA quick overview of the LibreOffice code structure.\n\n## Overview\n\nYou can develop for LibreOffice in one of two ways, one\nrecommended and one much less so. First the somewhat less recommended\nway: it is possible to use the SDK to develop an extension,\nfor which you can read the [API docs](https://api.libreoffice.org/)\nand [Developers Guide](https://wiki.documentfoundation.org/Documentation/DevGuide).\nThis re-uses the (extremely generic) UNO APIs that are also used by\nmacro scripting in StarBasic.\n\nThe best way to add a generally useful feature to LibreOffice\nis to work on the code base however. Overall this way makes it easier\nto compile and build your code, it avoids any arbitrary limitations of\nour scripting APIs, and in general is far more simple and intuitive -\nif you are a reasonably able C++ programmer.\n\n## The Build Chain and Runtime Baselines\n\nThese are the current minimal operating system and compiler versions to\nrun and compile LibreOffice, also used by the TDF builds:\n\n* Windows:\n    * Runtime: Windows 10\n    * Build: [wsl-as-helper](https://wiki.documentfoundation.org/Development/BuildingOnWSLWindows) + Visual Studio 2022\n* macOS:\n    * Runtime: 11\n    * Build: 13 or later + Xcode 14.3 or later (using latest version available for a given version of macOS)\n* Linux:\n    * Runtime: RHEL 9 or CentOS 9 and comparable\n    * Build: either GCC 13; or Clang 18 with libstdc++ 11\n* iOS (only for LibreOfficeKit):\n    * Runtime: 14.5 (only support for newer i devices == 64 bit)\n    * Build: Xcode 12.5 and iPhone SDK 14.5\n* Android:\n    * Build: NDK 27 and SDK 30.0.3\n* Emscripten / WASM:\n    * Runtime: a browser with SharedMemory support (threads + atomics)\n    * Build: Qt 5.15 with Qt supported Emscripten 1.39.8\n    * See [README.wasm](static/README.wasm.md)\n\nJava is required for building many parts of LibreOffice. In TDF Wiki article\n[Development/Java](https://wiki.documentfoundation.org/Development/Java), the\nexact modules that depend on Java are listed.\n\nThe baseline for Java is Java Development Kit (JDK) Version 17 or later.\n\nThe baseline for Python is version 3.11. It follows the version available\nin SUSE Linux Enterprise Desktop and the Maintenance Support version of\nRed Hat Enterprise Linux.\n\nIf you want to use Clang with the LibreOffice compiler plugins, the minimal\nversion of Clang is 18. Since Xcode doesn't provide the compiler plugin\nheaders, you have to compile your own Clang to use them on macOS.\n\nYou can find the TDF configure switches in the `distro-configs/` directory.\n\nTo setup your initial build environment on Windows and macOS, we provide\nthe LibreOffice Development Environment\n([LODE](https://wiki.documentfoundation.org/Development/lode)) scripts.\n\nFor more information see the build instructions for your platform in the\n[TDF wiki](https://wiki.documentfoundation.org/Development/How_to_build).\n\n## The Important Bits of Code\n\nEach module should have a `README.md` file inside it which has some\ndegree of documentation for that module; patches are most welcome to\nimprove those. We have those turned into a web page here:\n\n<https://docs.libreoffice.org/>\n\nHowever, there are two hundred modules, many of them of only\nperipheral interest for a specialist audience. So - where is the\ngood stuff, the code that is most useful. Here is a quick overview of\nthe most important ones:\n\nModule    | Description\n----------|-------------------------------------------------\n[sal/](sal)             | this provides a simple System Abstraction Layer\n[tools/](tools)         | this provides basic internal types: `Rectangle`, `Color` etc.\n[vcl/](vcl)             | this is the widget toolkit library and one rendering abstraction\n[framework/](framework) | UNO framework, responsible for building toolbars, menus, status bars, and the chrome around the document using widgets from VCL, and XML descriptions from `/uiconfig/` files\n[sfx2/](sfx2)           | legacy core framework used by Writer/Calc/Draw: document model / load/save / signals for actions etc.\n[svx/](svx)             | drawing model related helper code, including much of Draw/Impress\n\nThen applications\n\nModule    | Description\n----------|-------------------------------------------------\n[desktop/](desktop)  | this is where the `main()` for the application lives, init / bootstrap. the name dates back to an ancient StarOffice that also drew a desktop\n[sw/](sw/)           | Writer\n[sc/](sc/)           | Calc\n[sd/](sd/)           | Draw / Impress\n\nThere are several other libraries that are helpful from a graphical perspective:\n\nModule    | Description\n----------|-------------------------------------------------\n[basegfx/](basegfx)  | algorithms and data-types for graphics as used in the canvas\n[canvas/](canvas)   | new (UNO) canvas rendering model with various backends\n[cppcanvas/](cppcanvas) | C++ helper classes for using the UNO canvas\n[drawinglayer/](drawinglayer) | View code to render drawable objects and break them down into primitives we can render more easily.\n\n## Rules for",
+   "source": "repo:/README.md",
+   "agent": "indexer",
+   "kind": "doc",
+   "created_at": "2026-08-08 17:21:55"
+  },
+  {
+   "id": 131,
+   "text": "Module UnoControls top symbols: unocontrols::n, com::n, star::n, sun::n, createPeer::f, dispose::f, getModel::f, impl_paint::f, setModel::f, advise::f, impl_getWindowDescriptor::f, setPosSize::f, unadvise::f, acquire::f, awt::n, disposing::f, impl_recalcLayout::f, queryInterface::f, release::f, setValue::f, CONTROLNAME_PROGRESSBAR::v, CONTROLNAME_TEXT::v, calcAdjustedSize::f, getConnectionPointTypes::f, getGraphics::f, getImplementationName::f, getMinimumSize::f, getPreferredSize::f, getSupportedServiceNames::f, getValue::f.",
+   "source": "tags:/UnoControls",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:00"
+  },
+  {
+   "id": 132,
+   "text": "Module android top symbols: LOGTAG::f, org.mozilla.gecko.gfx::p, org.libreoffice::p, mContext::f, org.libreoffice.canvas::p, LOEvent::m, onDraw::m, draw::m, onHitTest::m, destroy::m, reposition::m, saveDocumentAs::m, toString::m, fuzzyEquals::m, getOrigin::m, mLayerClient::f, onCreate::m, org.libreoffice.ui::p, postUnoCommand::m, FloatSize::m, IntSize::m, contains::m, dragEnd::m, dragStart::m, dragging::m, finalize::m, getHandleType::m, getSize::m, mActivity::f, mPosition::f.",
+   "source": "tags:/android",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:00"
+  },
+  {
+   "id": 133,
+   "text": "Module animations top symbols: AnimationNode::f, com::n, maChildren::m, mpTypes::m, star::n, sun::n, AnimationNode::c, AnimationNodeBase::t, TimeContainerEnumeration::f, TimeContainerEnumeration::c, __anon59995f150111::n, addChangesListener::f, animcore::n, appendChild::f, beans::n, com_sun_star_animations_AnimateColor_get_implementation::f, com_sun_star_animations_AnimateMotion_get_implementation::f, com_sun_star_animations_AnimatePhysics_get_implementation::f, com_sun_star_animations_AnimateSet_get_implementation::f, com_sun_star_animations_AnimateTransform_get_implementation::f, com_sun_star_animations_Animate_get_implementation::f, com_sun_star_animations_Audio_get_implementation::f, com_sun_star_animations_Command_get_implementation::f, com_sun_star_animations_IterateContainer_get_implementation::f, com_sun_star_animations_ParallelTimeContainer_get_implementation::f, com_sun_star_animations_SequenceTimeContainer_get_implementation::f, com_sun_star_animations_TransitionFilter_get_implementation::f, createClone::f, createEnumeration::f, fireChangeListener::f.",
+   "source": "tags:/animations",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:00"
+  },
+  {
+   "id": 134,
+   "text": "Module avmedia top symbols: avmedia::n, getImplementationName::f, getSupportedServiceNames::f, supportsService::f, gstreamer::n, start::f, win::n, createPlayer::f, disposing::f, create::f, getDuration::f, grabFrame::f, macavf::n, qt::n, dispose::f, getMediaTime::f, getVolumeDB::f, isMute::f, isPlaying::f, setMediaTime::f, setMute::f, setVolumeDB::f, stop::f, IMPL_LINK::f, Manager::c, createFrameGrabber::f, createPlayerWindow::f, getPreferredPlayerWindowSize::f, gtk::n, isPlaybackLoop::f.",
+   "source": "tags:/avmedia",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:00"
+  },
+  {
+   "id": 135,
+   "text": "Module basctl top symbols: basctl::n, IMPL_LINK_NOARG::f, IMPL_LINK::f, dispose::f, disposing::f, Paint::f, MouseButtonDown::f, Resize::f, DoScroll::f, MouseButtonUp::f, MouseMove::f, Notify::f, Activating::f, DataChanged::f, Deactivating::f, ExecuteGlobal::f, GetState::f, getAccessibleChild::f, m_aDocument::m, m_aLibName::m, onDocumentClosed::f, onDocumentCreated::f, onDocumentModeChanged::f, onDocumentOpened::f, onDocumentSave::f, onDocumentSaveAs::f, onDocumentSaveAsDone::f, onDocumentSaveDone::f, onDocumentTitleChanged::f, CheckButtons::f.",
+   "source": "tags:/basctl",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:00"
+  },
+  {
+   "id": 136,
+   "text": "Module basegfx top symbols: basegfx::n, operator ==::f, insert::f, transform::f, utils::n, append::f, flip::f, remove::f, getModifiedColor::f, count::f, getModifierName::f, translate::f, operator *=::f, begin::f, end::f, setClosed::f, clear::f, getNormal::f, hasDoublePoints::f, isClosed::f, maVector::m, operator *::f, operator <::f, removeDoublePoints::f, EmptyMethod::f, isInside::f, maPoints::m, reserve::f, scale::f, setUp::f.",
+   "source": "tags:/basegfx",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:00"
+  },
+  {
+   "id": 137,
+   "text": "Module basic top symbols: CPPUNIT_TEST_FIXTURE::f, Find::f, Notify::f, assignTo::f, Clear::f, LoadData::f, StoreData::f, GetType::f, getWithOverflow_impl::f, Create::f, CreateObject::f, operator =::f, Error::f, basic::n, operator +=::f, Call::f, Get::f, SbiExprNode::f, FatalError::f, Gen::f, bError::m, disposing::f, getByName::f, getElementNames::f, getElementType::f, hasByName::f, hasElements::f, GetSize::f, GetString::f, Remove::f.",
+   "source": "tags:/basic",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:00"
+  },
+  {
+   "id": 138,
+   "text": "Module bean top symbols: com.sun.star.comp.beans::p, dispose::m, ScreenComparer::m, addEventListener::m, complex.bean::p, removeEventListener::m, run::m, CallWatchThread::m, Java_com_sun_star_comp_beans_LocalOfficeWindow_getNativeWindow::f, Java_com_sun_star_comp_beans_LocalOfficeWindow_getNativeWindowSystemType::f, LocalOfficeConnection::m, NoConnectionException::m, OOoBean::m, ThrowException::f, WriterFrame::m, aTag::f, aquireSystemWindow::m, connect::m, createOfficeWindow::m, dbgPrint::m, disposing::m, getAWTComponent::m, getComponentContext::m, getController::m, getFrame::m, getIdentifier::m, getStartupTime::m, getText::m, getUNOWindowPeer::m, grabOne::m.",
+   "source": "tags:/bean",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:00"
+  },
+  {
+   "id": 139,
+   "text": "Module bin top symbols: __init__::m, main::f, uifile::v, line::v, a::v, idx1::v, cnt::v, emit::m, ET::I, args::v, filtered_sym::v, parser::v, setUp::m, sym::v, ShouldProcess::m, found_reason_to_exclude::v, idx2::v, root::v, subprocess_find::v, subprocess_nm::v, targetpattern::v, targetprefix::v, usage::f, CopyDebug::m, GetCleanRoot::m, GetFilename::m, GetRevision::m, GetRoot::m, errors::v, line2::v.",
+   "source": "tags:/bin",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:00"
+  },
+  {
+   "id": 140,
+   "text": "Module binaryurp top symbols: binaryurp::n, com::n, star::n, sun::n, uno::n, bridge_::m, BinaryAny::f, state_::m, rtl::n, execute::f, mutex_::m, tid_::m, Item::f, Test::c, currentContextMode_::m, current_context::n, data_::m, exception::m, get::f, getTid::f, getType::f, lastOid_::m, lastTid_::m, lastType_::m, map_::m, member::m, oidCache::m, oid_::m, operator <::f, operator =::f.",
+   "source": "tags:/binaryurp",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:00"
+  },
+  {
+   "id": 141,
+   "text": "Module bridges top symbols: CPPU_CURRENT_NAMESPACE::n, bridges::n, cpp_uno::n, shared::n, ProxyRtti::s, Slot::s, addLocalFunctions::f, codeSnippetSize::v, flushCode::f, getBlockSize::f, initializeBlock::f, mapBlockToVtable::f, unoInterfaceProxyDispatch::f, fn::m, __cxa_eh_globals::s, caughtExceptions::m, codeSnippet::f, cpp_call::f, deleteException::f, raiseException::f, uncaughtExceptions::m, __cxa_exception::s, actionRecord::m, adjustedPtr::m, callVirtualMethod::f, catchTemp::m, cpp2uno_call::f, exceptionDestructor::m, exceptionType::m, handlerCount::m.",
+   "source": "tags:/bridges",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:00"
+  },
+  {
+   "id": 142,
+   "text": "Module canvas top symbols: dxcanvas::n, com::n, star::n, sun::n, canvas::n, disposing::f, vclcanvas::n, cairocanvas::n, rendering::n, getImplementationName::f, getSupportedServiceNames::f, oglcanvas::n, supportsService::f, disposeThis::f, init::f, createSurface::f, verifyInput::f, operator ()::f, basegfx::n, clear::f, getSize::f, repaint::f, draw::f, getOutDev::f, mpSpriteCanvas::m, redraw::f, showBuffer::f, switchBuffer::f, geometry::n, getData::f.",
+   "source": "tags:/canvas",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:00"
+  },
+  {
+   "id": 143,
+   "text": "Module chart2 top symbols: chart::n, CPPUNIT_TEST_FIXTURE::f, com::n, star::n, sun::n, wrapper::n, getSupportedServiceNames::f, IMPL_LINK_NOARG::f, supportsService::f, getImplementationName::f, uno::n, setPropertyValue::f, disposing::f, getPropertyValue::f, getPropertySetInfo::f, createClone::f, beans::n, getInfoHelper::f, GetDefaultValue::f, chart2::n, getPropertyDefault::f, m_spChart2ModelContact::m, impl::n, operator () ::f, IMPL_LINK::f, lcl_AddPropertiesToVector::f, FillItemSet::f, modified::f, sidebar::n, weld::n.",
+   "source": "tags:/chart2",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:00"
+  },
+  {
+   "id": 144,
+   "text": "Module cli_ure top symbols: i::v, nPos::v, cli_uno::n, p::v, index::v, param::v, td::v, WIN32_LEAN_AND_MEAN::d, len::v, m_xType::m, attr::v, c::v, climaker::n, cur::v, e::v, member_type::v, n::v, numTypes::v, pdata::v, usTypeName::v, Cli_environment::f, Constants::s, aLong::v, acquire::f, chars::v, comp_td::v, countParams::v, curChar::v, dims::v, element_type::v.",
+   "source": "tags:/cli_ure",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:01"
+  },
+  {
+   "id": 145,
+   "text": "Module codemaker top symbols: codemaker::n, dumpHppFile::f, entity_::m, dumpDeclaration::f, operator <<::f, addComprehensiveGetCppuTypeIncludes::f, append::f, cppumaker::n, dumpComprehensiveGetCppuType::f, dumpNormalGetCppuType::f, SAL_IMPLEMENT_MAIN_WITH_ARGS::f, dumpHdlFile::f, initOptions::f, m_manager::m, m_verbose::m, prepareHelp::f, checkInheritedMemberCount::f, dumpLightGetCppuType::f, getBaseUnoName::f, getSafeIdentifier::f, m_dryRun::m, m_filePath::m, m_indentLevel::m, m_typeManager::m, prepareVersion::f, produceEnum::f, produceInterface::f, produceService::f, splitName::f, Kind::g.",
+   "source": "tags:/codemaker",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:01"
+  },
+  {
+   "id": 146,
+   "text": "Module comphelper top symbols: comphelper::n, disposing::f, getImplementationName::f, getSupportedServiceNames::f, supportsService::f, com::n, star::n, sun::n, CPPUNIT_TEST_FIXTURE::f, uno::n, readSomeBytes::f, dispose::f, operator ()::f, operator <<::f, addPropertyChangeListener::f, getFastPropertyValue::f, getLength::f, m_aMutex::m, queryInterface::f, setPropertyValue::f, addVetoableChangeListener::f, flush::f, get::f, getPropertyDefault::f, getPropertyState::f, getPropertyValue::f, initialize::f, removePropertyChangeListener::f, setPropertyToDefault::f, setPropertyValues::f.",
+   "source": "tags:/comphelper",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:01"
+  },
+  {
+   "id": 147,
+   "text": "Module compilerplugins top symbols: run::f, preRun::f, X::v, f::f, VisitVarDecl::f, f1::f, main::f, VisitCallExpr::f, shouldVisitTemplateInstantiations::f, Foo::s, S::s, definitionSet::v, VisitFunctionDecl::f, TraverseFunctionDecl::f, VisitDeclRefExpr::f, TraverseCXXMethodDecl::f, VisitCXXConstructExpr::f, foo::f, f2::f, shouldVisitImplicitCode::f, VisitCXXMemberCallExpr::f, VisitCXXOperatorCallExpr::f, operator <::f, sourceLocation::m, test::f, test1::n, tokens::v, TraverseCXXConstructorDecl::f, loplugin::n, natural_sort_key::f.",
+   "source": "tags:/compilerplugins",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:01"
+  },
+  {
+   "id": 148,
+   "text": "Module config_host top symbols: ALFRESCO_CLOUD_AUTH_URL::d, ALFRESCO_CLOUD_BASE_URL::d, ALFRESCO_CLOUD_CLIENT_ID::d, ALFRESCO_CLOUD_CLIENT_SECRET::d, ALFRESCO_CLOUD_REDIRECT_URI::d, ALFRESCO_CLOUD_SCOPE::d, ALFRESCO_CLOUD_TOKEN_URL::d, BOX2D_HEADER::d, BUILDCONFIG::d, BUILDCONFIG_RECORDED::d, CONFIG_AFDKO_H::d, CONFIG_BOX2D_H::d, CONFIG_BUILDCONFIG_H::d, CONFIG_BUILDID_H::d, CONFIG_CAIRO_CANVAS_H::d, CONFIG_CAIRO_RGBA_H::d, CONFIG_CLANG_H::d, CONFIG_CRYPTO_H::d, CONFIG_CXXABI_H::d, CONFIG_EOT_H::d, CONFIG_EXTENSION_UPDATE::d, CONFIG_FEATURES_H::d, CONFIG_FEATURE_DESKTOP_H::d, CONFIG_FEATURE_OPENCL_H::d, CONFIG_FEATURE_WASM_STRIP_H::d, CONFIG_FIREBIRD_H::d, CONFIG_FOLDERS_H::d, CONFIG_FONTS_H::d, CONFIG_FUZZERS_H::d, CONFIG_GLOBAL_H::d.",
+   "source": "tags:/config_host",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:01"
+  },
+  {
+   "id": 149,
+   "text": "Module configmgr top symbols: configmgr::n, getImplementationName::f, parseValue::f, com::n, getSupportedServiceNames::f, star::n, sun::n, writeValueContent_::f, Service::f, clone::f, kind::f, lock_::m, root_::m, supportsService::f, Service::c, context_::m, data_::m, event::m, get::f, getMembers::f, listener::m, uno::n, ~Service::f, characters::f, endElement::f, flush::f, getRoot::f, getTemplateName::f, getTextMode::f, members_::m.",
+   "source": "tags:/configmgr",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:01"
+  },
+  {
+   "id": 150,
+   "text": "Module connectivity top symbols: connectivity::n, disposing::f, queryInterface::f, operate::f, pq_sdbc_driver::n, getTypes::f, release::f, acquire::f, operator =::f, theClass::m, getInfoHelper::f, construct::f, createArrayHelper::f, getMetaData::f, close::f, getConnection::f, getSupportedServiceNames::f, getImplementationName::f, createObject::f, ado::n, supportsService::f, createDataDescriptor::f, getPropertySetInfo::f, impl_refresh::f, isReadOnly::f, m_xMetaData::m, createDescriptor::f, m_pConnection::m, clearWarnings::f, getWarnings::f.",
+   "source": "tags:/connectivity",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:01"
+  },
+  {
+   "id": 151,
+   "text": "Module cppcanvas top symbols: cppcanvas::n, internal::n, getBounds::f, mpCanvas::m, getActionCount::f, maState::m, renderSubset::f, render::f, operator ()::f, basegfx::n, setClip::f, cppcanvastools::n, com::n, draw::f, mxPolyPoly::m, queryTextBounds::f, renderPrimitive::f, rendering::n, setTransformation::f, star::n, sun::n, CPPUNIT_TEST_FIXTURE::f, clone::f, createTextLinesPolyPolygon::f, init::f, maBounds::m, maFillColor::m, maReliefColor::m, maReliefOffset::m, maShadowColor::m.",
+   "source": "tags:/cppcanvas",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:01"
+  },
+  {
+   "id": 152,
+   "text": "Module cppu top symbols: cppu::n, acquire::f, release::f, Test::c, cppu_threadpool::n, m_mutex::m, operator ()::f, operator () ::f, Mapping::f, nRef::m, queryInterface::f, s_acquire::f, s_release::f, v_callInto_v::f, v_callOut_v::f, v_enter::f, v_isValid::f, v_leave::f, AlignSize_Impl::s, com::n, dDouble::m, dispose::f, m_count::m, m_from::m, m_nRef::m, m_to::m, nInt16::m, p::m, run::f, s_mapInterface::f.",
+   "source": "tags:/cppu",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:01"
+  },
+  {
+   "id": 153,
+   "text": "Module cppuhelper top symbols: getName::f, manager_::m, getTypeClass::f, cppu::n, name_::m, queryInterface::f, entity_::m, com::n, disposing::f, star::n, sun::n, acquire::f, cppuhelper::n, release::f, Test::s, dispose::f, pInput::m, getSupportedServiceNames::f, operator =::f, supportsService::f, createInstanceWithArguments::f, getImplementationName::f, getProperties::f, getTypes::f, uno::n, Impl::c, addEventListener::f, clear::f, createInstance::f, createInstanceWithArgumentsAndContext::f.",
+   "source": "tags:/cppuhelper",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:01"
+  },
+  {
+   "id": 154,
+   "text": "Module cpputools top symbols: createInstance::f, out::f, readOption::f, HELP_TEXT::v, ODisposingListener::s, OInstanceProvider::f, OInstanceProvider::c, SAL_IMPLEMENT_MAIN::f, __anon3f6d01090102::f, __anonebe67e370111::n, __anonebe67e370211::n, _aImplName::m, _aInitParams::m, _aInstanceName::m, _aLocation::m, _aServiceName::m, _aSingleInstanceMutex::m, _bSingleInstance::m, _xContext::m, _xSingleInstance::m, arUsingText::v, cDisposed::m, disposing::f, getInstance::f, hasOption::f, loadComponent::f, main::f, s_quiet::v, unoexe::n, waitFor::f.",
+   "source": "tags:/cpputools",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:01"
+  },
+  {
+   "id": 155,
+   "text": "Module cui top symbols: IMPL_LINK_NOARG::f, IMPL_LINK::f, Reset::f, Create::f, FillItemSet::f, ActivatePage::f, DeactivatePage::f, PageCreated::f, GetRanges::f, GetAllStrings::f, svx::n, Construct::f, Apply::f, Init::f, run::f, GetOutputItemSet::f, com::n, star::n, sun::n, ChangesApplied::f, FillUserData::f, Paint::f, pRanges::m, SetText::f, m_aCtlPreview::m, m_xCtlPreview::m, m_xFrame::m, offapp::n, pView::m, GetFilteredGraphic::f.",
+   "source": "tags:/cui",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:01"
+  },
+  {
+   "id": 156,
+   "text": "Module dbaccess top symbols: dbaui::n, IMPL_LINK_NOARG::f, dbaccess::n, disposing::f, IMPL_LINK::f, getSupportedServiceNames::f, getImplementationName::f, dbaxml::n, dispose::f, supportsService::f, createArrayHelper::f, getInfoHelper::f, getImplementationId::f, queryInterface::f, com::n, star::n, sun::n, getTypes::f, implInitControls::f, m_xConnection::m, FillItemSet::f, getPropertySetInfo::f, release::f, acquire::f, fillControls::f, fillWindows::f, initialize::f, Redo::f, Undo::f, dbahsql::n.",
+   "source": "tags:/dbaccess",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:01"
+  },
+  {
+   "id": 157,
+   "text": "Module desktop top symbols: desktop::n, IMPL_LINK_NOARG::f, dp_registry::n, getImplementationName::f, getSupportedServiceNames::f, supportsService::f, backend::n, dp_misc::n, com::n, star::n, sun::n, dp_gui::n, uno::n, disposing::f, update::f, execute::f, handle::f, dp_manager::n, getImplementationName::m, getMyBackend::f, getSupportedServiceNames::m, supportsService::m, getSupportedPackageTypes::f, isRegistered_::f, processPackage_::f, migration::n, APPLICATION_SWITCH::v, check::f, getInteractionHandler::f, getProgressHandler::f.",
+   "source": "tags:/desktop",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:01"
+  },
+  {
+   "id": 158,
+   "text": "Module docmodel top symbols: model::n, Theme::f, addEntry::f, dumpAsXml::f, getRGB::f, resolveColor::f, style::n, ColorSet::f, FromAny::f, GetColor::f, GetColors::f, GetName::f, SetName::f, ToAny::f, __anon11db13a30102::f, __anond40630500111::n, add::f, addTransformation::f, applyTransformations::f, color::n, createColorStopSequence::f, createUnoGradient2::f, createXComplexColor::f, createXTheme::f, fillFromColorStopSequence::f, fillFromGradient2::f, getColor::f, getColorSet::f, getColorStopsFromAny::f, getColorStopsFromUno::f.",
+   "source": "tags:/docmodel",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:02"
+  },
+  {
+   "id": 159,
+   "text": "Module drawinglayer top symbols: drawinglayer::n, operator ==::f, primitive2d::n, getPrimitive2DID::f, getB2DRange::f, create2DDecomposition::f, get2DDecomposition::f, primitive3d::n, attribute::n, emfplushelper::n, processor2d::n, theGlobalDefault::f, getColor::f, isDefault::f, getB3DRange::f, modifyBColor::f, processBasePrimitive2D::f, processor3d::n, get3DDecomposition::f, Read::f, append::f, getObjectTransformation::f, getTransparence::f, getWidth::f, maColor::m, basegfx::n, appendTransformationsAndColors::f, create3DDecomposition::f, estimateUsage::f, getOffset::f.",
+   "source": "tags:/drawinglayer",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:02"
+  },
+  {
+   "id": 160,
+   "text": "Module editeng top symbols: Clone::f, GetPresentation::f, operator ==::f, QueryValue::f, PutValue::f, CreateDefault::f, dumpAsXml::f, CPPUNIT_TEST_FIXTURE::f, SetFont::f, Redo::f, Undo::f, hashCode::f, GetStyleSheet::f, ScaleMetrics::f, append::f, InsertText::f, GetText::f, HasMetrics::f, getItemInstanceManager::f, SetStyleSheet::f, GetAttribs::f, IMPL_LINK_NOARG::f, Insert::f, RemoveAttribs::f, GetLanguage::f, SetText::f, GetParaAttribs::f, GetTextLen::f, GetValueTextByPos::f, dumpAsJSON::f.",
+   "source": "tags:/editeng",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:02"
+  },
+  {
+   "id": 161,
+   "text": "Module embeddedobj top symbols: getImplementationName::f, getSupportedServiceNames::f, supportsService::f, m_xContext::m, STDMETHODIMP_::f, CPPUNIT_TEST_FIXTURE::f, addCloseListener::f, addEventListener::f, changeState::f, close::f, com::n, complex.embedding::p, createInstanceUserInit::f, doVerb::f, embeddedobj::n, getMapUnit::f, getPreferredVisualRepresentation::f, getVisualAreaSize::f, m_bDisposed::m, m_pInterfaceContainer::m, reload::f, removeCloseListener::f, removeEventListener::f, setVisualAreaSize::f, star::n, sun::n, OleEmbeddedObject::f, SaveObject_Impl::f, addStateChangeListener::f, comphelper::n.",
+   "source": "tags:/embeddedobj",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:02"
+  },
+  {
+   "id": 162,
+   "text": "Module embedserv top symbols: STDMETHODIMP_::f, QueryInterface::f, inprocserv::n, m_refCount::m, GetExtent::f, Load::f, Save::f, SaveCompleted::f, WIN32_LEAN_AND_MEAN::d, m_guid::m, m_xFactory::m, ContextSensitiveHelp::f, GetWindow::f, InPlaceDeactivate::f, LockedEmbedDocument_Impl::f, SetData::f, SetExtent::f, SetObjectRects::f, UIDeactivate::f, Advise::f, Close::f, CreateInstance::f, DAdvise::f, DUnadvise::f, DllMain::f, DoVerb::f, Draw::f, EnumAdvise::f, EnumDAdvise::f, EnumFormatEtc::f.",
+   "source": "tags:/embedserv",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:02"
+  },
+  {
+   "id": 163,
+   "text": "Module emfio top symbols: CPPUNIT_TEST_FIXTURE::f, emfio::n, ImplMap::f, WinMtfFillStyle::f, operator >>::f, ImplScale::f, ReadRectangle::f, WinMtfLineStyle::f, operator ==::f, ClosePath::f, CreateObject::f, GetWinExtMax::f, NONE::e, ReadHeader::f, SetEnableEMFPlus::f, WinMtfPalette::f, aBmp::m, aFont::m, aHatch::m, bTransparent::m, maClipPath::m, maPathObj::m, maSizeHint::m, mbEnableEMFPlus::m, record_type_name::f, ANSI_CHARSET::e, ANSI_FIXED_FONT::e, ANSI_VAR_FONT::e, ARABIC_CHARSET::e, ARCDIRECTION_CLOCKWISE::v.",
+   "source": "tags:/emfio",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:02"
+  },
+  {
+   "id": 164,
+   "text": "Module eventattacher top symbols: getIntrospection::f, EventAttacherImpl::f, EventAttacherImpl::c, FilterAllListenerImpl::f, FilterAllListenerImpl::c, InvocationToAllListenerMapper::f, InvocationToAllListenerMapper::c, __anon4e4c3f730111::n, __anon4e4c3f730211::n, __anon4e4c3f730311::n, approveFiring::f, attachListener::f, attachListenerForTarget::f, attachListeners::f, attachMultipleEventListeners::f, attachSingleEventListener::f, comp_EventAttacher::n, convertToEventReturn::f, createAllListenerAdapter::f, disposing::f, eventattacher_EventAttacher::f, firing::f, getConverter::f, getImplementationName::f, getInvocationAdapterService::f, getReflection::f, getSupportedServiceNames::f, getValue::f, hasMethod::f, hasProperty::f.",
+   "source": "tags:/eventattacher",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:02"
+  },
+  {
+   "id": 165,
+   "text": "Module extensions top symbols: pcr::n, IMPL_LINK_NOARG::f, getSupportedServiceNames::f, getImplementationName::f, disposing::f, IMPL_LINK::f, abp::n, supportsService::f, m_xContext::m, dispose::f, operator ()::f, dbp::n, getValue::f, initializePage::f, setValue::f, Activate::f, getPropertyValue::f, setPropertyValue::f, SetModifyHandler::f, getWidget::f, initialize::f, addPropertyChangeListener::f, commitPage::f, getValueType::f, logging::n, removePropertyChangeListener::f, actuatingPropertyChanged::f, canAdvance::f, describePropertyLine::f, getActuatingProperties::f.",
+   "source": "tags:/extensions",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:02"
+  },
+  {
+   "id": 166,
+   "text": "Module filter top symbols: CPPUNIT_TEST_FIXTURE::f, IMPL_LINK_NOARG::f, filter::n, config::n, getImplementationName::f, getSupportedServiceNames::f, supportsService::f, Read::f, mxContext::m, Print::f, initialize::f, m_xContext::m, disposing::f, operator () ::f, Clear::f, Clone::f, Create::f, GetFilterConfigItem::f, ImplMap::f, SetFilterConfigItem::f, cancel::f, getClassName::f, IMPL_LINK::f, XSLT::n, com::n, detect::f, escaped_line::v, filter::f, getByName::f, operator ()::f.",
+   "source": "tags:/filter",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:02"
+  },
+  {
+   "id": 167,
+   "text": "Module forms top symbols: frm::n, getSupportedServiceNames::f, disposing::f, getImplementationName::f, createClone::f, integration.forms::p, queryAggregation::f, xforms::n, getServiceName::f, getFastPropertyValue::f, convertFastPropertyValue::f, describeFixedProperties::f, read::f, setFastPropertyValue_NoBroadcast::f, write::f, _getTypes::f, com::n, getInfoHelper::f, getPropertyDefaultByHandle::f, getPropertySetInfo::f, star::n, sun::n, commitControlValueToDbColumn::f, translateDbColumnToControlValue::f, getDefaultForReset::f, operator ()::f, dispose::f, before::m, createCloneColumn::f, fillProperties::f.",
+   "source": "tags:/forms",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:02"
+  },
+  {
+   "id": 168,
+   "text": "Module formula top symbols: IMPL_LINK_NOARG::f, formula::n, operator ==::f, IMPL_LINK::f, Update::f, Clone::f, SetMeText::f, VectorRefArray::f, UpdateParaWin::f, CheckMatrix::f, FormulaStringToken::f, FormulaTokenArray::f, GetInForceArray::f, RefInputDoneAfter::f, RefInputStartAfter::f, RefInputStartBefore::f, SetInForceArray::f, SetReferences::f, StoreFormEditData::f, m_xBuilder::m, m_xContainer::m, operator =::f, AddDPFieldName::f, AddExternal::f, AddStringName::f, Assign::f, Clear::f, CreateStringFromToken::f, CreateStringFromTokenArray::f, DoEnter::f.",
+   "source": "tags:/formula",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:02"
+  },
+  {
+   "id": 169,
+   "text": "Module fpicker top symbols: IMPL_LINK_NOARG::f, IMPL_LINK::f, svt::n, fpicker::n, vista::n, win32::n, cancel::f, execute::f, enableControl::f, NONE::e, SetDenyList::f, disposing::f, getAvailableHeight::f, getAvailableWidth::f, getDisplayDirectory::f, getImplementationName::f, getShowState::f, getSupportedServiceNames::f, getValue::f, grab_focus::f, m_aDenyList::m, m_pDialog::m, o3tl::n, setImage::f, setLabel::f, setTitle::f, setValue::f, set_help_id::f, supportsService::f, typed_flags::s.",
+   "source": "tags:/fpicker",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:02"
+  },
+  {
+   "id": 170,
+   "text": "Module framework top symbols: framework::n, disposing::f, getImplementationName::f, getSupportedServiceNames::f, supportsService::f, m_xContext::m, IMPL_LINK_NOARG::f, initialize::f, statusChanged::f, com::n, star::n, sun::n, IMPL_LINK::f, dispose::f, getElementType::f, hasElements::f, m_mutex::m, m_xFrame::m, reset::f, elementInserted::f, elementRemoved::f, elementReplaced::f, before::m, connection::f, setUpConnection::m, tearDownConnection::m, addEventListener::f, dispatch::f, fillPopupMenu::f, getMSF::m.",
+   "source": "tags:/framework",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:02"
+  },
+  {
+   "id": 171,
+   "text": "Module helpcompiler top symbols: append::f, path::f, HelpProcessingException::f, bExtensionMode::m, fs::n, lang::m, main::f, module::m, scanForFiles::f, zipdir::m, BasicCodeTagger::c, BasicCodeTagger::f, Data::s, DataHashtable::t, EMPTY_DOCUMENT::e, FileNameEnc::f, GpXMLParsingException::v, HCDBG::d, Hashtable::t, HelpCompiler::c, HelpCompiler::f, HelpIndexer::f, HelpKeyword::c, HelpLinker::f, HelpLinker::c, HelpProcessingException::s, HelpSearch::f, IndexerPreProcessor::c, IndexerPreProcessor::f, LibXmlTreeWalker::c.",
+   "source": "tags:/helpcompiler",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:02"
+  },
+  {
+   "id": 172,
+   "text": "Module hwpfilter top symbols: Read::f, dummy::m, type::m, reserved::m, color::m, flag::m, key::m, read4b::f, reserved1::m, shade::m, size::m, data::m, h::m, number::m, plist::m, read1b::f, width::m, Read2b::f, compressed::m, cshape::m, index::m, info::m, init::f, kind::m, name::m, offset2::m, pictype::m, read2b::f, reserved2::m, reserved3::m.",
+   "source": "tags:/hwpfilter",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:03"
+  },
+  {
+   "id": 173,
+   "text": "Module i18nlangtag top symbols: getLocale::f, mnLang::m, convertToBcp47::f, maCountry::m, LanguageTag::f, getScriptType::f, getTagString::f, isValidBcp47::f, maLanguage::m, mnOverride::m, reset::f, LanguageTagImpl::f, convertBcp47ToLang::f, convertBcp47ToLocale::f, convertIsoNamesToLanguage::f, convertLangToLocale::f, convertLocaleToLang::f, convertToLanguageType::f, convertToLanguageTypeWithFallback::f, convertToLocale::f, getBcp47::f, getCountry::f, getGlibcLocaleString::f, getIcuLocale::f, getImpl::f, getLangFromEnv::t, getLanguage::f, getPlatformSystemLanguage::f, getPlatformSystemLanguageImpl::f, getPlatformSystemUILanguage::f.",
+   "source": "tags:/i18nlangtag",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:03"
+  },
+  {
+   "id": 174,
+   "text": "Module i18npool top symbols: i18npool::n, com::n, star::n, sun::n, getImplementationName::f, getSupportedServiceNames::f, supportsService::f, uno::n, CPPUNIT_TEST_FIXTURE::f, foldingImpl::f, generateCode::f, transliterateChar2Char::f, aLocale::m, transliterateImpl::f, i18n::n, equals::f, m_xContext::m, transliterateRange::f, getType::f, loadAlgorithm::f, compareString::f, compareSubstring::f, setUp::f, compareIndexEntry::f, getIndexCharacter::f, getIndexKey::f, lookupTable::m, lookupTableItem::f, lookupTableItem::s, SAL_IMPLEMENT_MAIN_WITH_ARGS::f.",
+   "source": "tags:/i18npool",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:03"
+  },
+  {
+   "id": 175,
+   "text": "Module i18nutil top symbols: i18nutil::n, Peek::f, Advance::f, AtEnd::f, PaperInfo::f, find::f, m_bAtEnd::m, m_rText::m, m_stCurr::m, testEmpty::f, AddHint::f, AdvanceOnce::f, AdvanceTo::f, AllowMoreInput::f, CHAR_LRM::v, CHAR_NNBSP::v, CHAR_RLM::v, CanConnectToPrev::f, CaseMappingExtra::v, CaseMappingIndex::v, CaseMappingValue::v, FULL2HALF_ASC_FUNCTION::d, FULL2HALF_KATAKANA_ONLY::d, FULL2HALF_NORMAL::d, GetLevelAt::f, GetMirroredChar::f, GetScriptClass::f, GetSyriacWordEndpoint::f, GetSyriacWordMidpoint::f, GetWordKashidaPosition::f.",
+   "source": "tags:/i18nutil",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:03"
+  },
+  {
+   "id": 176,
+   "text": "Module idl top symbols: ReadSvIdl::f, WriteSfx::f, GetName::f, Insert::f, ReadContextSvIdl::f, ReadIf::f, Test::f, nColumn::m, nLine::m, FindType::f, GetNumber::f, GetValue::f, IsEof::f, IsSet::f, MakeSfx::f, Read::f, ReadAttributesSvIdl::f, ReadIfDelimiter::f, ReadKnownClass::f, ReadKnownType::f, SetError::f, SetValue::f, SvBOOL::f, SvClassElement::f, SvIdentifier::f, SvIdlError::f, SvMetaAttribute::f, SvMetaSlot::f, SvMetaType::f, SvParseException::f.",
+   "source": "tags:/idl",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:03"
+  },
+  {
+   "id": 177,
+   "text": "Module include top symbols: com::n, star::n, sun::n, uno::n, NONE::e, weld::n, basegfx::n, oox::n, vcl::n, typed_flags::s, drawinglayer::n, apitest::n, o3tl::n, comphelper::n, beans::n, operator =::f, frame::n, release::f, acquire::f, operator !=::f, operator ==::f, queryInterface::f, getTypes::f, getImplementationId::f, cd::s, primitive2d::n, operator ()::f, awt::n, UNLESS_MERGELIBS::f, tools::n.",
+   "source": "tags:/include",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:03"
+  },
+  {
+   "id": 178,
+   "text": "Module io top symbols: getImplementationName::f, getSupportedServiceNames::f, supportsService::f, flush::f, available::f, closeInput::f, getPredecessor::f, getSuccessor::f, io_stm::n, read::f, readBytes::f, readSomeBytes::f, setPredecessor::f, setSuccessor::f, skipBytes::f, test::f, testInvariant::f, write::f, close::f, closeOutput::f, getErrorExceptions::f, getErrors::f, getWarnings::f, m_pred::m, m_seqErrors::m, m_seqExceptions::m, m_seqWarnings::m, m_succ::m, testPassed::f, testSimple::f.",
+   "source": "tags:/io",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:03"
+  },
+  {
+   "id": 179,
+   "text": "Module javaunohelper top symbols: com.sun.star.lib.uno.helper::p, logger::f, javaunohelper::n, main::m, com.sun.star.comp.helper::p, disposing::m, obj1::f, obj2::f, obj3::f, proxyObj1Weak1::f, proxyObj2TypeProv::f, proxyObj3TypeProv::f, proxyObj3Weak1::f, proxyObj3Weak2::f, setUp::m, test::m, Factory_Test::m, JAVAUNOHELPER_DETAIL_CALLCONV::d, Java_com_sun_star_comp_helper_Bootstrap_cppuhelper_1bootstrap::f, Java_com_sun_star_comp_helper_SharedLibraryLoader_component_1getFactory::f, Java_com_sun_star_comp_helper_SharedLibraryLoader_component_1writeInfo::f, assertEquals::m, dispose::m, disposeAndClear::m, env::f, list1::f, list2::f, list3::f, obj4::f, AWeakBase::c.",
+   "source": "tags:/javaunohelper",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:03"
+  },
+  {
+   "id": 180,
+   "text": "Module jsuno top symbols: ValueRef::f, jsuno::n, operator =::f, AtomRef::f, ctx_::m, get::f, getRuntimeData::f, name::m, ptr_::m, rhino_compatibility::n, rt_::m, toJs::f, type::m, AtomRef::c, Counter::c, CtorData::s, EnumeratorData::s, ExceptionData::s, Execute::c, JsException::s, ModuleData::f, ModuleData::s, RuntimeData::f, RuntimeData::s, TestUno::c, UniqueCString16::f, UniqueCString16::c, UniqueCString8::f, UniqueCString8::c, ValueRef::c.",
+   "source": "tags:/jsuno",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:03"
+  },
+  {
+   "id": 181,
+   "text": "Module jurt top symbols: INMONITOR::e, START::e, GOTBUFFER::e, ACQUIRED::e, CREATED::e, CriticalSection::v, DllMain::f, GOTNAME::e, GOTPIPE::e, InitWrapper::f, Java_com_sun_star_lib_connections_pipe_PipeConnection_closeJNI::f, Java_com_sun_star_lib_connections_pipe_PipeConnection_createJNI::f, Java_com_sun_star_lib_connections_pipe_PipeConnection_flushJNI::f, Java_com_sun_star_lib_connections_pipe_PipeConnection_readJNI::f, Java_com_sun_star_lib_connections_pipe_PipeConnection_writeJNI::f, MAXPATH::d, NO_CHILD_PROCESSES::d, PipeConnection_close::f, PipeConnection_create::f, PipeConnection_flush::f, PipeConnection_read::f, PipeConnection_write::f, ThrowException::f, UrlResolver_Test::c, WIN32_LEAN_AND_MEAN::d, __anon723654980103::g, __anon723654980203::g, __anon723654980303::g, __anon723654980403::g, com.sun.star.comp.urlresolver::p.",
+   "source": "tags:/jurt",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:03"
+  },
+  {
+   "id": 182,
+   "text": "Module jvmaccess top symbols: CreationException::f, main::f, operator =::f, AttachGuard::f, JAVA_VERSION::d, TestComponent::c, UnoVirtualMachine::f, VirtualMachine::f, __getServiceFactory::m, __writeRegistryServiceInfo::m, attachThread::f, com::n, com.sun.star.comp.jvmaccess.workbench::p, detachThread::f, getImplementationId::m, getImplementationName::m, getSupportedServiceNames::m, getTypes::m, getVirtualMachine::f, jvmaccess::n, printInfo::f, run::m, serviceName::f, star::n, sun::n, supportsService::m, test_compareVersions::f, test_constructor1::f, test_constructor2::f, test_createAllInfo::f.",
+   "source": "tags:/jvmaccess",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:03"
+  },
+  {
+   "id": 183,
+   "text": "Module jvmfwk top symbols: jfw_plugin::n, jfw::n, _object::m, operator =::f, CXmlCharPtr::f, WIN32_LEAN_AND_MEAN::d, createInstance::f, CXPathContextPtr::f, CXPathObjectPtr::f, CXmlDocPtr::f, SunVersion::f, compareVersions::f, createInstance_func::t, createJavaInfo::f, getDirFromFile::f, getEnabled::f, getJRELocations::f, getJavaExePaths::f, getLibraryPaths::f, getRuntimePaths::f, getSettingsPath::f, getUserClassPath::f, getVendorSettingsPath::f, m_aGuard::m, m_javaInfo::m, operator () ::f, AsynchReader::f, AsynchReader::c, BUFFER_SIZE::e, BootParams::n.",
+   "source": "tags:/jvmfwk",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:03"
+  },
+  {
+   "id": 184,
+   "text": "Module l10ntools top symbols: operator =::f, GetNodeType::f, SAL_IMPLEMENT_MAIN_WITH_ARGS::f, Merge::f, Output::f, WorkOnText::f, m_bIsInitialized::m, open::f, pOutputStream::m, Execute::f, Extract::f, GetError::f, GetName::f, PoEntry::f, aLanguages::m, pResData::m, sFilename::m, sText::m, CreatePO::f, Dump::f, EndOfText::f, InsertEntry::f, OStringHashMap::t, PoHeader::f, PoIfstream::f, PoOfstream::f, Print::f, QuotHTML::f, ResData::f, SetError::f.",
+   "source": "tags:/l10ntools",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:03"
+  },
+  {
+   "id": 185,
+   "text": "Module librelogo top symbols: __lngpath__::v, __init__::m, dif::v, Input::f, LogoProgram::c, MessageBox::f, Print::f, Random::f, _::f, __ACTUAL__::v, __APPFONT__::x, __ARC__::x, __AT_PAGE__::x, __BASEFONTFAMILY__::v, __BEVEL__::x, __Bezier__::x, __Button_CANCEL__::x, __Button_OK__::x, __COLORS__::v, __CUT__::x, __Cap_NONE__::x, __Cap_ROUND__::x, __Cap_SQUARE__::x, __DECODE_COMMENT_REGEX__::v, __DECODE_STRING_REGEX__::v, __DashStyle_RECT__::x, __Doc__::c, __ENCODED_COMMENT__::v, __ENCODED_STRING__::v, __FILLCOLOR__::v.",
+   "source": "tags:/librelogo",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:04"
+  },
+  {
+   "id": 186,
+   "text": "Module libreofficekit top symbols: getPrivate::f, parentClass::m, parent::m, m_nPart::m, m_pImpl::m, operator ->::f, PROP_0::e, PROP_LAST::e, TimeRecord::f, addressChanged::f, commandChanged::f, commandResult::f, formulaChanged::f, hyperlinkClicked::f, lokdocview::m, m_bEdit::m, m_bUnipoll::m, m_nKeyModifier::m, m_nLastButtonPressTime::m, m_nLastButtonPressed::m, m_nLastButtonReleaseTime::m, m_nType::m, m_nWidth::m, m_pRenderingArgs::m, m_pTileBuffer::m, main::f, paintTile::f, properties::v, scrolledwindow::m, searchNotFound::f.",
+   "source": "tags:/libreofficekit",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:04"
+  },
+  {
+   "id": 187,
+   "text": "Module lingucomponent top symbols: getImplementationName::f, getSupportedServiceNames::f, supportsService::f, GetPropHelper::f, getLocales::f, getServiceDisplayName::f, hasLocale::f, initialize::f, GetPropHelper_Impl::f, aSuppLocales::m, addEventListener::f, bDisposing::m, dispose::f, removeEventListener::f, EnsureInitialized::f, GetLngSvcMgr_Impl::f, Guess::f, SPELLML_SUPPORT::v, aName::m, addLinguServiceEventListener::f, getAvailableLanguages::f, linguistic::n, m_aSuppLocales::m, m_bInitialized::m, makeInitCap::f, makeLowerCase::f, makeUpperCase::f, pPropHelper::m, removeLinguServiceEventListener::f, DEFAULT_CONF_FILE_NAME::d.",
+   "source": "tags:/lingucomponent",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:04"
+  },
+  {
+   "id": 188,
+   "text": "Module linguistic top symbols: disposing::f, getImplementationName::f, getSupportedServiceNames::f, linguistic::n, supportsService::f, SetTmpPropVals::f, addEventListener::f, addLinguServiceEventListener::f, dispose::f, propertyChange::f, removeEventListener::f, removeLinguServiceEventListener::f, AddAsPropListener::f, RemoveAsPropListener::f, bDisposing::m, getLocale::f, GetServiceList::f, SetCfgServiceLists::f, SetServiceList::f, getLocales::f, hasLocale::f, nLanguage::m, Append::f, GetCurrentValues::f, GetPropSet::f, LaunchEvent::f, PropertyChgHelper::f, SetDefaultValues::f, aSvcRefs::m, addEntry::f.",
+   "source": "tags:/linguistic",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:04"
+  },
+  {
+   "id": 189,
+   "text": "Module lotuswordpro top symbols: Read::f, ToXml::f, RegisterStyle::f, XFConvert::f, Parse::f, GetLayoutType::f, GetStyleFamily::f, clone::f, m_nFlag::m, m_nFlags::m, GetType::f, OpenStormBento::n, Override::f, operator ==::f, operator !=::f, GetWidth::f, ToString::f, CreateDrawObj::f, CreateStandardDrawObj::f, m_nType::m, m_aBackColor::m, Reset::f, SetBackColor::f, SetWidth::f, Add::f, GetContentType::f, SetColor::f, SetPosition::f, m_aColor::m, m_eType::m.",
+   "source": "tags:/lotuswordpro",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:04"
+  },
+  {
+   "id": 190,
+   "text": "Module msicreator top symbols: __init__::m, ET::I, Node::c, PackageGenerator::c, UIGraphics::c, build_dir::v, build_features::m, build_package::m, create_creator_json::f, create_licenseless_dialog_entries::m, create_registry_entries::m, create_xml::m, creator_dir::v, gen_guid::f, generate_files::m, generate_installer::f, path_to_id::m, prepare_project_dir::f, run::f, scan_feature::m, src_dir::v.",
+   "source": "tags:/msicreator",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:04"
+  },
+  {
+   "id": 191,
+   "text": "Module net_ure top symbols: bootstrap::f, defaultBootstrap_InitialComponentContext::f, net_uno::n.",
+   "source": "tags:/net_ure",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:04"
+  },
+  {
+   "id": 192,
+   "text": "Module nlpsolver top symbols: com.sun.star.comp.Calc.NLPSolver::p, com.sun.star.comp.Calc.NLPSolver.dialogs.controls::p, getName::m, com.sun.star.comp.Calc.NLPSolver.dialogs::p, compare::m, net.adaptivebox.space::p, setVisible::m, __getComponentFactory::m, dispose::m, generateBehavior::m, generatePoint::m, getUserState::m, m_serviceNames::f, m_variables::f, net.adaptivebox.deps.behavior::p, net.adaptivebox.encode::p, net.adaptivebox.global::p, net.adaptivebox.goodness::p, net.adaptivebox.knowledge::p, pcurrent_t::f, setBestSolution::m, setIteration::m, setMaxIterations::m, setMaxStagnation::m, setMemPoints::m, setParentControl::m, setRuntime::m, setStagnation::m, testBehavior::m, waitForUser::m.",
+   "source": "tags:/nlpsolver",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:04"
+  },
+  {
+   "id": 193,
+   "text": "Module o3tl top symbols: operator =::f, operator ==::f, operator <::f, maImpl::m, x::m, Test::c, cow_wrapper_client2::f, cow_wrapper_client3::f, cow_wrapper_client5::f, modify::f, queryUnmodified::f, use_count::f, y::m, cow_wrapper_client4::f, is_unique::f, makeUnique::f, swap::f, ONE::e, TWO::e, cow_wrapper_client1::f, cow_wrapper_client2_impl::f, o3tltests::n, operator ()::f, s_bShouldDecrement::m, s_bShouldIncrement::m, s_nEndOfScope::m, testBaseUsage::f, testBasics::f, w::m, z::m.",
+   "source": "tags:/o3tl",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:04"
+  },
+  {
+   "id": 194,
+   "text": "Module odk top symbols: main::m, main::f, disposing::m, getSupportedServiceNames::m, getImplementationName::m, supportsService::m, __getComponentFactory::m, __init__::m, getName::m, getSupportedServiceNames::f, run::m, __serviceName::f, connectivity::n, disposing::f, initialize::m, getImplementationName::f, skeleton::n, supportsService::f, test::m, __getServiceFactory::m, component_getFactory::f, component_getImplementationEnvironment::f, getContentURL::m, isValid::m, m_aTestHelper::f, m_contenturl::f, m_xFrame::f, m_xMSF::f, m_xStorageFactory::f, release::f.",
+   "source": "tags:/odk",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:04"
+  },
+  {
+   "id": 195,
+   "text": "Module officecfg top symbols: AcceleratorKeyCheckerTest::f, AcceleratorKeyCheckerTest::c, Test::c, __anon6d53c8200111::n, __anone30d86b70111::n, __anone30d86b70202::f, findChildNode::f, test::f, testAcceleratorKeyChecker::f.",
+   "source": "tags:/officecfg",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:04"
+  },
+  {
+   "id": 196,
+   "text": "Module oox top symbols: oox::n, drawingml::n, onCreateContext::f, CPPUNIT_TEST_FIXTURE::f, chart::n, ppt::n, table::n, onEndElement::f, convertProperties::f, visit::f, convertFromModel::f, chart2::n, getControlType::f, onCharacters::f, construct::f, ShapeRef::t, assignUsed::f, core::n, com::n, implDump::f, implDumpShortProperties::f, star::n, sun::n, convertFromProperties::f, mxShapeProp::m, importBinaryModel::f, mrCustomShapeProperties::m, exportCompObj::f, implIsValid::f, ole::n.",
+   "source": "tags:/oox",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:04"
+  },
+  {
+   "id": 197,
+   "text": "Module opencl top symbols: operator <<::f, log::f, match::f, OPENCL_DLL_NAME::d, initOpenCLRunEnv::f, openclwrapper::n, CASE::d, CHECK_OPENCL::d, DEVICE_NAME_LENGTH::d, DRIVER_VERSION_LENGTH::d, DS_CHECK_STATUS::f, DS_FILE_ERROR::e, DS_INVALID_PERF_EVALUATOR::e, DS_INVALID_PERF_EVALUATOR_TYPE::e, DS_INVALID_PROFILE::e, DS_MEMORY_ERROR::e, DS_PERF_EVALUATOR_ERROR::e, DS_PROFILE_FILE_ERROR::e, DS_SCORE_DESERIALIZER_ERROR::e, DS_SCORE_SERIALIZER_ERROR::e, DS_SUCCESS::e, DS_UNKNOWN_DEVICE_TYPE::e, DeviceType::g, INCLUDED_OPENCL_INC_CLEW_SETUP_HXX::d, INCLUDED_OPENCL_INC_OPENCL_DEVICE_HXX::d, INCLUDED_OPENCL_INC_OPENCL_DEVICE_SELECTION_H::d, INPUTSIZE::d, LibreOfficeDeviceEvaluationIO::s, LogWriter::f, LogWriter::c.",
+   "source": "tags:/opencl",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:04"
+  },
+  {
+   "id": 198,
+   "text": "Module package top symbols: m_xMSF::f, m_xStorageFactory::f, test::m, m_aTestHelper::f, complex.storages::p, CPPUNIT_TEST_FIXTURE::f, readSomeBytes::f, com::n, star::n, sun::n, complex.ofopxmlstorages::p, readBytes::f, skipBytes::f, available::f, closeInput::f, m_xContext::m, getImplementationName::f, getLength::f, getPosition::f, getSupportedServiceNames::f, seek::f, supportsService::f, uno::n, getInputStream::f, getPropertyValue::f, m_xStream::m, setPropertyValue::f, addPropertyChangeListener::f, addVetoableChangeListener::f, getPropertySetInfo::f.",
+   "source": "tags:/package",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:04"
+  },
+  {
+   "id": 199,
+   "text": "Module postprocess top symbols: Test::c, msg::f, test::f, Constructor::f, Constructor::s, Implementation::f, Implementation::s, TYPE_DESCRIPTION_MANAGER::v, __anon38b4c9430111::n, __anona3f00ce10111::n, __anona3f00ce10202::f, __anona3f00ce10302::f, accumulationBased::m, addService::f, constructors::m, contains::f, createInstance::f, defaultConstructor::m, factory::m, serviceName::m, serviceNames::m, unique::f.",
+   "source": "tags:/postprocess",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:04"
+  },
+  {
+   "id": 200,
+   "text": "Module pyuno top symbols: __init__::m, pyuno::n, com::n, star::n, sun::n, PyRef::f, members::m, __eq__::m, __repr__::m, getClass::f, __ne__::m, fileUrlToSystemPath::f, getSupportedServiceNames::m, invoke::f, operator =::f, reflection::n, script::n, supportsService::m, systemPathToFileUrl::f, xInvocation::m, PyInit_pyuno::f, Runtime::f, UnoException::x, __hash__::m, absolutize::f, assignValuesTestFixture::m, container::n, g_ImplementationHelper::v, generateTestTuple::m, generateUuid::f.",
+   "source": "tags:/pyuno",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:04"
+  },
+  {
+   "id": 201,
+   "text": "Module qadevOOo top symbols: createTestEnvironment::m, oObj::f, cleanup::m, initialize::m, xTextDoc::f, before::m, after::m, mod._sw::p, disposing::m, mod._toolkit::p, ifc.text::p, xDrawDoc::f, ifc.awt::p, ifc.drawing::p, mod._sc::p, mod._forms::p, util::p, ifc.chart::p, mod._svx::p, xChartDoc::f, xSheetDoc::f, ifc.form.component::p, listener::f, mod._fwk::p, checkFilter::m, ifc.frame::p, mod._sd::p, mod._sch::p, log::f, ifc.util::p.",
+   "source": "tags:/qadevOOo",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:05"
+  },
+  {
+   "id": 202,
+   "text": "Module registry top symbols: m_numOfEntries::m, m_pCP::m, acquire::f, closeKey::f, createKey::f, deleteKey::f, getName::f, isReadOnly::f, m_refCount::m, openKey::f, parseIndex::f, release::f, releaseKey::f, acquireKey::f, b::m, closeRegistry::f, destroyRegistry::f, dumpRegistry::f, getKeyNames::f, getLongListValue::f, getResolvedKeyName::f, getStoreFile::f, getStringListValue::f, getUnicodeListValue::f, getValue::f, getValueInfo::f, m_name::m, m_pIndex::m, openSubKeys::f, readINT32::f.",
+   "source": "tags:/registry",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:05"
+  },
+  {
+   "id": 203,
+   "text": "Module remotebridges top symbols: ResolverImpl::f, ResolverImpl::c, __anonf997e67e0111::n, _xCtx::m, _xSMgr::m, getImplementationName::f, getSupportedServiceNames::f, remotebridges_ResolverImpl_get_implementation::f, resolve::f, supportsService::f, unourl_resolver::n.",
+   "source": "tags:/remotebridges",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:05"
+  },
+  {
+   "id": 204,
+   "text": "Module reportbuilder top symbols: getElement::m, getHandlerForChild::m, org.libreoffice.report.pentaho.model::p, doneParsing::m, org.libreoffice.report::p, org.libreoffice.report.pentaho.layoutprocessor::p, startParsing::m, org.libreoffice.report.pentaho::p, org.libreoffice.report.pentaho.parser.rpt::p, LOGGER::f, getObject::m, element::f, inputRepository::f, org.libreoffice.report.pentaho.styles::p, outputRepository::f, children::f, equals::m, hashCode::m, initialize::m, org.libreoffice.report.pentaho.parser.table::p, computeAttributes::m, getStyleName::m, imageService::f, isValueChanged::m, join::m, org.libreoffice.report.pentaho.output.text::p, org.libreoffice.report.pentaho.parser.style::p, processContent::m, close::m, dataSourceFactory::f.",
+   "source": "tags:/reportbuilder",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:05"
+  },
+  {
+   "id": 205,
+   "text": "Module reportdesign top symbols: rptui::n, rptxml::n, reportdesign::n, IMPL_LINK_NOARG::f, dispose::f, getSupportedServiceNames::f, set::f, supportsService::f, addEventListener::f, getImplementationName::f, removeEventListener::f, createFastChildContext::f, disposing::f, addPropertyChangeListener::f, getPropertyValue::f, removePropertyChangeListener::f, setPropertyValue::f, IMPL_LINK::f, endFastElement::f, setMarked::f, getCount::f, getParent::f, m_xContext::m, setParent::f, addVetoableChangeListener::f, getSupportedServiceNames_Static::f, removeVetoableChangeListener::f, getByIndex::f, getPropertySetInfo::f, hasElements::f.",
+   "source": "tags:/reportdesign",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:05"
+  },
+  {
+   "id": 206,
+   "text": "Module ridljar top symbols: DEBUG::f, com.sun.star.lib.uno.environments.remote::p, com.sun.star.uno::p, dispose::m, test::m, __getServiceFactory::m, __serviceName::f, com.sun.star.lib.uno.protocols.urp::p, com.sun.star.lib.uno.bridges.java_remote::p, com.sun.star.lib.uno.helper::p, com.sun.star.lib.util::p, enter::m, getName::m, read::m, write::m, Type::m, flush::m, get::m, getThreadId::m, run::m, acquire::m, attach::m, detach::m, getTypeDescription::m, queryInterface::m, release::m, add::m, close::m, com.sun.star.comp.connections::p, com.sun.star.lib.uno.adapter::p.",
+   "source": "tags:/ridljar",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:05"
+  },
+  {
+   "id": 207,
+   "text": "Module rust_uno top symbols: context_::m, getImplementationName::f, getSupportedServiceNames::f, static_create::f, static_getImplementationName::f, static_getSupportedServiceNames::f, supportsService::f, Dispatch::f, Dispatch::c, Provider::f, Provider::c, __anon193878dd0111::n, addStatusListener::f, component_getFactory::f, component_getImplementationEnvironment::f, defaultBootstrap_InitialComponentContext::f, dispatch::f, queryDispatch::f, queryDispatches::f, removeStatusListener::f, services::v, ~Dispatch::f, ~Provider::f.",
+   "source": "tags:/rust_uno",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:05"
+  },
+  {
+   "id": 208,
+   "text": "Module sal top symbols: setUp::f, tearDown::f, bRes::m, bRes1::m, run::f, arrOUS::m, Test::c, WIN32_LEAN_AND_MEAN::d, append_001::f, rItem::m, test::f, test::n, append_002::f, append_003::f, append_004::f, append_006::f, append_007::f, append_008::f, append_009::f, append_010::f, append_011::f, append_012::f, ctors::c, append_005::f, append_013::f, append_014::f, append_015::f, append_016::f, append_017::f, append_018::f.",
+   "source": "tags:/sal",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:05"
+  },
+  {
+   "id": 209,
+   "text": "Module salhelper top symbols: funcA::f, funcB::f, Timer::f, main::f, ConditionWaiter::f, InitSampleLib_Api::t, SAMPLELIB_INIT_FUNCTION_NAME::d, SampleLibLoader::f, SampleLibLoader::c, SampleLib_Api::s, funcA::m, funcB::m, funcC::f, initSampleLibApi::f, joinThread::f, lookupTimer::f, m_Lock::m, m_pHead::m, operator delete::f, operator new::f, registerTimer::f, run::f, setRemainingTime::f, startThread::f, timedout::f, unregisterTimer::f, ApiInitFunction::t, Condition::f, ConditionModifier::f, DerivedCondition::f.",
+   "source": "tags:/salhelper",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:05"
+  },
+  {
+   "id": 210,
+   "text": "Module sax top symbols: endDocument::f, startDocument::f, startElement::f, write::f, endElement::f, processingInstruction::f, characters::f, sax_fastparser::n, setDocumentLocator::f, convertDouble::f, ignorableWhitespace::f, writeBytes::f, AttributeListImpl::f, TagAttribute::f, add::f, comment::f, endCDATA::f, getImplementationName::f, getOutputStream::f, getSupportedServiceNames::f, parse::f, parseStream::f, setCustomEntityNames::f, setErrorHandler::f, startCDATA::f, supportsService::f, NamespaceDefine::f, TestDocumentHandler::f, TestDocumentHandler::c, allowLineBreak::f.",
+   "source": "tags:/sax",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:05"
+  },
+  {
+   "id": 211,
+   "text": "Module sc top symbols: CPPUNIT_TEST_FIXTURE::f, IMPL_LINK_NOARG::f, sc::n, operator () ::f, IMPL_LINK::f, com::n, star::n, sun::n, BinFuncName::f, oox::n, GenSlidingWindowFunction::f, xls::n, operator ==::f, SaveXml::f, init::f, Notify::f, setUp::f, mrDoc::m, sc_apitest::n, Undo::f, Redo::f, GetComment::f, CanRepeat::f, createFastChildContext::f, Repeat::f, WriteBody::f, getElementType::f, BinInlineFun::f, Init::f, Save::f.",
+   "source": "tags:/sc",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:05"
+  },
+  {
+   "id": 212,
+   "text": "Module scaddins top symbols: sca::n, bDouble::m, bWithOpt::m, eCat::m, pDescrID::m, pUINameID::m, Append::f, analysis::n, maVector::m, nParamCount::m, ADDIN_SERVICE::v, CheckInsert::f, Convert::f, Count::f, DateTime::e, Finance::e, Get::f, GetCategory::f, GetCompNameList::f, GetDescrID::f, GetDiffDate360::f, GetFuncDescrStr::f, GetLocale::f, GetStrIndex::f, GetUINameID::f, Inf::e, InitData::f, InitDefLocales::f, Insert::f, Is::f.",
+   "source": "tags:/scaddins",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:05"
+  },
+  {
+   "id": 213,
+   "text": "Module scripting top symbols: __init__::m, getImplementationName::f, getSupportedServiceNames::f, m_xContext::m, org.libreoffice.example.java_scripts::p, supportsService::f, singleprovider::n, getChildNodes::f, getName::m, getName::f, getType::f, hasChildNodes::f, basprov::n, com.sun.star.script.framework.container::p, func_provider::n, initialize::f, getChildNodes::m, getType::m, hasChildNodes::m, com.sun.star.script.framework.provider::p, getScript::m, go::m, toString::m, write::m, actionPerformed::m, com::n, com.sun.star.script.framework.provider.beanshell::p, dlgprov::n, invoke::m, star::n.",
+   "source": "tags:/scripting",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:05"
+  },
+  {
+   "id": 214,
+   "text": "Module sd top symbols: CPPUNIT_TEST_FIXTURE::f, sd::n, IMPL_LINK_NOARG::f, slidesorter::n, IMPL_LINK::f, disposing::f, com::n, star::n, sun::n, framework::n, Create::f, presenter::n, sdext::n, DoExecute::f, operator () ::f, getImplementationName::f, Paint::f, controller::n, getSupportedServiceNames::f, supportsService::f, Activate::f, sidebar::n, accessibility::n, view::n, Redo::f, Undo::f, MouseButtonDown::f, sdtools::n, drawing::n, Execute::f.",
+   "source": "tags:/sd",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:05"
+  },
+  {
+   "id": 215,
+   "text": "Module sdext top symbols: visit::f, pdfi::n, emit::f, clone::f, IMPL_LINK::f, visitedBy::f, UpdateControlStates::f, m_xContext::m, com::n, operator ()::f, operator ==::f, star::n, sun::n, write::f, FontAttributes::f, GetConfigProperty::f, beginTransparencyGroup::f, dynCastAsTextElement::f, endTransparencyGroup::f, getImplementationName::f, getSupportedServiceNames::f, m_rProcessor::m, mbRemoveCropArea::m, supportsService::f, Init::f, copyOrigBytes::f, createEmittingVisitor::f, createOptimizingVisitor::f, createStyleCollectingVisitor::f, drawImage::f.",
+   "source": "tags:/sdext",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:05"
+  },
+  {
+   "id": 216,
+   "text": "Module setup_native top symbols: WIN32_LEAN_AND_MEAN::d, OutputDebugStringFormatW::f, GetMsiPropW::f, RecSetString::f, SetMsiPropertyW::f, WriteLogElem::f, CALC_COMPONENT::d, CHART_COMPONENT::d, CheckExtensionInRegistry::f, CheckHResult::f, CheckInstallDirectory::f, CheckPatchList::f, CheckVersions::f, CheckWin32Error::f, CloseHandleGuard::t, CompleteInstallPath::f, ConvertGuid::f, DRAW_COMPONENT::d, DeinstallActiveXControl::f, DeinstallStartmenuFolderIcon::f, DllNativeRegProc::t, DllNativeUnregProc::t, EXCEL_START::v, EnumWindowsProc::f, FindRegisteredExtensions::f, GetActiveXControlPath::f, GetDelta::f, GetGuidPart::f, GetKnownFolder::f, GetModuleFileNameExW_::f.",
+   "source": "tags:/setup_native",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:06"
+  },
+  {
+   "id": 217,
+   "text": "Module sfx2 top symbols: IMPL_LINK_NOARG::f, IMPL_LINK::f, sfx2::n, sidebar::n, disposing::f, dispose::f, com::n, star::n, sun::n, frame::n, shouldShowExpander::f, CPPUNIT_TEST_FIXTURE::f, Clone::f, getImplementationName::f, getSupportedServiceNames::f, operator () ::f, operator ==::f, getMainObject::f, supportsService::f, ImplLoad::f, ImplSave::f, Notify::f, fill::f, Create::f, DataChanged::f, Paint::f, run::f, CreateDefault::f, Execute::f, PutValue::f.",
+   "source": "tags:/sfx2",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:06"
+  },
+  {
+   "id": 218,
+   "text": "Module shell top symbols: WIN32_LEAN_AND_MEAN::d, QueryInterface::f, AddRef::f, Release::f, getImplementationName::f, getSupportedServiceNames::f, supportsService::f, m_RefCnt::m, addPropertyChangeListener::f, addVetoableChangeListener::f, getPropertySetInfo::f, getTagAttribute::f, removePropertyChangeListener::f, removeVetoableChangeListener::f, CFullPropSpec::f, CreateInstance::f, DllCanUnloadNow::f, DllGetClassObject::f, DllMain::f, Initialize::f, Load::f, LockServer::f, Save::f, addAttributes::f, addCharacters::f, endTag::f, getPropertyValue::f, getTagContent::f, m_nObjCount::m, s_ServerLocks::m.",
+   "source": "tags:/shell",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:06"
+  },
+  {
+   "id": 219,
+   "text": "Module slideshow top symbols: slideshow::n, internal::n, operator ()::f, dispose::f, operator () ::f, com::n, star::n, sun::n, end::f, clear::f, mrEventQueue::m, mpShape::m, perform::f, start::f, viewChanged::f, viewsChanged::f, ValueType::t, getDescription::f, update::f, viewAdded::f, viewRemoved::f, drawing::n, makeShader::f, prefetch::f, render::f, mrEventMultiplexer::m, createActivity::f, extractValue::f, handleMouseMoved::f, interpolate::f.",
+   "source": "tags:/slideshow",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:06"
+  },
+  {
+   "id": 220,
+   "text": "Module smoketest top symbols: __getComponentFactory::m, __serviceName::f, getImplementationName::m, getServiceNames::m, getSupportedServiceNames::m, org.libreoffice.smoketest::p, supportsService::m, Callback::f, Callback::c, InteractionImpl::c, Listener::f, Listener::c, ProgressImpl::c, Result::f, Result::s, Services::c, SmoketestCommandEnvironment::c, Test::c, TestExtension::c, _TestExtension::c, __anone0e55c150111::n, __writeRegistryServiceInfo::m, arguments_::m, com.sun.star.comp.smoketest::p, condition::m, connection_::m, dispatchFinished::f, dispatch_::m, disposing::f, getInteractionHandler::m.",
+   "source": "tags:/smoketest",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:06"
+  },
+  {
+   "id": 221,
+   "text": "Module solenv top symbols: __init__::m, to_string::m, __iter__::m, children::m, __next__::m, _iterator::c, register_pretty_printers::f, build_pretty_printers::f, printer::v, display_hint::m, add::m, main::f, __len__::m, __str__::m, line::v, parse::m, parser::v, value::v, __getitem__::m, __unicode__::m, args::v, data::m, printing::I, text_type::v, use_gdb_printing::v, MAXSIZE::v, __eq__::m, __path__::v, _assertNotRegex::v, _assertRegex::v.",
+   "source": "tags:/solenv",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:06"
+  },
+  {
+   "id": 222,
+   "text": "Module soltools top symbols: imake_ccflags::d, val::m, PATH_MAX::d, _POSIX_SOURCE::d, _W64::d, cppsetup::f, file::m, flag::m, isvarfirstletter::d, len::m, main::f, next::m, ssize_t::t, type::m, ACT::d, AND::e, AND1::e, ARCHITECTURE::e, ARGUMENTS::d, ARITH::d, ARROW::e, ASAND::e, ASCIRC::e, ASG1::e, ASGN::e, ASLSH::e, ASMINUS::e, ASOR::e, ASPCT::e, ASPLUS::e.",
+   "source": "tags:/soltools",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:06"
+  },
+  {
+   "id": 223,
+   "text": "Module sot top symbols: SetSize::f, Commit::f, GetSize::f, CopyTo::f, Init::f, Read::f, Write::f, SotStorage::f, Store::f, com::n, star::n, sun::n, GetData::f, IsStorageFile::f, Load::f, UCBStorage::f, Validate::f, ValidateMode::f, m_aName::m, Copy::f, Create::f, Equals::f, Find::f, FlushData::f, GetFormat::f, GetName::f, GetUserName::f, OpenStream::f, PutData::f, Remove::f.",
+   "source": "tags:/sot",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:06"
+  },
+  {
+   "id": 224,
+   "text": "Module starmath top symbols: Visit::f, Accept::f, endFastElement::f, Arrange::f, IMPL_LINK_NOARG::f, IMPL_LINK::f, operator =::f, startFastElement::f, Prepare::f, Body::f, GetText::f, SetFont::f, createFastChildContext::f, GetFont::f, MlFalse::e, MlTrue::e, SetText::f, NMlEmpty::e, None::e, SetDrawingArea::f, TCharacters::f, m_aLengthValue::m, AdaptToX::f, AdaptToY::f, DefaultVisit::f, GetSymbol::f, Paint::f, Parse::f, ReadFrom::f, SmDocShellRef::t.",
+   "source": "tags:/starmath",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:06"
+  },
+  {
+   "id": 226,
+   "text": "Module stoc top symbols: com::n, getImplementationName::f, getSupportedServiceNames::f, star::n, sun::n, supportsService::f, uno::n, disposing::f, SAL_IMPLEMENT_MAIN::f, set::f, Data::s, getName::f, initialize::f, stoc_corefl::n, get::f, getElementType::f, getProperties::f, getPropertyValue::f, getTypeDescr::f, hasElements::f, createEnumeration::f, createInstance::f, getDeclaringClass::f, getPropertySetInfo::f, implies::f, m_context::m, setPropertyValue::f, uriReference::m, addPropertyChangeListener::f, addVetoableChangeListener::f.",
+   "source": "tags:/stoc",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:06"
+  },
+  {
+   "id": 227,
+   "text": "Module store top symbols: store::n, verify::f, guard::f, base::t, theSize::m, m_nTypeId::m, get::f, initialize::f, m_pData::m, page::t, D::t, G::t, capacity::f, m_aGuard::m, operator =::f, self::t, thePageSize::m, m_nSize::m, operator ==::f, operator delete::f, operator new::f, swap::f, create::f, directLink::f, doubleLink::f, initialize_Impl::f, isKindOf::f, location::f, query::f, singleLink::f.",
+   "source": "tags:/store",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:06"
+  },
+  {
+   "id": 228,
+   "text": "Module svgio top symbols: CPPUNIT_TEST_FIXTURE::f, svgio::n, svgreader::n, parseAttribute::f, getSvgStyleAttributes::f, maSvgStyleAttributes::m, decomposeSvgNode::f, notset::e, getTransform::f, mpaTransform::m, setTransform::f, apply::f, maResult::m, maX::m, maY::m, getX::f, maHeight::m, maWidth::m, getY::f, maIn::m, maXLink::m, getCurrentViewPort::f, getHeight::f, getWidth::f, maSvgAspectRatio::m, getSvgAspectRatio::f, getViewBox::f, mpViewBox::m, setViewBox::f, addCssStyleSheet::f.",
+   "source": "tags:/svgio",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:06"
+  },
+  {
+   "id": 229,
+   "text": "Module svl top symbols: operator ==::f, Clone::f, GetPresentation::f, PutValue::f, QueryValue::f, CreateDefault::f, dumpAsXml::f, Notify::f, operator =::f, DdeData::f, getImplementationName::f, getSupportedServiceNames::f, supportsService::f, Get::f, GetName::f, complex.passwordcontainer::p, svl::n, GetOutputString::f, find::f, getPropertyValue::f, hashCode::f, remove::f, svt::n, ChangeIntl::f, DdeGetPutItem::f, DdeItem::f, Put::f, Remove::f, dumpAsJSON::f, initialize::f.",
+   "source": "tags:/svl",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:06"
+  },
+  {
+   "id": 230,
+   "text": "Module svtools top symbols: IMPL_LINK_NOARG::f, IMPL_LINK::f, dispose::f, svt::n, disposing::f, CPPUNIT_TEST_FIXTURE::f, getImplementationName::f, supportsService::f, execute::f, getSupportedServiceNames::f, operator () ::f, svtools::n, MouseButtonDown::f, accessibility::n, acquire::f, getAccessibleParent::f, initialize::f, queryInterface::f, release::f, GetFocus::f, MouseButtonUp::f, Paint::f, getAccessibleAtPoint::f, getAccessibleChild::f, getAccessibleChildCount::f, getAccessibleDescription::f, getAccessibleName::f, getAccessibleRelationSet::f, getAccessibleRole::f, getAccessibleStateSet::f.",
+   "source": "tags:/svtools",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:06"
+  },
+  {
+   "id": 231,
+   "text": "Module svx top symbols: IMPL_LINK_NOARG::f, Clone::f, sdr::n, IMPL_LINK::f, svx::n, CPPUNIT_TEST_FIXTURE::f, operator ==::f, disposing::f, GetPresentation::f, contact::n, getSupportedServiceNames::f, getImplementationName::f, PutValue::f, QueryValue::f, dispose::f, drawinglayer::n, CreateDefault::f, DoAction::f, sidebar::n, properties::n, supportsService::f, Undo::f, svxform::n, Paint::f, Redo::f, Create::f, Notify::f, primitive2d::n, Init::f, SetDrawingArea::f.",
+   "source": "tags:/svx",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:07"
+  },
+  {
+   "id": 232,
+   "text": "Module sw top symbols: CPPUNIT_TEST_FIXTURE::f, IMPL_LINK_NOARG::f, sw::n, IMPL_LINK::f, dumpAsXml::f, writerfilter::n, Test::c, Test::f, operator ==::f, getImplementationName::f, Notify::f, com::n, star::n, sun::n, getSupportedServiceNames::f, supportsService::f, getElementType::f, Clone::f, Create::f, RedoImpl::f, UndoImpl::f, dmapper::n, operator ()::f, getServiceImplName::f, getServiceNames::f, typed_flags::s, Copy::f, xPara::v, Paint::f, hasElements::f.",
+   "source": "tags:/sw",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:07"
+  },
+  {
+   "id": 233,
+   "text": "Module swext top symbols: com.sun.star.wiki::p, createSocket::m, callHandlerMethod::m, m_xContext::f, GetPropSet::m, InitStrings::m, MainThreadDialogExecutor::m, getSupportedCipherSuites::m, m_aSettings::f, m_xDialog::f, show::m, windowClosed::m, EnableControls::m, GetMainURL::m, Login::m, SetTitle::m, ShowError::m, ThreadStop::m, WikiEditSettingDialog::m, close::m, connect::m, equals::m, getDefaultCipherSuites::m, getImplementationName::m, getSupportedMethodNames::m, getSupportedServiceNames::m, hashCode::m, m_sEditTime::f, m_sEditToken::f, m_xControlContainer::f.",
+   "source": "tags:/swext",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:07"
+  },
+  {
+   "id": 234,
+   "text": "Module test top symbols: apitest::n, disposing::f, testRemoveByIndex::f, debugName::f, CPPUNIT_TEST_FIXTURE::f, m_bListenerCalled::m, setUp::f, testRemoveByName::f, assertXPath::f, dumpDialogToPath::f, helper::n, testAddNew::f, close::f, collectText::f, cppunitAssertEqual::f, dumpAndParse::f, equals::f, getAccessibleObjectForId::f, getAccessibleObjectForRole::f, getXPath::f, saveScreenshot::f, tabTo::f, tearDown::f, test::n, testAddEventListener::f, testAddNewByName::f, testClear::f, testDocumentSettingsProperties::f, testFilter::f, testGetCount::f.",
+   "source": "tags:/test",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:07"
+  },
+  {
+   "id": 235,
+   "text": "Module testtools top symbols: __init__::m, getSupportedServiceNames::f, assign::f, component_getFactory::f, getImplementationName::f, out::f, supportsService::f, bridgetest::n, checkEqual::m, com.sun.star.comp.bridge::p, getImplementationName::m, getSequence::m, setUp::m, suite::f, supportsService::m, testtools::n, transportAny::m, CurrentContextChecker::c, IMPLNAME::v, IMPLNAME::d, Reader::m, Reader::c, SERVICENAME::v, SERVICENAME::d, ServiceImpl::f, TestCase::c, TimeEntry::f, __serviceName::f, _any::f, _double::f.",
+   "source": "tags:/testtools",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:07"
+  },
+  {
+   "id": 236,
+   "text": "Module toolkit top symbols: getImplementationName::f, getSupportedServiceNames::f, dispose::f, getPropertySetInfo::f, getInfoHelper::f, ImplGetDefaultValue::f, disposing::f, getServiceName::f, setProperty::f, toolkit::n, ImplGetPropertyIds::f, GetComponentServiceName::f, getMinimumSize::f, getProperty::f, svt::n, table::n, createPeer::f, GetPropertyIds::f, supportsService::f, calcAdjustedSize::f, getPreferredSize::f, ProcessWindowEvent::f, queryAggregation::f, com::n, star::n, sun::n, createHandler::m, Clone::f, IMPL_IMPLEMENTATION_ID::f, accessibility::n.",
+   "source": "tags:/toolkit",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:07"
+  },
+  {
+   "id": 237,
+   "text": "Module tools top symbols: tools::n, ImplPolygon::f, Polygon::f, operator -::f, operator ==::f, Test::c, attribute::f, operator +::f, operator +=::f, operator =::f, Duration::f, Normalize::f, PolyPolygon::f, SetSize::f, begin::f, end::f, operator -=::f, BigInt::f, FlushData::f, GetData::f, Insert::f, PutData::f, Read::f, ResetError::f, Rotate::f, Scale::f, SeekPos::f, SvFileStream::f, Time::f, WIN32_LEAN_AND_MEAN::d.",
+   "source": "tags:/tools",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:07"
+  },
+  {
+   "id": 238,
+   "text": "Module ucb top symbols: getImplementationName::f, getSupportedServiceNames::f, supportsService::f, queryInterface::f, m_aMutex::m, http_dav_ucp::n, m_xContext::m, acquire::f, com::n, release::f, star::n, sun::n, queryContent::f, cmis::n, fileaccess::n, ucb::n, complex.tdoc::p, getProperties::f, gio::n, addEventListener::f, dispose::f, getContentType::f, removeEventListener::f, abort::f, getTypes::f, tdoc_ucp::n, close::f, execute::f, beans::n, getCommands::f.",
+   "source": "tags:/ucb",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:07"
+  },
+  {
+   "id": 239,
+   "text": "Module ucbhelper top symbols: ucbhelper::n, select::f, com::n, star::n, sun::n, m_aMutex::m, ucbhelper_impl::n, Content::f, ucb::n, dispose::f, getProperties::f, m_xEnv::m, supportsService::f, addEventListener::f, disposing::f, openStream::f, queryInterface::f, release::f, removeEventListener::f, Content_Impl::f, InteractionRequest::f, InteractionRequest_Impl::f, PropertyChangeListeners::t, PropertySetInfo::f, PropertySetInfo::c, ResultSetMetaData_Impl::f, acquire::f, cancelCommandExecution::f, copyAdditionalPropertySet::f, executeCommand::f.",
+   "source": "tags:/ucbhelper",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:07"
+  },
+  {
+   "id": 240,
+   "text": "Module uitest top symbols: __init__::m, setUp::m, tearDown::m, CheckBoxTest::c, connection::v, main::f, parse_args::f, test_select_entry_pos::m, test_suite::v, CharDialogText::c, ComboBoxTest::c, CommandWithParametersTest::c, DEFAULT_SLEEP::v, EditTest::c, EventListener::c, Generate_UI_test::m, GridWinTest::c, HandleFiles::c, ImpressBackgrounds::c, ImpressDrawinglayerTest::c, ImpressLayouts::c, ListBoxTest::c, OfficeConnection::c, PersistentConnection::c, RadioButtonTest::c, SimpleImpressTest::c, SimpleMathTest::c, SpinFieldTest::c, TabControlTest::c, TabDialogTest::c.",
+   "source": "tags:/uitest",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:07"
+  },
+  {
+   "id": 241,
+   "text": "Module unodevtools top symbols: skeletonmaker::n, printType::f, cpp::n, java::n, checkXComponentSupport::f, generateAddinConstructorAndHelper::f, generateClassDefinition::f, generateCompFunctions::f, generateDocumentation::f, generateFunctionParameterMap::f, generateMethodBodies::f, generateSkeleton::f, generateXAddInBodies::f, generateXCompatibilityNamesBodies::f, generateXFastPropertySetBodies::f, generateXPropertyAccessBodies::f, generateXPropertySetBodies::f, generateXServiceInfoBodies::f, printConstructor::f, printConstructorParameters::f, printConstructors::f, printExceptionSpecification::f, printMethodParameters::f, printMethods::f, printServiceMembers::f, printSetPropertyMixinBody::f, readOption::f, unodevtools::n, AttributeInfo::t, ProgramOptions::f.",
+   "source": "tags:/unodevtools",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:07"
+  },
+  {
+   "id": 242,
+   "text": "Module unoidl top symbols: unoidl::n, detail::n, createCursor::f, manager_::m, SourceProviderType::f, entity::m, findEntity::f, getMemberNames::f, getNext::f, members::m, name::m, buf::m, createRootCursor::f, map_::m, Cursor::f, Cursor::c, SAL_IMPLEMENT_MAIN::f, SourceProviderEntity::f, annotations::m, badUsage::f, byte::m, file_::m, name_::m, type::m, ucr_::m, ~Cursor::f, Module::f, Module::c, NO::e, TYPE_FLOAT::e.",
+   "source": "tags:/unoidl",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:07"
+  },
+  {
+   "id": 243,
+   "text": "Module unotest top symbols: org.openoffice.test::p, org.openoffice.test.tools::p, setUp::m, tearDown::m, test::n, com::n, star::n, sun::n, uno::n, execute::f, getContext::m, getImplementationName::f, getSupportedServiceNames::f, supportsService::f, OfficeConnection::c, PostprocessFailedException::m, Prot::f, Prot::c, SpreadsheetDocument::m, __init__::m, checkProperties::m, createInstance::m, dispatch::m, getDoc::m, getString::f, implLoadAsComponent::m, m_orb::f, openEmptyWriterDoc::m, postTest::m, protect::f.",
+   "source": "tags:/unotest",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:07"
+  },
+  {
+   "id": 244,
+   "text": "Module unotools top symbols: utl::n, com::n, disposing::f, star::n, sun::n, Notify::f, getInputStream::f, ImplCommit::f, IsReadOnly::f, readSomeBytes::f, CreateStream::f, GetProperty::f, get::f, m_aModerator::m, m_aMutex::m, writeBytes::f, GetNodeNames::f, SetProperty::f, checkError::f, closeOutput::f, flush::f, getLength::f, getOutputStream::f, getPosition::f, operator () ::f, seek::f, setInputStream::f, setStream::f, typeConvert::f, Commit::f.",
+   "source": "tags:/unotools",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:07"
+  },
+  {
+   "id": 245,
+   "text": "Module unoxml top symbols: DOM::n, getLocalName::f, getPrefix::f, appendChild::f, cloneNode::f, getAttributes::f, getChildNodes::f, getFirstChild::f, getLastChild::f, getNamespaceURI::f, getNextSibling::f, getNodeName::f, getNodeType::f, getNodeValue::f, getOwnerDocument::f, getParentNode::f, getPreviousSibling::f, hasAttributes::f, hasChildNodes::f, insertBefore::f, isSupported::f, normalize::f, removeChild::f, replaceChild::f, setNodeValue::f, setPrefix::f, events::n, getLength::f, CPPUNIT_TEST_FIXTURE::f, IsChildTypeAllowed::f.",
+   "source": "tags:/unoxml",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:07"
+  },
+  {
+   "id": 246,
+   "text": "Module ure top symbols: Service::f, Service::c, component_getFactory::f, create::f, getImplementationName::f, getSupportedServiceNames::f, main::m, ~Service::f, IMPLEMENTATION_NAME::f, SERVICE_NAME::f, __getServiceFactory::m, component_writeInfo::f, CppMain::n, CppServer::n, CppTest::n, JavaClient::m, JavaClient::c, JavaMain::m, JavaMain::c, JavaNative::m, JavaNative::c, JavaTest::m, JavaTest::c, Runner::m, Runner::c, Tester::m, Tester::c, __anon8d7420b90111::n, __anonb258abd40111::n, __anonf2513d6b0111::n.",
+   "source": "tags:/ure",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:08"
+  },
+  {
+   "id": 247,
+   "text": "Module uui top symbols: IMPL_LINK_NOARG::f, run::f, m_xQueryBox::m, com::n, m_xOKBtn::m, star::n, sun::n, uui::n, GetPassword::f, IMPL_LINK::f, getImplementationName::f, getSupportedServiceNames::f, m_xContext::m, supportsService::f, GetAccount::f, GetMasterPassword::f, NONE::e, SetErrorText::f, SetPassword::f, handle::f, handleAuthenticationRequest::f, handleInteractionRequest::f, m_pImpl::m, m_rXCert::m, security::n, task::n, ucb::n, ABORT::e, AlreadyOpenQueryBox::f, AlreadyOpenQueryBox::c.",
+   "source": "tags:/uui",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:08"
+  },
+  {
+   "id": 248,
+   "text": "Module vbahelper top symbols: getServiceImplName::f, getServiceNames::f, getValue::f, setValue::f, getElementType::f, getVisible::f, setVisible::f, getCaption::f, getFont::f, setCaption::f, createEnumeration::f, getAutoSize::f, getBackColor::f, getDefaultPropertyName::f, getName::f, setAutoSize::f, setBackColor::f, createCollectionObject::f, getHeight::f, getLeft::f, getTop::f, getWidth::f, setHeight::f, setLeft::f, setName::f, setTop::f, setWidth::f, getCount::f, getLocked::f, hasMoreElements::f.",
+   "source": "tags:/vbahelper",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:08"
+  },
+  {
+   "id": 249,
+   "text": "Module vcl top symbols: CPPUNIT_TEST_FIXTURE::f, vcl::n, IMPL_LINK_NOARG::f, IMPL_LINK::f, dispose::f, getImplementationName::f, execute::f, getSupportedServiceNames::f, operator ==::f, Clone::f, Execute::f, Resize::f, Paint::f, Scale::f, LLVMFuzzerTestOneInput::f, LLVMFuzzerInitialize::f, DataChanged::f, disposing::f, Move::f, StateChanged::f, supportsService::f, ImplInit::f, lo_get_custom_widget_func::f, operator ()::f, MouseButtonDown::f, Read::f, lo_get_constructor_map::f, lo_get_factory_map::f, font::n, set_image::f.",
+   "source": "tags:/vcl",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:08"
+  },
+  {
+   "id": 250,
+   "text": "Module winaccessibility top symbols: notifyEvent::f, SmartQI::f, put_XInterface::f, COM_INTERFACE_ENTRY::f, SetComponentState::f, FireStatePropertyChange::f, get_attributes::f, get_description::f, put_XSubInterface::f, DecreaseState::f, FireStateFocusedChange::f, HandleActiveDescendantChangedEvent::f, HandleValueChangedEvent::f, IncreaseState::f, NotifyDestroy::f, WIN32_LEAN_AND_MEAN::d, doAction::f, get_caretOffset::f, get_characterExtents::f, get_keyBinding::f, get_localizedName::f, get_nCharacters::f, get_nSelections::f, get_name::f, get_newText::f, get_offsetAtPoint::f, get_oldText::f, get_selection::f, get_text::f, get_textAfterOffset::f.",
+   "source": "tags:/winaccessibility",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:08"
+  },
+  {
+   "id": 251,
+   "text": "Module wizards top symbols: __init__::m, serviceimplementation::v, servicename::v, servicesynonyms::v, serviceproperties::v, initialize::m, disposing::m, com.sun.star.wizards.common::p, classProperties::v, com.sun.star.wizards.ui::p, com.sun.star.wizards.report::p, CurUnoDialog::f, com.sun.star.wizards.db::p, com.sun.star.wizards.reportbuilder.layout::p, itemStateChanged::m, ReviewServiceArgs::m, xMSF::f, com.sun.star.wizards.form::p, dispose::m, getName::m, com.sun.star.wizards.table::p, enterStep::m, finishWizard::m, leaveStep::m, cancelWizard::m, insertDetailFields::m, showMessageBox::m, write::m, Activate::m, CurDBMetaData::f.",
+   "source": "tags:/wizards",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:08"
+  },
+  {
+   "id": 252,
+   "text": "Module writerperfect top symbols: writerperfect::n, CPPUNIT_TEST_FIXTURE::f, startElement::f, getImplementationName::f, getSupportedServiceNames::f, supportsService::f, exp::n, doDetectFormat::f, doImportDocument::f, CreateChildContext::f, endElement::f, characters::f, doRegisterHandlers::f, com::n, star::n, sun::n, mrStyle::m, m_aPropertyList::m, test::f, IMPL_LINK_NOARG::f, mxContext::m, test::n, DocumentHandlerFor::s, initialize::f, mrMeta::m, uno::n, endDocument::f, filter::f, generate::f, getStream::f.",
+   "source": "tags:/writerperfect",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:08"
+  },
+  {
+   "id": 253,
+   "text": "Module xmlhelp top symbols: chelp::n, m_pDatabases::m, m_xContext::m, init::f, expandURL::f, m_aMutex::m, m_xSFA::m, queryInterface::f, acquire::f, addEventListener::f, dispose::f, getByName::f, getImplementationName::f, getSupportedServiceNames::f, helpdatafileproxy::n, m_aLanguage::m, m_aURLParameter::m, m_xProvider::m, release::f, removeEventListener::f, treeview::n, BundledExtensions::e, DataBaseIterator::f, EndReached::e, ExtensionIteratorBase::f, IteratorState::g, PRODUCTNAME::e, PRODUCTVERSION::e, SharedExtensions::e, TVChildTarget::f.",
+   "source": "tags:/xmlhelp",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:08"
+  },
+  {
+   "id": 254,
+   "text": "Module xmloff top symbols: createFastChildContext::f, exportXML::f, endFastElement::f, importXML::f, startFastElement::f, CPPUNIT_TEST_FIXTURE::f, xmloff::n, com::n, star::n, sun::n, ProcessAttribute::f, PrepareField::f, StartElement::f, characters::f, beans::n, EndElement::f, operator ()::f, CreateChildContext::f, processAttribute::f, Characters::f, Export::f, GetSdImport::f, SetAttribute::f, rExport::m, uno::n, mrImportHelper::m, AddAttribute::f, equals::f, text::n, handleSpecialItem::f.",
+   "source": "tags:/xmloff",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:08"
+  },
+  {
+   "id": 255,
+   "text": "Module xmlreader top symbols: xmlreader::n, Break::e, None::e, Space::g, Span::e, EntityRef::s, Start::e, XmlReader::f, __anona152e2df0111::n, __anona152e2df0202::f, add::f, addEphemeral::f, clear::f, convertFromUtf8::f, flushSpan::f, get::f, getAttributeValue::f, getNamespaceId::f, handleAttributeValue::f, handleElementEnd::f, handleEndTag::f, handleNormalizedText::f, handleRawText::f, handleReference::f, handleSkippedText::f, handleStartTag::f, inBegin::m, inLength::m, isSpace::f, nextAttribute::f.",
+   "source": "tags:/xmlreader",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:08"
+  },
+  {
+   "id": 256,
+   "text": "Module xmlscript top symbols: startChildElement::f, endElement::f, xmlscript::n, processingInstruction::f, characters::f, endDocument::f, ignorableWhitespace::f, setDocumentLocator::f, startDocument::f, _aLocalName::m, _xAttributes::m, createInputStream::f, getAttributes::f, getImplementationName::f, getLocalName::f, getParent::f, getSupportedServiceNames::f, getUid::f, m_xContainer::m, startRootElement::f, DialogImport::f, ElementDescriptor::f, LibraryImport::f, XMLNS_SCRIPT_UID::m, _backgroundColor::m, _border::m, _borderColor::m, _descr::m, _fillColor::m, _fontEmphasisMark::m.",
+   "source": "tags:/xmlscript",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:08"
+  },
+  {
+   "id": 257,
+   "text": "Module xmlsecurity top symbols: CPPUNIT_TEST_FIXTURE::f, com::n, star::n, sun::n, CreateChildContext::f, StartElement::f, xml::n, Characters::f, EndElement::f, IMPL_LINK_NOARG::f, getImplementationName::f, getSupportedServiceNames::f, supportsService::f, crypto::n, m_Value::m, m_rValue::m, uno::n, sax::n, embed::n, io::n, xmlsecurity::n, WIN32_LEAN_AND_MEAN::d, getCertificate::f, initialize::f, characters::f, endDocument::f, endElement::f, graphic::n, ignorableWhitespace::f, processingInstruction::f.",
+   "source": "tags:/xmlsecurity",
+   "agent": "indexer",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:22:08"
+  },
+  {
+   "id": 258,
+   "text": "ScDocShell is the main Calc document shell class, defined in sc/source/ui/inc/docsh.hxx (line 79): `class SAL_DLLPUBLIC_RTTI ScDocShell final: public SfxObjectShell, public SfxListener`. Its implementation lives in sc/source/ui/docshell/docsh.cxx. It owns a std::shared_ptr<ScDocument> m_pDocument, plus ScDocFunc and DocShell_Impl. The module owning it is `sc` (Calc).",
+   "source": "ctags+rg",
+   "agent": "inspector_b",
+   "kind": "symbol",
+   "created_at": "2026-08-08 17:39:46"
+  },
+  {
+   "id": 259,
+   "text": "REPO STATE: /home/agent/workspace/libreoffice-core is a DEPTH-1 SHALLOW CLONE. .git/shallow lists 88771d0a64e06297b7f82d6cc00cdf0d60c199cc; `git log` (any path, any count), `git blame`, and pickaxe (`git log -S`) all return exactly one commit: 88771d0a6 \"tdf#172927 don't rely on pointer comparison for equality\" (Patrick Luby, 2026-08-08). That commit's diff is the ENTIRE repo (~10M chars) — an import snapshot, not incremental history. Therefore NO per-file/per-module change history exists for sw/ or any module; do not attempt blame-based \"recent change\" analysis expecting multiple hashes. The real upstream change behind the message is in vcl/osx/salframeview.mm (mpLastEvent lines 1125/1706/1772) + vcl/inc/osx/salframeview.h:96 (macOS NSEvent pointer equality / infinite recursion fix), not in sw/. To get true history, fetch/unshallow from git.libreoffice.org. Current sw/ snapshot: 2563 source files (1249 cxx, 1006 hxx, 298 py, 8 h, 1 java, 1 sh), 77103 symbols (per REPO_MAP.md).",
+   "source": "git:/sw analysis",
+   "agent": "debugger",
+   "kind": "note",
+   "created_at": "2026-08-09 16:22:27"
+  },
+  {
+   "id": 260,
+   "text": "LO perf F1 (Writer layout, sw/source/core/text): constant-string text measurements are re-shaping per call. frmform.cxx:1695 `rInf.GetTextSize(\"          \")`, :1716 GetTextSize(sLastWord), :1725 GetTextSize(\"-\") (ParagraphComposer); txttab.cxx:631/648, porfly.cxx:93, porfld.cxx:132 measure OUString(' ') per tab stop/portion. All go through SwTextSizeInfo::GetTextSize(const OUString&) inftxt.hxx:805 -> inftxt.cxx:415 which builds SwDrawTextInfo with pSI=nullptr and layoutContext=std::nullopt -> swfont.cxx:1055 -> fntcache.cxx:1737 SwFntObj::GetTextSize -> vcl/source/gdi/impglyphitem.cxx:444-449, where layoutCache==nullptr forces a fresh vcl::text::TextLayoutCache::Create(text) per call (script itemization+shaping). Space width is constant within a paragraph; '10 spaces' value identical per line. Fix: memoize space width per (SwFont,OutputDevice) or per paragraph; or route through the layout-context overload inftxt.cxx:431-450 which already threads SwLinePortionLayoutContext.",
+   "source": "perf-analysis",
+   "agent": "debugger",
+   "kind": "opt",
+   "created_at": "2026-08-09 21:11:06"
+  },
+  {
+   "id": 261,
+   "text": "LO perf F2 (Calc data, sc/source/core/data): redundant per-row mdds mtv block binary search. ScColumn::GetCellValue(SCROW) column.cxx:570-577 and GetCellTextAttr(SCROW) column.cxx:620-639 each call maCells.position(nRow) (O(log #blocks) binary search) discarding block position. GetOptimalColWidth loop column2.cxx:833-850 calls GetNeededSize(nRow,...) per non-empty cell; GetNeededSize column2.cxx:86-99 re-runs maCells.position(nRow) even though the loop at column2.cxx:825 already positioned itPos via maCells.position(itPos,nRow). For a full column (1e6 rows) this is N*log(B) searches + per-row GetPattern/GetScriptType. Fix: add iterator/offset-aware overloads of GetNeededSize / GetCellValue (the ColumnBlockPosition API exists for exactly this; cf. mtvelements.hxx:169-177).",
+   "source": "perf-analysis",
+   "agent": "debugger",
+   "kind": "opt",
+   "created_at": "2026-08-09 21:11:06"
+  },
+  {
+   "id": 262,
+   "text": "LO perf F3 (Calc data, sc/source/core/data): ColumnBlockPositionSet::getBlockPosition mtvelements.cxx:77-113 takes std::scoped_lock(maMtxTables) + two unordered_map lookups (tab->col) on EVERY call, including cache hits. Hot per-reference callers: column2.cxx:3527 (ScColumn::StartListening), :3539 (EndListening), column4.cxx:102/251, column3.cxx:1536, column.cxx:883/1574 (copy/paste handlers), documentstreamaccess.cxx:45/66/101, refupdatecontext.cxx:94-96. During start-listening of a big doc every formula reference pays a mutex lock + 2 hash finds. Contrast: single-table TableColumnBlockPositionSet mtvelements.cxx:149-172 is lock-free. Fix: double-checked read without lock (lock only on insert), or per-table sets / std::shared_mutex.",
+   "source": "perf-analysis",
+   "agent": "debugger",
+   "kind": "opt",
+   "created_at": "2026-08-09 21:11:06"
+  },
+  {
+   "id": 263,
+   "text": "LO perf F4 (Skia, vcl/skia/gdiimpl.cxx): per-call allocations in readback/invert. (a) getBitmap :1383-1414 uses makeCheckedImageSnapshot(rect) which may copy surface data - TODO at :1383-1385 admits waste when the image is only used for blendAlphaBitmap; on HiDPI it then Scale(1/mScaling) :1393-1412, downscaling just to be upscaled again later. (b) invert(N50) :1466-1486 allocates a fresh 2x2 SkBitmap + builds a shader on every call (TODO at :1469 'Use createSkSurface() and cache the image'); N50 is selection inversion in Writer/Calc so it runs on every selection repaint. (c) getPixel :1417-1430 allocates a full-surface SkBitmap (entire surface) per pixel read (comment admits 'presumably slow'). Fix: cache immutable 2x2 checker image+shader statically; read 1x1 rect in getPixel; pass rect-based snapshot to blendAlphaBitmap path.",
+   "source": "perf-analysis",
+   "agent": "debugger",
+   "kind": "opt",
+   "created_at": "2026-08-09 21:11:06"
+  },
+  {
+   "id": 264,
+   "text": "LO perf F5 (Startup, configmgr + desktop): configmgr parses every registry layer strictly sequentially, one fresh ParseManager+XmlReader per file, on the startup critical path. components.cxx:825-829 parseXcsXcuLayer = parseXcdFiles + all .xcs + all .xcu; per-file parse via new ParseManager(url,new XcsParser/XcuParser) components.cxx:97-120 and file enumeration loop :703-722; run from Components ctor components.cxx:488-556 (which is instrumented with osl_getGlobalTimer() for parseXcsXcuLayer/parseResLayer) inside cppu::defaultBootstrap_InitialComponentContext() from desktop/source/app/appinit.cxx:83-84 (Desktop::InitApplicationServiceManager). Also NodeMap findNode nodemap.cxx:43-49 has a single-entry cache (nodemap.hxx:60-63) invalidated by every insert (nodemap.hxx:52-55), so during parse (each node inserted once) it never hits, and read-path tree walks do std::map OUString compares (config_map.hxx LengthContentsCompare). Fix: parallelize per-file parsing within a layer (files independent; tree merge is the serial part), or cache parsed config to a binary format; give NodeMap a small cache not cleared on unrelated inserts.",
+   "source": "perf-analysis",
+   "agent": "debugger",
+   "kind": "opt",
+   "created_at": "2026-08-09 21:11:07"
+  },
+  {
+   "id": 265,
+   "text": "OPT (vcl): GenericSalLayout::IsKashidaPosValid (vcl/source/gdi/CommonSalLayout.cxx:1113-1133) runs two linear std::find_if scans over m_GlyphItems per call (lines 1116-1119). It is called from OutputDevice::GetWordKashidaPositions (vcl/source/outdev/font.cxx:1336-1348) in a per-character loop -> O(n^2) per word; also MultiSalLayout::IsKashidaPosValid (vcl/source/gdi/sallayout.cxx:1304) may repeat for fallback layouts. Caller: sw/source/core/text/itradj.cxx:199 (lcl_ComputeKashidaPositions, per word per line for Arabic block justification). Fix: build a charPos->glyph-item lookup (e.g. std::unordered_map or sorted index) once per layout, O(1) per query; also replace pOutMap->at(i) (bounds-checked) with operator[] in the loop.",
+   "source": "inspector",
+   "agent": "debugger",
+   "kind": "opt",
+   "created_at": "2026-08-09 21:24:00"
+  },
+  {
+   "id": 266,
+   "text": "OPT (sw): SwScriptInfo::ScriptType (sw/source/core/text/porlay.cxx:1617-1628) and NextScriptChg (porlay.cxx:1604-1614) are linear scans from index 0 over m_ScriptChanges for every call, although the vector is sorted by position. They are called per text portion in the hot BuildPortions loop: itrform2.cxx:491-492 (fnRequireKerningAtPosition -> ScriptType x2), itrform2.cxx:714 (NextScriptChg), plus portxt.cxx:82,169 and redlnitr.cxx:695. Cost is O(portions x script-changes) per paragraph -> quadratic for mixed-script paragraphs. Fix: std::lower_bound over m_ScriptChanges (O(log n)) or an incremental cursor since the formatting loop advances monotonically.",
+   "source": "inspector",
+   "agent": "debugger",
+   "kind": "opt",
+   "created_at": "2026-08-09 21:24:00"
+  },
+  {
+   "id": 267,
+   "text": "OPT (sw): SwTextIter::GetPrev_ (sw/source/core/text/itrtxt.cxx:79-90) walks the SwLineLayout list from the paragraph root on every call (while pLay->GetNext()!=m_pCurr ...). GetPrevLine (itrtxt.cxx:161-185) similarly re-walks from root; CharToLine (210-216) does repeated Prev/Next steps. Cursor/repaint walks that go backwards become O(lines^2) per paragraph. Fix: keep m_pPrev back-pointer on SwLineLayout or cache the previous line in the iterator instead of re-walking from GetParaPortion().",
+   "source": "inspector",
+   "agent": "debugger",
+   "kind": "opt",
+   "created_at": "2026-08-09 21:24:00"
+  },
+  {
+   "id": 268,
+   "text": "OPT (sc): ScColumn::GetOptimalColWidth (sc/source/core/data/column2.cxx:736-864) inner loop (lines 833-850) calls rDocument.GetScriptType(nCol,nRow,nTab) per non-empty cell. When the stored script type is UNKNOWN, ScDocument::GetScriptType (sc/source/core/data/documen6.cxx:132-152) resolves pattern + number format + formats the whole cell string (ScCellFormat::GetString) + i18n script scan (GetStringScriptType), then caches. For large sheets (100k numeric cells) the first optimal-width pass is one full string conversion per cell. Same pattern in GetOptimalHeight (column2.cxx:1030-1032 -> GetRangeScriptType -> UpdateScriptType column3.cxx:843-883). Fix: batch script-type resolution per span/block instead of per cell (script type is identical for consecutive same-format cells), or precompute in column4.cxx updateScriptType at set-time.",
+   "source": "inspector",
+   "agent": "debugger",
+   "kind": "opt",
+   "created_at": "2026-08-09 21:24:00"
+  },
+  {
+   "id": 269,
+   "text": "OPT (vcl): GenericSalLayout::LayoutText (vcl/source/gdi/CommonSalLayout.cxx:360-856) hot loop: (1) glyphs are iterated twice - fnHandleGlyph pass lines 673-686 (cluster out-of-order detection) then the main pass 691-840; (2) when SalLayoutFlags::UnclusteredGlyphs is set, HarfBuzz shapes the same text a SECOND time via stClusterMapper.ShapeSubRun (line 618 -> hb_shape_full at 207), doubling shaping cost per run (documented tdf#61444 workaround); (3) hb_language_from_string is called per sub-run (lines 589-599) re-converting the BCP47 language; (4) per-glyph rArgs.mrStr.iterateCodePoints(&o3tl::temporary(...),0) at line 783 is a full code-point decode call for a value that is usually a single BMP unit - direct pStr[nCharPos] access with a surrogate check would be cheaper. Fixes: merge the two glyph passes; cache hb_language_t per layout; fast-path BMP char lookup.",
+   "source": "inspector",
+   "agent": "debugger",
+   "kind": "opt",
+   "created_at": "2026-08-09 21:24:00"
+  },
+  {
+   "id": 270,
+   "text": "OPT (configmgr/startup): Components::initGlobalBroadcaster (configmgr/source/components.cxx:258-293) iterates ALL roots on every config-update broadcast and walks the full modification path per root with OUString map lookups (TODO at line 262 acknowledges 'iterate only over roots w/ listeners'); called from rootaccess.cxx:167 on commit() and update.cxx:109-141. During startup (extension sync, settings writes) this is repeated O(roots x path-len). Also configmgr startup parses all XCS/XCU layers strictly sequentially in Components ctor (components.cxx:488-...) - parseXcsXcuLayer etc. are single-threaded; layers are independent and could be parsed in parallel after the schema pass.",
+   "source": "inspector",
+   "agent": "debugger",
+   "kind": "opt",
+   "created_at": "2026-08-09 21:24:01"
+  },
+  {
+   "id": 271,
+   "text": "tdf#90152 (NEW, easyHack, sw): printed comments post-it header is hard to read and not locale-aware. Root cause: sw/source/core/doc/doc.cxx lcl_FormatPostIt() (lines 555-604). L562 hard-codes separator `static char const sTmp[] = \" : \";`; L578-595 builds one flat plain-text line `Page : <n> Line : <m> Author : <name> <date> [RESOLVED]` with fixed field order Page->Line->Author->Date and hard-coded single spaces; only the date is localized (L592 SvtSysLocale/GetLocaleData().getDate()). Labels come from localized resources STR_POSTIT_PAGE/LINE/AUTHOR (sw/inc/strings.hrc:777-779 -> shellres.hxx:30-32 -> initui.cxx:108-110) but surrounding punctuation/order is hard-coded in C++. Header+body inserted into temp post-it doc (created printdata.cxx:50-63 SwRenderData::CreatePostItData) via plain InsertString, no char formatting. Fix: use LocaleDataWrapper::getListSep() (already-included unotools/localedatawrapper.hxx:227) for group separators, and bold the labels via SvxWeightItem(WEIGHT_BOLD,RES_CHRATR_WEIGHT) + InsertPoolItem (empty-hint idiom, IDocumentContentOperations.hxx:228-230) before each label InsertString; optional localized template string in strings.hrc with %1-%4 placeholders so translators can reorder. No existing test asserts the current header (rg in sw/qa found none). Test pattern: sw/qa/extras/unowriter/unowriter.cxx testRenderablePagePosition (L934-973) uses XRenderable::getRendererCount with IsPrinter+RenderDevice; add PrintAnnotationMode=2 option to test post-it pages.",
+   "source": "inspector",
+   "agent": "inspector_a",
+   "kind": "bug",
+   "created_at": "2026-08-10 09:33:41"
+  },
+  {
+   "id": 272,
+   "text": "tdf#90152 READY-TO-APPLY PATCH (sw/source/core/doc/doc.cxx, lcl_FormatPostIt, ~lines 555-604). Goal: printed-comments header was a single plain-text line \"Page : <n> Line : <m> Author : <name> <date> [RESOLVED]\" with hard-coded \" : \" separators -> hard to read, not locale-aware. FIX: (1) print labels (STR_POSTIT_PAGE/LINE/AUTHOR) in bold via SvxWeightItem(WEIGHT_BOLD, RES_CHRATR_WEIGHT)+InsertPoolItem \"empty-hint\" idiom (InsertString default flag IS SwInsertFlags::EMPTYEXPAND, see IDocumentContentOperations.hxx:167, so an empty hint at the caret expands over the following inserted text; text inserted at the END of a non-empty hint stays normal); (2) separate fields with locale list separator LocaleDataWrapper::getListSep()+\" \" (unotools/localedatawrapper.hxx already included at doc.cxx:58; SvtSysLocale already used at line 589). APPLY:\n1) add include after line 54 (#include <editeng/udlnitem.hxx>): #include <editeng/wghtitem.hxx>\n2) replace lines 578-595 block:\nOUString aStr = SwViewShell::GetShellRes()->aPostItPage + sTmp + OUString::number( nPageNo ) + \" \";\nif( nLineNo ){ aStr += SwViewShell::GetShellRes()->aPostItLine + sTmp + OUString::number( nLineNo ) + \" \"; }\nSvtSysLocale aSysLocale;\naStr += SwViewShell::GetShellRes()->aPostItAuthor + sTmp + pField->GetPar1() + \" \" + /*(LocaleDataWrapper&)*/aSysLocale.GetLocaleData().getDate( pField->GetDate() );\nif(pField->GetResolved()) aStr += \" \" + SwResId(STR_RESOLVED);\npIDCO->InsertString( aPam, aStr );\nWITH:\nSvtSysLocale aSysLocale;\nconst OUString aListSep = aSysLocale.GetLocaleData().getListSep() + \" \";\nauto lcl_InsertBoldLabel = [pIDCO, &aPam]( const OUString& rLabel )\n{ pIDCO->InsertPoolItem( aPam, SvxWeightItem( WEIGHT_BOLD, RES_CHRATR_WEIGHT ) ); pIDCO->InsertString( aPam, rLabel ); };\nlcl_InsertBoldLabel( SwViewShell::GetShellRes()->aPostItPage );\npIDCO->InsertString( aPam, sTmp + OUString::number( nPageNo ) );\nif( nLineNo )\n{ pIDCO->InsertString( aPam, aListSep ); lcl_InsertBoldLabel( SwViewShell::GetShellRes()->aPostItLine ); pIDCO->InsertString( aPam, sTmp + OUString::number( nLineNo ) ); }\npIDCO->InsertString( aPam, aListSep );\nlcl_InsertBoldLabel( SwViewShell::GetShellRes()->aPostItAuthor );\npIDCO->InsertString( aPam, sTmp + pField->GetPar1() + \" \" + aSysLocale.GetLocaleData().getDate( pField->GetDate() ) );\nif(pField->GetResolved()) pIDCO->InsertString( aPam, \" \" + SwResId(STR_RESOLVED) );\nDo NOT touch the SplitNode + body (GetPar2) part after it. No existing test asserts old header (rg in sw/qa found none). STATIC-VERIFIED (V1) only: SvxWeightItem ctor (editeng/wghtitem.hxx:42), RES_CHRATR_WEIGHT (sw/inc/hintids.hxx:218), getListSep (unotools/localedatawrapper.hxx:227), InsertString default EMPTYEXPAND (IDocumentContentOperations.hxx:167), empty-hint expand logic (ndtxt.cxx:2556-2569). Was NOT applied/compiled/tested by fix_engineer (toolset lacked file-write tool); verification of applied change = V0. Commit msg: 'tdf#90152 make printed comments header locale-aware and readable'. Branch: writer/tdf-90152-postit-print-locale.",
+   "source": "fix_engineer:tdf-90152",
+   "agent": "inspector_b",
+   "kind": "code",
+   "created_at": "2026-08-10 10:01:57"
+  },
+  {
+   "id": 273,
+   "text": "tdf#90152 CONFIRMED by inspector (sw): root cause sw/source/core/doc/doc.cxx lcl_FormatPostIt() L555-604. Evidence: L562 hard-coded `static char const sTmp[] = \" : \";`; L578-595 builds ONE flat plain-text line \"Page : <n> Line : <m> Author : <name> <date> [RESOLVED]\" with fixed order and hard-coded single spaces; only date localized (L589-592 SvtSysLocale+getDate); L595 single InsertString (no char fmt). Labels aPostItPage/aPostItLine/aPostItAuthor ARE localized (strings.hrc:777-779 -> initui.cxx:108-110). Fix APIs verified: getListSep at include/unotools/localedatawrapper.hxx:227 (header already included doc.cxx:58); SvxWeightItem ctor include/editeng/wghtitem.hxx:42 (NOT yet included — add after doc.cxx:54); WEIGHT_BOLD include/tools/fontenum.hxx:115; RES_CHRATR_WEIGHT sw/inc/hintids.hxx:218; InsertPoolItem empty-hint idiom IDocumentContentOperations.hxx:228-237; InsertString default SwInsertFlags::EMPTYEXPAND IDocumentContentOperations.hxx:166-167; empty-hint expand over inserted text ndtxt.cxx:2556-2569 (hint start==insert pos -> expanded; text appended after hint end stays normal weight). Caller: doc.cxx:833 (lcl_FormatPostIt via SwRenderData::CreatePostItData printdata.cxx:50-63, temp SwDoc+SwViewShell). No test asserts header (rg sw/qa: only PrintAnnotationMode config items in .fodt data files). Recommend V1 (static) baseline; V2 via sw/qa/extras/unowriter/unowriter.cxx testRenderablePagePosition (L934-973) renderer-count pattern + PrintAnnotationMode=2.",
+   "source": "inspector",
+   "agent": "inspector_a",
+   "kind": "bug",
+   "created_at": "2026-08-10 10:12:35"
+  },
+  {
+   "id": 274,
+   "text": "tdf#90152 RE-VERIFIED by inspector (independent pass, matches memory 271-273). Root cause sw/source/core/doc/doc.cxx lcl_FormatPostIt() L555-604: L562 hard-coded `static char const sTmp[] = \" : \";`, L578-595 builds one flat plain-text line \"Page : <n> Line : <m> Author : <name> <date> [RESOLVED]\" fixed order + hard-coded spaces, single InsertString at L595 (no char fmt); only date localized (L589-592 SvtSysLocale/getDate). Labels localized: strings.hrc:777-779 STR_POSTIT_PAGE/LINE/AUTHOR -> initui.cxx:108-110. Caller chain confirmed: printdata.cxx:50-63 CreatePostItData (temp SwDoc+SwViewShell) -> doc.cxx:780 UpdatePagesForPrintingWithPostItData reads PrintAnnotationMode at :786 -> calls lcl_FormatPostIt at :833. Fix APIs independently re-verified: getListSep unotools/localedatawrapper.hxx:227 (incl. doc.cxx:58); SvxWeightItem ctor editeng/wghtitem.hxx:42-43 (NOT yet incl. in doc.cxx; add after :54); WEIGHT_BOLD tools/fontenum.hxx:115; RES_CHRATR_WEIGHT sw/inc/hintids.hxx:218 (hintids.hxx incl. doc.cxx:45); InsertPoolItem empty-hint IDocumentContentOperations.hxx:228-234; InsertString default EMPTYEXPAND :166-167; empty-hint expand ndtxt.cxx:2556-2569 (hint start==insert end -> hint start moved back nLen -> covers only inserted label text; later non-empty text after hint end stays normal). No test asserts header (sw/qa only .fodt PrintAnnotationMode config + unrelated PostIt field tests). V2 test base: unowriter.cxx:934-973 testRenderablePagePosition XRenderable::getRendererCount + IsPrinter/RenderDevice; PrintAnnotationMode read from SwPrintUIOptions doc.cxx:786 and from m_pPrintUIOptions unotxdoc.cxx:2816. Risks: en-US listSep=',' changes output to \"Page : 1, Line : 2, Author : ...\"; test must pin locale; optional full reordering would need template string with %1-%4 (Line field optional complicates it).",
+   "source": "inspector:tdf-90152-reverify",
+   "agent": "inspector_a",
+   "kind": "bug",
+   "created_at": "2026-08-10 10:49:31"
+  },
+  {
+   "id": 275,
+   "text": "tdf#90152 FIX IMPLEMENTED (fix_engineer, writer/tdf-90152-postit-print-locale, sw/source/core/doc/doc.cxx). CORRECTION to prior analysis (memory 272): the \"empty-hint\" idiom (InsertPoolItem(bold) then InsertString(label), then InsertString(value)) does NOT keep values normal — a char-attr hint ending at the insert position EXTENDS over newly inserted text (ndtxt.cxx Update() L1401-1458, DontExpand=false default; interactive typing only stops it via SwDoc::DontExpandFormat). So values/separators would become bold too. IMPLEMENTED instead: build whole header string once (labels + ' : ' + values + locale list separator), InsertString once, then bold ONLY the label ranges via selection: SwPaM aLabel(SwPosition(*pTextNode, nInsPos+off1), SwPosition(*pTextNode, nInsPos+off2)) + pIDCO->InsertPoolItem(aLabel, SvxWeightItem(WEIGHT_BOLD,RES_CHRATR_WEIGHT), SetAttrMode::DONTEXPAND). Pattern proven by doctxm.cxx:2154-2188 and lcl_InsAttr selection path DocumentContentOperationsManager.cxx:1853-1883 (history.InsertItems over range; word-boundary expansion only for empty selections L1745). nInsPos captured BEFORE InsertString (point moves after insert). Label ranges collected via local lambda during string build. Includes: added <editeng/wghtitem.hxx> after udlnitem.hxx (pulls tools/fontenum.hxx for WEIGHT_BOLD). Output en-US: 'Page : 1, Line : 2, Author : Name 01/02/2024' with labels bold. Verification: V1 static only (no build env); all APIs verified: SwPosition(SwContentNode&,sal_Int32) pam.hxx:47, SwPaM(SwPosition&,SwPosition&) pam.hxx:198, SwPosition::GetContentIndex pam.hxx:85, SwNode::GetTextNode node.hxx:179, SetAttrMode swtypes.hxx:134. Commit + push done on branch writer/tdf-90152-postit-print-locale. V2 test design: sw/qa/extras/unowriter/unowriter.cxx modeled on testRenderablePagePosition (renderer count with IsPrinter+RenderDevice) + PrintAnnotationMode=2 + pinned en-US locale; assert post-it pages rendered and header labels bold.",
+   "source": "fix_engineer:tdf-90152",
+   "agent": "inspector_b",
+   "kind": "code",
+   "created_at": "2026-08-10 11:05:31"
+  },
+  {
+   "id": 276,
+   "text": "VERIFIED (sw, opt-f1): Writer constant-string text measurement re-shapes per line. Chain confirmed: SwTextSizeInfo::GetTextSize(const OUString&) inftxt.hxx:805-808 -> inftxt.cxx:415-428 builds SwDrawTextInfo with pSI=nullptr, layoutContext=nullopt, and NO SetVclCache -> SwSubFont::GetTextSize_ swfont.cxx:1022/1055 -> SwFntObj::GetTextSize fntcache.cxx:1737/1843 -> GetTextArray fntcache.cxx:861->795->818 calls SalLayoutGlyphsCache::GetLayoutGlyphs(&rDevice, rStr, nIndex, nLen, 0, layoutCache=nullptr). On glyph-cache miss, impglyphitem.cxx:444-452 runs TextLayoutCache::Create + full HarfBuzz ImplLayout shaping of the constant string. TextLayoutCache::Create IS globally memoized (LRU, vcl/source/text/TextLayoutCache.cxx:80-93), so the real per-call cost is glyph-cache miss -> HarfBuzz shape; glyph key impglyphitem.cxx:512-564 includes fontMetric/scale/mapMode/layoutMode/digitLanguage/rtl -> any font change = new entry, and bounded LRU (officecfg GlyphsCacheSize) evicts. Call sites (per line / per tab paint): frmform.cxx:1695 GetTextSize(\\\"          \\\"), :1716 sLastWord, :1725 GetTextSize(\\\"-\\\") in ParagraphComposer (called per line frmform.cxx:2011-2012); portxt.cxx:1100 FormatEOL blank width per line end; porfly.cxx:93 trailing blank; txthyph.cxx:422 soft-hyphen '-'; txttab.cxx:631/648 tab paint ' '/fill; porfld.cxx:132, portox.cxx:54, porrst.cxx:1037, porref.cxx:52, portxt.cxx:1315 view widths. All callers use .Width() only. Space/hyphen/fill width is constant per (physical font, output device); these calls also bypass paragraph layout context (itrform2.cxx:1578-1584) and paragraph TextLayoutCache (inftxt.cxx:1807). FIX (module sw, minimal): memoize in SwTextSizeInfo keyed by m_pOut->GetFontInstance() (+mapmode hash); add mutable members in inftxt.hxx ~line 175 + fwd-decl LogicalFontInstance (include/vcl/outdev.hxx:67,1240); ensure current font via m_pFnt->ChgPhysFnt(m_pVsh,*m_pOut) (idempotent, cf. SelectFont inftxt.cxx:397-403) before key check; special-case length-1 ' ' and '-'. Alternative (more durable): cache blank width in SwFntObj (fntcache.hxx:60-80) like m_nScrAscent/m_nPrtAscent. Do NOT touch frmform.cxx:1695 10-space string (code assumes /10.0). Verification V0 build + V1 existing sw layout suites (layoutwriter/core_layout) unchanged; V2 optional layout test para-composer; V3 manual scroll/repaint.",
+   "source": "inspector:opt-f1-space-memoize",
+   "agent": "inspector_a",
+   "kind": "opt",
+   "created_at": "2026-08-11 06:13:43"
+  },
+  {
+   "id": 277,
+   "text": "IMPLEMENTED (sw, opt-f1, branch writer/opt-f1-const-text-memoize): Memoize constant-string text measurement in SwTextSizeInfo::GetTextSize(OutputDevice*, pSI=nullptr, ...) (inftxt.cxx:415). Added 1-entry mutable cache keyed by: m_pFnt->GetFntCacheId()/GetFntIndex() (new accessors in swfont.hxx — SwFont returns m_aSub[m_nActual].m_nFontCacheId/m_nFontIndex; every SwSubFont attr setter resets id to nullptr so attr changes always MISS), pOutDev, pOut mapmode, m_pRef mapmode, layout mode (as sal_uInt8), IsRTLEnabled(), SnapToGrid() (ruby portions toggle it via pormulti.cxx), and the OUString. Gate: bMemoizable = pSI==nullptr && full-string measurement (only path is the inline GetTextSize(const OUString&) used by all 13 const-string call sites). Store key+SwPositiveSize AFTER measurement (id then resolved). Cache is per-info (fresh per format/paint op) -> zoom/printer/layout-mode constancy per lifetime; font-cache eviction harmless (result depends on font attrs, which are in the id, not the SwFntObj instance). Avoids SalLayoutGlyphsCache::GetLayoutGlyphs + HarfBuzz re-shape of \" \", \"-\", \"          \", fill char per line/tab/paint. Files: sw/source/core/inc/swfont.hxx, sw/source/core/text/inftxt.hxx (+#include <vcl/mapmod.hxx>), sw/source/core/text/inftxt.cxx.",
+   "source": "writer:opt-f1-const-text-memoize",
+   "agent": "inspector_b",
+   "kind": "opt",
+   "created_at": "2026-08-11 06:36:09"
+  }
+ ],
+ "facts": [
+  {
+   "agent": "inspector_b",
+   "key": "tdf90152_branch",
+   "value": "writer/tdf-90152-postit-print-locale (empty branch, created on lo-writer master 88771d0a6; patch for sw/source/core/doc/doc.cxx lcl_FormatPostIt is in knowledge#272 and findings/2026-08-10-...; needs a writer with file-write access to apply, commit 'tdf#90152 make printed comments header locale-aware and readable', push)",
+   "updated_at": "2026-08-10 10:02:47"
+  },
+  {
+   "agent": "indexer",
+   "key": "cluster_focus",
+   "value": "sw (Writer); cross into core/editeng/vcl when required",
+   "updated_at": "2026-08-10 08:27:02"
+  },
+  {
+   "agent": "indexer",
+   "key": "work_repo",
+   "value": "/home/agent/workspace/lo-writer (writable, origin=yolka-wiz/libreoffice-work)",
+   "updated_at": "2026-08-10 08:27:02"
+  },
+  {
+   "agent": "indexer",
+   "key": "last_maintenance",
+   "value": "2026-08-10T08:27",
+   "updated_at": "2026-08-10 08:27:02"
+  },
+  {
+   "agent": "debugger",
+   "key": "repo.git_is_shallow",
+   "value": "true: depth-1, single commit 88771d0a64e06297b7f82d6cc00cdf0d60c199cc (import snapshot of entire tree)",
+   "updated_at": "2026-08-09 16:22:27"
+  },
+  {
+   "agent": "indexer",
+   "key": "last_seed",
+   "value": "2026-08-08 17:22:10",
+   "updated_at": "2026-08-08 17:22:10"
+  },
+  {
+   "agent": "indexer",
+   "key": "seed_scope",
+   "value": "all",
+   "updated_at": "2026-08-08 17:22:10"
+  },
+  {
+   "agent": "indexer",
+   "key": "modules_seeded",
+   "value": "129",
+   "updated_at": "2026-08-08 17:21:54"
+  },
+  {
+   "agent": "selftest",
+   "key": "repo",
+   "value": "/home/agent/workspace/playground",
+   "updated_at": "2026-08-08 16:08:29"
+  }
+ ],
+ "recent_runs": [
+  {
+   "id": 8,
+   "agent": "debugger",
+   "task": "Analyze the LibreOffice codebase for optimization targets. Look at: (1) rendering pipeline vcl/skia and vcl/source/gdi (CommonSalLayout), (2) Writer text layout sw/source/core/text (itrtxt.cxx, itrpai",
+   "summary": "Now let me check the callers of `IsKashidaPosValid` and look at the Writer text layout files.Now let me examine the Calc data structures.Now let me look at the startup path — desktop/source/app and configmgr.I now have solid evidence across all four areas. Let me verify a couple of final line numbers before recording findings.All evidence is verified. Let me record the findings in shared memory, then publish.Done. I analyzed all four requested areas against the actual code and published a report",
+   "status": "ok",
+   "created_at": "2026-08-09 21:24:51"
+  },
+  {
+   "id": 7,
+   "agent": "inspector_b",
+   "task": "publish: Where is ScDocShell defined",
+   "summary": "`ScDocShell` is the document shell class for **Calc (the `sc` module)** in LibreOffice.\n\n## Definition\n\n**Class declaration:** `sc/source/ui/inc/docsh.hxx` (line 79)\n\n```cpp\nclass SAL_DLLPUBLIC_RTTI ScDocShell final: public SfxObjectShell, public SfxListener\n```\n\nIt's a 544-line header that:\n- Inher",
+   "status": "ok",
+   "created_at": "2026-08-08 17:40:46"
+  },
+  {
+   "id": 6,
+   "agent": "indexer",
+   "task": "seed_memory(all)",
+   "summary": "{'modules': 129, 'docs': 1, 'symbols': 127, 'index_meta': 2118}",
+   "status": "ok",
+   "created_at": "2026-08-08 17:22:10"
+  },
+  {
+   "id": 5,
+   "agent": "indexer",
+   "task": "build_agent_files",
+   "summary": "129 modules",
+   "status": "ok",
+   "created_at": "2026-08-08 16:27:25"
+  },
+  {
+   "id": 4,
+   "agent": "indexer",
+   "task": "build_agent_files",
+   "summary": "129 modules",
+   "status": "ok",
+   "created_at": "2026-08-08 16:26:38"
+  },
+  {
+   "id": 3,
+   "agent": "indexer",
+   "task": "build_agent_files",
+   "summary": "129 modules",
+   "status": "ok",
+   "created_at": "2026-08-08 16:24:32"
+  },
+  {
+   "id": 2,
+   "agent": "indexer",
+   "task": "seed_memory(symbols)",
+   "summary": "{'symbols': 127, 'index_meta': 2118}",
+   "status": "ok",
+   "created_at": "2026-08-08 16:24:31"
+  },
+  {
+   "id": 1,
+   "agent": "indexer",
+   "task": "seed_memory(all)",
+   "summary": "{'modules': 129, 'docs': 1, 'symbols': 1, 'index_meta': 2118}",
+   "status": "ok",
+   "created_at": "2026-08-08 16:21:14"
+  }
+ ]
+}
